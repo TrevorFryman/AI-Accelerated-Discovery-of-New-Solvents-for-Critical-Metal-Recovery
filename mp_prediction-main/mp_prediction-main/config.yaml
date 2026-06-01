@@ -1,0 +1,113 @@
+# DES melting point prediction config
+# Run: python pipeline.py --config config.yaml
+#
+# This config includes best hyperparameters for each embedding method.
+# To switch methods WITHOUT touching pipeline code, change the single merge line:
+#   <<: *chemberta_profile   (or *morgan_profile / *gnn_profile)
+seed: 42
+device: cuda
+output_dir: runs_des
+data:
+  path: Melting_temperature_appended_35il.csv
+
+profiles:
+  chemberta: &chemberta_profile
+    embedding:
+      method: chemberta
+      model_name: DeepChem/ChemBERTa-77M-MTR
+      pooling: cls
+      max_length: 128
+      batch_size: 32
+    physics_learning:
+      epochs: 1500
+      lr: 0.0049
+      weight_decay: 9.946e-05
+      clip_grad_norm: 1.0
+      anchor_w_lambda: 1.0e-10
+      device: cuda
+      verbose_every: 100
+      show_progress: false
+      mlp_width: 256
+      mlp_depth: 2
+      dropout: 0.229
+    xgboost:
+      n_estimators: 1200
+      max_depth: 6
+      learning_rate: 0.0174
+      subsample: 0.834
+      colsample_bytree: 0.752
+      reg_lambda: 7.182
+      reg_alpha: 0.00048
+      min_child_weight: 0.7119
+      gamma: 2.62e-05
+      tree_method: hist
+      n_jobs: -1
+  morgan: &morgan_profile
+    embedding:
+      method: morgan
+      radius: 4
+      n_bits: 1024
+      use_counts: false
+      use_chirality: false
+    physics_learning:
+      epochs: 1500
+      lr: 0.0029
+      weight_decay: 0.000279
+      clip_grad_norm: 1.0
+      anchor_w_lambda: 1.0e-10
+      device: cuda
+      verbose_every: 100
+      show_progress: false
+      mlp_width: 256
+      mlp_depth: 3
+      dropout: 0.2439
+    xgboost:
+      n_estimators: 600
+      max_depth: 8
+      learning_rate: 0.01648
+      subsample: 0.7155
+      colsample_bytree: 0.6748
+      reg_lambda: 13.0
+      reg_alpha: 0.034
+      min_child_weight: 6.24
+      gamma: 2.658
+      tree_method: hist
+      n_jobs: -1
+  gnn: &gnn_profile
+    embedding:
+      method: gnn
+      gnn_hidden_dim: 96
+      gnn_out_dim: 384
+      gnn_layers: 3
+      gnn_dropout: 0.217
+    physics_learning:
+      epochs: 1500
+      lr: 0.00448
+      weight_decay: 1.008e-05
+      clip_grad_norm: 1.0
+      anchor_w_lambda: 1.0e-10
+      device: cuda
+      verbose_every: 100
+      show_progress: false
+      mlp_width: 96
+      mlp_depth: 2
+      dropout: 0.323
+    xgboost:
+      n_estimators: 600
+      max_depth: 8
+      learning_rate: 0.0165
+      subsample: 0.7155
+      colsample_bytree: 0.675
+      reg_lambda: 13.02
+      reg_alpha: 0.034
+      min_child_weight: 6.24
+      gamma: 2.66
+      tree_method: hist
+      n_jobs: -1
+
+# Active profile (choose ONE):
+<<: *chemberta_profile
+
+split:
+  test_size: 0.2
+  runs: 10
