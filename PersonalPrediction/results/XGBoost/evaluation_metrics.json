@@ -1,0 +1,13 @@
+{
+    "best_hyperparameters": {
+        "learning_rate": 0.1,
+        "max_depth": 8,
+        "n_estimators": 200
+    },
+    "cv_best_rmse": 19.396638172261262,
+    "test_metrics": {
+        "MAE": 11.22837101965757,
+        "RMSE": 17.532888794193887,
+        "R2": 0.950981703525182
+    }
+}
