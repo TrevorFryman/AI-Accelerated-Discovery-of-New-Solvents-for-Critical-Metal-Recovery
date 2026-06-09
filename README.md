@@ -1,8 +1,8 @@
 # AI Accelerated Discovery of New Solvents for Critical Metal Recovery
 
-This repository is for my summer of 2026 REU program at the University of Kentucky. 
+This repository is for my summer of 2026 REU program at the University of Kentucky. The overall goal is to develop machine learning models to predict solvent properties and guide the selection of deep eutectic solvents for critical metal recovery. The project follows this simple process: 
 
-The overall goal is to develop machine learning models to predict solvent properties and guide the selection of deep eutectic solvents for critical metal recovery. The project follows this simple process: ML models —> Solvent screening —> Experimental validation.
+ML Models —> Solvent Screening —> Experimental Validation
 
 **File Organization:**
 
