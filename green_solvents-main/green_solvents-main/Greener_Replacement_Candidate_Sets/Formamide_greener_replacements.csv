@@ -1,0 +1,4 @@
+Name,solvent_SMILES,CAS,G-score prediction,G-score prediction uncertainty,Relative Energy Difference (RED),Source
+Formamide,[H]C(N)=O,75-12-7,5.591,0.7343,0,high-fidelity RED
+Tetraglycine,O=C(NCC(=O)O)CNC(=O)CNC(=O)CN,637-84-3,6.816,1.035,0.9463746615373844,low-fidelity RED
+Glycerol Carbonate,O=C1OCC(O1)CO,931-40-8,8.941,1.045,0.5595757321399848,high-fidelity RED

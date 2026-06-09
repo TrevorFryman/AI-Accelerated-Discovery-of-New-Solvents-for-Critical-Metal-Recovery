@@ -1,0 +1,746 @@
+Name,solvent_SMILES,CAS,G-score prediction,G-score prediction uncertainty,Relative Energy Difference (RED),Source
+2-Methylpentane,CC(C)CCC,107-83-5,4.91,0.6841,0,low-fidelity RED
+"1,Cis-2,Trans-3-Trimethylcyclohexane",[C@H]1([C@@H](C)CCC[C@@H]1C)C,7667-55-2,5.209,0.9135,0.6000000000000005,low-fidelity RED
+Methane (Liquid B.P.),[H]C([H])([H])[H],74-82-8,5.045,0.6277,0.30207614933986415,high-fidelity RED
+Hexamethyldisilazane,[Si](C)(C)(C)N[Si](C)(C)C,999-97-3,5.387,0.7918,0.9813893213195258,low-fidelity RED
+Decamethylcyclopentasiloxane,[Si]1(C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](O1)(C)C,541-02-6,5.413,0.7408,0.9290452088031019,high-fidelity RED
+"2-Bromo-2,3-Dimethylbutane",BrC(C)(C)C(C)C,594-52-5,5.35,0.9611,0.8280247580839597,low-fidelity RED
+2-Bromo-2-Methylpentane,BrC(C)(C)CCC,4283-80-1,4.993,0.9104,0.9750000000000002,low-fidelity RED
+"2-Bromo-3,3-Dimethylbutane",BrC(C)C(C)(C)C,26356-06-9,5.335,0.8043,0.954594154601839,low-fidelity RED
+1-Bromoeicosane,BrCCCCCCCCCCCCCCCCCCCC,4276-49-7,4.981,0.8518,0.9804335775563787,low-fidelity RED
+1-Bromoheneicosane,BrCCCCCCCCCCCCCCCCCCCCC,4276-50-0,4.981,0.8518,0.9804335775563787,low-fidelity RED
+1-Bromodocosane,BrCCCCCCCCCCCCCCCCCCCCCC,6938-66-5,4.981,0.8518,0.9804335775563787,low-fidelity RED
+1-Bromotricosane,BrCCCCCCCCCCCCCCCCCCCCCCC,62108-44-5,4.981,0.8518,0.9902651160169178,low-fidelity RED
+1-Bromotetracosane,BrCCCCCCCCCCCCCCCCCCCCCCCC,6946-24-3,4.981,0.8518,0.9414085191881363,low-fidelity RED
+1-Bromopentacosane,BrCCCCCCCCCCCCCCCCCCCCCCCCC,62108-45-6,4.981,0.8518,0.9516433155337138,low-fidelity RED
+1-Bromohexacosane,BrCCCCCCCCCCCCCCCCCCCCCCCCCC,4276-51-1,4.981,0.8518,0.9100137361600655,low-fidelity RED
+1-Bromoheptacosane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-46-7,4.981,0.8518,0.908639092269313,low-fidelity RED
+1-Bromooctacosane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCC,16331-21-8,4.981,0.8518,0.8721381771256211,low-fidelity RED
+1-Bromononacosane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-47-8,4.981,0.8518,0.8824681297361403,low-fidelity RED
+1-Bromotriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,4209-22-7,4.981,0.8518,0.8721381771256211,low-fidelity RED
+1-Bromohentriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-48-9,4.981,0.8518,0.8803408430829511,low-fidelity RED
+1-Bromodotriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,7596-92-1,4.981,0.8518,0.8477912478906593,low-fidelity RED
+1-Bromotritriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-49-0,4.981,0.8518,0.8576858399204229,low-fidelity RED
+1-Bromotetratriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-50-3,4.981,0.8518,0.8038967595406765,low-fidelity RED
+1-Bromopentatriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-51-4,4.981,0.8518,0.8192984804086971,low-fidelity RED
+1-Bromohexatriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,7461-19-0,4.981,0.8518,0.7874007874011812,low-fidelity RED
+1-Bromoheptatriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-52-5,4.981,0.8518,0.8415016339853425,low-fidelity RED
+1-Bromooctatriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-53-6,4.981,0.8518,0.7972609359550988,low-fidelity RED
+1-Bromononatriacontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-54-7,4.981,0.8518,0.7941190087134297,low-fidelity RED
+1-Bromotetracontane,BrCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,62108-55-8,4.981,0.8518,0.7721722605740251,low-fidelity RED
+"1,Trans-2,Cis-4-Trimethylcyclopentane",C([C@@H](C1)C)[C@@H](C)[C@@H]1C,16883-48-0,5.106,0.8901,0.4500000000000002,low-fidelity RED
+"1,Cis-2,Cis-4-Trimethylcyclopentane",C([C@@H](C1)C)[C@@H](C)[C@H]1C,2613-72-1,5.106,0.8901,0.4500000000000002,low-fidelity RED
+"1,Trans-3-Dimethylcyclobutane",C([C@@H](C1)C)[C@@H]1C,10/9/98 0:00,5.157,0.7782,0.5,low-fidelity RED
+"1,Trans-2,Cis-3,Trans-4-Tetramethylcyclopentane",C([C@H](C)[C@H]1C)[C@H](C)[C@H]1C,2532-67-4,5.627,0.864,0.35000000000000053,low-fidelity RED
+"1,1,Cis-3,Cis-4-Tetramethylcyclopentane",C([C@H](C)[C@H]1C)C(C1)(C)C,20309-77-7,5.562,1.023,0.4500000000000002,low-fidelity RED
+"1,Cis-3-Dimethylcyclobutane",C([C@H](C1)C)[C@@H]1C,9/6/98 0:00,5.157,0.7782,0.5,low-fidelity RED
+"1,Trans-2-Dimethylcyclopropane",C([C@H]1C)[C@H]1C,6/4/02 0:00,5.445,0.801,0.35000000000000053,low-fidelity RED
+1-Methyl-Trans-2-Ethylcyclopropane,C([C@H]1C)[C@H]1CC,19781-69-2,5.548,0.8909,0.4500000000000002,low-fidelity RED
+6-Methyl-Trans-3-Heptene,C(/CC(C)C)=C/CC,66225-20-5,5.305,1.005,0.8276472678623424,low-fidelity RED
+2-Methyl-Trans-3-Heptene,C(/CCC)=C/C(C)C,692-96-6,5.666,0.9605,0.8015609770940698,low-fidelity RED
+"2,2,4,4,6,6 Pentamethyl-3-Heptene",C(=C(/CC(C)(C)C)C)\C(C)(C)C,123-48-8,5.967,0.9801,0.2828427124746191,low-fidelity RED
+"3,4,4-Trimethyl-Trans-2-Pentene",C(=C(C)C(C)(C)C)C,39761-57-4,5.691,0.7828,0.5226136240091718,low-fidelity RED
+"Hexafluoro-1,3-Butadiene",C(=C(F)F)(C(=C(F)F)F)F,685-63-2,5.35,0.8423,0.4015594601052247,high-fidelity RED
+Perfluoro Ethylene (Tetrafluoro Ethylene,C(=C(F)F)(F)F,116-14-3,5.632,0.7824,0.25248762345905196,high-fidelity RED
+2-Butyl-1-Decene,C(=C)(\CCCCCCCC)CCCC,51655-65-3,6.202,0.9313,0.6712860791048781,low-fidelity RED
+"2,4,6 Trimethyl-3-Heptene",C(=C/C(C)CC(C)C)(\C)C,126690-66-2,6.365,0.8503,0.6937218462755804,low-fidelity RED
+Trans-4-Undecene,C(=C/CCC)/CCCCCC,693-62-9,5.508,0.8479,0.9772410142846037,low-fidelity RED
+Trans-2-Pentadecene,C(=C/CCCCCCCCCCCC)\C,74392-36-2,5.821,0.9439,0.9222933372848365,low-fidelity RED
+Trans-2-Eicosene,C(=C/CCCCCCCCCCCCCCCCC)\C,42448-85-1,5.821,0.9439,0.8796306042879598,low-fidelity RED
+Cis-5-Undecene,C(=CCCCCC)CCCC,764-96-5,5.459,0.9158,0.9246621004453471,low-fidelity RED
+Cis-4-Undecene,C(=CCCCCCC)CCC,821-98-7,5.508,0.8479,0.9772410142846037,low-fidelity RED
+"2,2,4,4,6,8,8-Heptamethylnonane",C(C)(C)(C)CC(C)(C)CC(CC(C)(C)C)C,4/9/90 0:00,5.735,0.8175,0.10000000000000053,low-fidelity RED
+"2,2,5,5-Tetramethyl-3-Hexanol",C(C)(C)(CC(O)C(C)(C)C)C,55073-86-4,6.665,0.8993,0.5852349955359812,low-fidelity RED
+Triisopropyl Borate,C(C)(C)OB(OC(C)C)OC(C)C,5419-55-6,5.323,0.8405,0.4911720676097126,low-fidelity RED
+Diisopentylamine,C(C)(CCNCCC(C)C)C,544-00-3,5.376,0.9226,0.9953014618697192,low-fidelity RED
+"3,6-Diethyloctane",C(C)C(CC)CCC(CC)CC,62183-94-2,5.921,0.8206,0.4500000000000002,low-fidelity RED
+"4,5-Diethyloctane",C(C)C(CCC)C(CCC)CC,1636-41-5,5.232,0.7853,0.40000000000000036,low-fidelity RED
+"1,Trans-2,Cis-4-Trimethylcyclohexane",C(C[C@@H](C)[C@@H]1C)[C@@H](C1)C,7667-59-6,5.054,0.9781,0.6000000000000005,low-fidelity RED
+"Trans-1,3-Dimethylcyclohexane",C(C[C@@H](C1)C)C[C@@H]1C,3/6/07 0:00,5.236,0.9151,0.7000000000000002,low-fidelity RED
+1-Methyl-Trans-4-Ethylcyclohexane,C(C[C@@H](C1)CC)[C@@H](C1)C,6236-88-0,5.054,0.9401,0.7999999999999998,low-fidelity RED
+1-Methyl-Cis-4-Ethylcyclohexane,C(C[C@@H](C1)CC)[C@H](C1)C,4926-78-7,5.054,0.9401,0.7999999999999998,low-fidelity RED
+"1,Cis-2,Trans-3-Trimethylcyclopentane",C(C[C@@H]1C)[C@H](C)[C@@H]1C,15890-40-1,5.197,0.8479,0.5,low-fidelity RED
+1-Methyl-Cis-2-Propylcyclopentane,C(C[C@@H]1C)C[C@H]1CCC,932-43-4,5.47,1.156,0.7000000000000002,low-fidelity RED
+"1,Cis-2,Trans-4-Trimethylcyclohexane",C(C[C@H](C)[C@@H]1C)[C@@H](C1)C,7667-58-5,5.054,0.9781,0.6000000000000005,low-fidelity RED
+"1,Cis-2,Cis-4-Trimethylcyclohexane",C(C[C@H](C)[C@@H]1C)[C@H](C1)C,1678-80-4,5.054,0.9781,0.6000000000000005,low-fidelity RED
+"1,Cis-2,Cis-3-Trimethylcyclohexane",C(C[C@H](C)[C@@H]1C)C[C@H]1C,1839-88-9,5.209,0.9135,0.6000000000000005,low-fidelity RED
+"1,Trans-2,Cis-3-Trimethylcyclohexane",C(C[C@H](C)[C@H]1C)C[C@H]1C,1678-81-5,5.209,0.9135,0.6000000000000005,low-fidelity RED
+1-Methyl-Cis-3-Ethylcyclohexane,C(C[C@H](C1)C)C[C@@H]1CC,19489-10-2,5.485,0.9924,0.7000000000000002,low-fidelity RED
+1-Methyl-Trans-3-Ethylcyclohexane,C(C[C@H](C1)C)C[C@H]1CC,4926-76-5,5.485,0.9924,0.7000000000000002,low-fidelity RED
+"1,Cis-2-Dimethylcyclobutane",C(C[C@H]1C)[C@@H]1C,15679-01-3,5.341,0.7999,0.5499999999999998,low-fidelity RED
+"1,Trans-2,Cis-3-Trimethylcyclopentane",C(C[C@H]1C)[C@H](C)[C@H]1C,19374-46-0,5.197,0.8479,0.5,low-fidelity RED
+"1,Trans-2-Dimethylcyclobutane",C(C[C@H]1C)[C@H]1C,15679-02-4,5.341,0.7999,0.5499999999999998,low-fidelity RED
+1-Methyl-Cis-3-Ethylcyclopentane,C(C[C@H]1CC)[C@@H](C1)C,2613-66-3,5.478,0.9921,0.6500000000000004,low-fidelity RED
+1-Methyl-Trans-3-Ethylcyclopentane,C(C[C@H]1CC)[C@H](C1)C,2613-65-2,5.478,0.9921,0.6500000000000004,low-fidelity RED
+"1,Cis-2-Diethylcyclopentane",C(C[C@H]1CC)C[C@@H]1CC,932-39-8,5.442,0.8177,0.6500000000000004,low-fidelity RED
+"1,Trans-2-Diethylcyclopentane",C(C[C@H]1CC)C[C@H]1CC,932-40-1,5.442,0.8177,0.6500000000000004,low-fidelity RED
+1-Methyl-Cis-3-Propylcyclopentane,C(C[C@H]1CCC)[C@@H](C1)C,4/1/43 0:00,5.546,1.101,0.7000000000000002,low-fidelity RED
+1-Methyl-Trans-3-Propylcyclopentane,C(C[C@H]1CCC)[C@H](C1)C,2443-03-0,5.546,1.101,0.7000000000000002,low-fidelity RED
+1-Methyl-1-Ethylcyclopropane,C(C1)C1(C)CC,53778-43-1,5.52,1.026,0.7000000000000002,low-fidelity RED
+Methylcyclopropane,C(C1)C1C,594-11-6,4.913,0.8128,0.4500000000000002,low-fidelity RED
+"1,4 Diisopropyl Cyclohexane",C(C1CCC(C(C)C)CC1)(C)C,22907-72-8,5.69,0.9218,0.7500000000000009,low-fidelity RED
+"1,1,4-Trimethylcyclohexane",C(CC(C1)(C)C)C(C1)C,7094-27-1,5.29,0.9534,0.7000000000000002,low-fidelity RED
+"2,6,10-Trimethyl Dodecane",C(CC(CCCC(CC)C)C)CC(C)C,3891-98-3,5.701,0.9358,0.5,low-fidelity RED
+3-Hexadecyne,C(CC)#CCCCCCCCCCCCC,61886-62-2,5.224,0.8467,0.9354143466934856,low-fidelity RED
+3-Eicosyne,C(CC)#CCCCCCCCCCCCCCCCC,61886-66-6,5.224,0.8467,0.8735702604828077,low-fidelity RED
+"Cis-1,2-Dimethylcyclohexane",C(CC[C@H]1C)C[C@@H]1C,1/4/07 0:00,5.438,0.7864,0.7000000000000002,low-fidelity RED
+1-Methyl-Cis-2-Ethylcyclohexane,C(CC[C@H]1CC)C[C@@H]1C,4923-77-7,5.643,0.9361,0.6500000000000004,low-fidelity RED
+1-Methyl-Trans-2-Ethylcyclohexane,C(CC[C@H]1CC)C[C@H]1C,4923-78-8,5.643,0.9361,0.6500000000000004,low-fidelity RED
+"1,1,3,3-Tetramethylcyclopentane",C(CC1(C)C)C(C1)(C)C,50876-33-0,5.029,0.8602,0.5,low-fidelity RED
+1-Methyl-1-Propylcyclopentane,C(CC1)CC1(C)CCC,16631-63-3,5.299,1.019,0.7999999999999998,low-fidelity RED
+"1,1-Diethylcyclopentane",C(CC1)CC1(CC)CC,2721-38-2,5.546,0.9913,0.7500000000000009,low-fidelity RED
+Tert-Butylcyclopentane,C(CC1)CC1C(C)(C)C,3875-52-3,5.513,0.8943,0.4500000000000002,low-fidelity RED
+sec-Butylcyclopentane,C(CC1)CC1C(C)CC,4850-32-2,5.886,0.9974,0.7000000000000002,low-fidelity RED
+Heptylcyclopentane,C(CC1)CC1CCCCCCC,5617-42-5,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Octylcyclopentane,C(CC1)CC1CCCCCCCC,1795-20-6,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Nonylcyclopentane,C(CC1)CC1CCCCCCCCC,2882-98-6,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Undecylcyclopentane,C(CC1)CC1CCCCCCCCCCC,6785-23-5,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Dodecylcyclopentane,C(CC1)CC1CCCCCCCCCCCC,5634-30-0,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Tridecylcyclopentane,C(CC1)CC1CCCCCCCCCCCCC,6006-34-4,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Tetradecylcyclopentane,C(CC1)CC1CCCCCCCCCCCCCC,1795-22-8,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Hexadecylcyclopentane,C(CC1)CC1CCCCCCCCCCCCCCCC,6812-39-1,5.315,0.8668,0.7500000000000009,low-fidelity RED
+"1,1-Dimethyl-2-Ethylcyclopentane",C(CC1CC)CC1(C)C,54549-80-3,5.24,1.066,0.5499999999999998,low-fidelity RED
+"2,6-Dimethyl Undecane",C(CCC(CCCC(C)C)C)CC,17301-23-4,5.7,0.7968,0.5,low-fidelity RED
+Hexadecylcyclohexane,C(CCC1CCCCCCCCCCCCCCCC)CC1,6812-38-0,5.517,0.8841,0.7500000000000009,low-fidelity RED
+Eicosylcyclopentane,C(CCCC1CCCC1)CCCCCCCCCCCCCCCC,22331-38-0,5.315,0.8668,0.7000000000000002,low-fidelity RED
+2-Methyl Undecane,C(CCCCCCCC(C)C)C,7045-71-8,5.467,0.7608,0.5,low-fidelity RED
+Tritriacontane,C(CCCCCCCCCCCCCCCCCCCCCC)CCCCCCCCCC,630-05-7,5.42,0.6577,0.6500000000000004,low-fidelity RED
+n-Tetrahexacontane,C(CCCCCCCCCCCCCCCCCCCCCC)CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\C,7719-87-1,5.42,0.6577,0.7999999999999998,low-fidelity RED
+"2,4,4-Trimethyl-1-Pentene",C[C](C)(C)CC(C)=C,107-39-1,5.874,0.8598,0.41306779104645763,low-fidelity RED
+"1,Cis-2,Cis-3-Trimethylcyclopropane",C[C@@H]([C@H]1C)[C@@H]1C,4806-58-0,5.27,0.7328,0.20000000000000018,low-fidelity RED
+Bigarade Oxide,C[C@@H]1C[C@H]2CC(CO[C@@H]2C[C@@H]1C)(C)C,72429-08-4,5.557,1.191,0.8634958019585276,low-fidelity RED
+β-Gurjunene,C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)[C@H]3[C@@H]1CCC3=C,73464-47-8,6.184,1.251,0.8874119674649429,low-fidelity RED
+"1,Cis-2,Trans-3-Trimethylcyclopropane",C[C@H]([C@H]1C)[C@@H]1C,4806-59-1,5.27,0.7328,0.20000000000000018,low-fidelity RED
+"Trans-1,2-Dimethylcyclohexane",C[C@H](CCCC1)[C@@H]1C,6876-23-9,5.438,0.7864,0.7000000000000002,low-fidelity RED
+"1,Cis-2,Cis-3-Trimethylcyclopentane",C[C@H]1[C@@H](C)[C@@H](C)CC1,2613-69-6,5.197,0.8479,0.5,low-fidelity RED
+"1,Cis-2-Dimethylcyclopropane",C[C@H]1[C@@H](C)C1,930-18-7,5.445,0.801,0.35000000000000053,low-fidelity RED
+"Cis-1,2-Dimethylcyclohexane",C[C@H]1[C@@H](C)CCCC1,1/4/07 0:00,5.438,0.7864,0.7000000000000002,low-fidelity RED
+1-Methyl-Cis-2-Ethylcyclopropane,C[C@H]1[C@@H](CC)C1,19781-68-1,5.548,0.8909,0.4500000000000002,low-fidelity RED
+"1,Cis-2,Trans-4-Trimethylcyclopentane",C[C@H]1[C@H](C)C[C@@H](C)C1,4850-28-6,5.106,0.8901,0.4500000000000002,low-fidelity RED
+"Trans-1,2-Dimethylcyclopropane",C[C@H]1[C@H](C)C1,6/4/02 0:00,5.445,0.801,0.35000000000000053,low-fidelity RED
+"Trans-1,2-Dimethylcyclopentane",C[C@H]1[C@H](C)CCC1,822-50-4,5.353,0.8694,0.6500000000000004,low-fidelity RED
+1-Methyl-Trans-2-Ethylcyclopentane,C[C@H]1[C@H](CC)CCC1,930-90-5,5.558,1.003,0.6500000000000004,low-fidelity RED
+1-Methyl-Trans-2-Propylcyclopentane,C[C@H]1[C@H](CCC)CCC1,932-44-5,5.47,1.156,0.7000000000000002,low-fidelity RED
+"Cis-1,3-Dimethylcyclopentane",C[C@H]1C[C@@H](C)CC1,2532-58-3,5.106,0.8832,0.6500000000000004,low-fidelity RED
+"Cis-1,3-Dimethylcyclohexane",C[C@H]1C[C@@H](C)CCC1,638-04-0,5.236,0.9151,0.7000000000000002,low-fidelity RED
+"Trans-1,3-Dimethylcyclohexane",C[C@H]1C[C@H](C)CCC1,3/6/07 0:00,5.236,0.9151,0.7000000000000002,low-fidelity RED
+1-Methyl-Cis-2-Ethylcyclopentane,C[C@H]1CCC[C@H]1CC,930-89-2,5.558,1.003,0.6500000000000004,low-fidelity RED
+Alloaromadendrene,C[C@H]1CCC2C1[C@H]3[C@H](C3(C)C)CCC2=C,25246-27-9,5.538,1.286,0.8874119674649429,low-fidelity RED
+Methyl Silane,C[Si],992-94-9 ,5.063,0.6266,0.9182183836103479,high-fidelity RED
+Vinyl Trimethyl Silane,C[Si](C)(C)C=C,754-05-2,5.117,0.8917,0.642748006609122,high-fidelity RED
+Trimethylethoxysilane ,C[Si](C)(C)OCC,1825-62-3,5.508,0.8479,0.9604686356149273,low-fidelity RED
+Trimethyl Silane,C[Si](C)C,993-07-7,4.961,0.6819,0.9836157786453,low-fidelity RED
+Octamethylcyclotetrasiloxane,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,556-67-2,5.413,0.7408,0.9749999999999995,high-fidelity RED
+Dimethyl Silane,C[Si]C,1111-74-6,6.159,0.8081,0.9516433155337136,low-fidelity RED
+"2,3-Dimethyl-2-Butene",C/C(C)=C(C)/C,563-79-1,5.729,0.7421,0.8919781387455638,low-fidelity RED
+"2,3,4-Trimethyl-2-Pentene",C/C(C)=C(C)/C(C)C,565-77-5,6.083,0.852,0.6504805915628845,low-fidelity RED
+"2,3-Dimethyl-2-Hexene",C/C(C)=C(C)/CCC,7145-20-2,6.066,0.7873,0.7850159234053791,low-fidelity RED
+2-Methyl-3-Ethyl-2-Pentene,C/C(C)=C(CC)/CC,19780-67-7,5.785,0.7865,0.7802243267163619,low-fidelity RED
+"2,4,4-Trimethyl-2-Pentene",C/C(C)=C/C(C)(C)C,107-40-4,5.749,1.031,0.5226136240091718,low-fidelity RED
+2-Methyl-2-Hexene,C/C(C)=C/CCC,2738-19-4,6.029,0.9387,0.889170962188937,low-fidelity RED
+2-Methyl-2-Butene,C/C(C)=C\C,513-35-9,5.87,0.8008,0.8474225628339146,high-fidelity RED
+2-Methyl-2-Pentene,C/C(C)=C\CC,625-27-4,5.895,0.927,0.9839334327077214,low-fidelity RED
+3-Methyl-Cis-3-Hexene,C/C(CC)=C/CC,4914-89-0,5.815,0.9028,0.8877640452282353,low-fidelity RED
+3-Methyl-Trans-3-Hexene,C/C(CC)=C\CC,3899-36-3,5.815,0.9028,0.8877640452282353,low-fidelity RED
+Trans-2-Dodecene,C/C=C/CCCCCCCCC,7206-13-5,5.821,0.9439,0.9772410142846037,low-fidelity RED
+5-Methyl-Cis-2-Hexene,C/C=C\CC(C)C,13151-17-2,5.733,1.03,0.8750000000000001,low-fidelity RED
+Cis-2-Dodecene,C/C=C\CCCCCCCCC,7206-26-0,5.821,0.9439,0.9772410142846037,low-fidelity RED
+"3,4-Dimethyl-Trans-2-Pentene",C\C(C(C)C)=C/C,4914-92-5,5.922,0.8917,0.759111322534449,low-fidelity RED
+"3,4-Dimethyl-Cis-2-Pentene",C\C(C(C)C)=C\C,4914-91-4,5.922,0.8917,0.759111322534449,low-fidelity RED
+"2,3-Dimethyl-2-Pentene",C\C(C)=C(C)/CC,10574-37-5,5.969,0.7886,0.8388980867781259,low-fidelity RED
+"2,4-Dimethyl-2-Pentene",C\C(C)=C/C(C)C,625-65-0,6.151,0.8975,0.759111322534449,low-fidelity RED
+2-Methyl-2-Heptene,C\C(C)=C\CCCC,627-97-4,6.218,0.9883,0.8919781387455641,low-fidelity RED
+3-Methyl-Trans-2-Pentene,C\C(CC)=C/C,616-12-6,6.27,0.8906,0.9839334327077214,low-fidelity RED
+3-Methyl-Cis-2-Pentene,C\C(CC)=C\C,922-62-3,6.27,0.8906,0.9839334327077214,low-fidelity RED
+3-Methyl-Trans-2-Hexene,C\C(CCC)=C/C,20710-38-7,5.926,0.9639,0.889170962188937,low-fidelity RED
+3-Methyl-Cis-2-Hexene,C\C(CCC)=C\C,10574-36-4,5.926,0.9639,0.889170962188937,low-fidelity RED
+"3,4-Dimethyl-Trans-2-Hexene",C\C=C(/C)C(C)CC,19550-82-4,5.984,0.9598,0.6828250141873832,low-fidelity RED
+3-Methyl-Trans-2-Heptene,C\C=C(/C)CCCC,22768-20-3,6.19,0.8713,0.8919781387455641,low-fidelity RED
+4-Methyl-3-Ethyl-Trans-2-Pentene,C\C=C(/CC)C(C)C,42067-49-2,6.097,0.968,0.7262919523166975,low-fidelity RED
+"3,4,4-Trimethyl-Cis-2-Pentene",C\C=C(\C)C(C)(C)C,39761-64-3,5.691,0.7828,0.5226136240091718,low-fidelity RED
+3-Methyl-Cis-2-Heptene,C\C=C(\C)CCCC,22768-19-0,6.19,0.8713,0.8919781387455641,low-fidelity RED
+4-Methyl-3-Ethyl-Cis-2-Pentene,C\C=C(\CC)C(C)C,42067-48-1,6.097,0.968,0.7262919523166975,low-fidelity RED
+4-Methyl-Cis-2-Heptene,C\C=C/C(C)CCC,66225-16-9,5.247,1.014,0.9424038412485386,low-fidelity RED
+"5,5-Dimethyl-Cis-2-Hexene",C\C=C/CC(C)(C)C,39761-61-0,5.567,0.9763,0.674536878161602,low-fidelity RED
+2-Butene (Trans),C\C=C\C,624-64-6,5.043,0.7605,0.700446286306095,high-fidelity RED
+"4,4-Dimethyl-Cis-2-Hexene",C\C=C\C(C)(C)CC,19550-83-5,5.314,0.9243,0.6694213919497944,low-fidelity RED
+"4,5-Dimethyl-Trans-2-Hexene",C\C=C\C(C)C(C)C,66225-14-7,5.384,1.012,0.7713624310270757,low-fidelity RED
+4-Methyl-Trans-2-Heptene,C\C=C\C(C)CCC,66225-17-0,5.247,1.014,0.9424038412485386,low-fidelity RED
+4-Ethyl-Trans-2-Hexene,C\C=C\C(CC)CC,19781-63-6,6.039,1.015,0.9303897032964197,low-fidelity RED
+"5,5-Dimethyl-Trans-2-Hexene",C\C=C\CC(C)(C)C,39782-43-9,5.567,0.9763,0.674536878161602,low-fidelity RED
+6-Methyl-Trans-2-Heptene,C\C=C\CCC(C)C,51065-65-7,5.605,0.9933,0.8916277250063505,low-fidelity RED
+"3,3-Dimethyl-1-Pentyne",C#CC(C)(C)CC,918-82-1,5.3,1.029,0.7075485849042453,low-fidelity RED
+"3,4-Dimethyl-1-Pentyne",C#CC(C)C(C)C,61064-08-2,5.093,0.934,0.8015609770940698,low-fidelity RED
+3-Methyl-1-Pentyne,C#CC(C)CC,922-59-8,5.265,0.9198,0.8366600265340756,low-fidelity RED
+3-Methyl-1-Hexyne,C#CC(C)CCC,40276-93-5,5.039,0.9128,0.922293337284836,low-fidelity RED
+3-Ethyl-1-Pentyne,C#CC(CC)CC,21020-26-8,5.15,0.9088,0.9513148795220225,low-fidelity RED
+"4,4-Dimethyl-1-Pentyne",C#CCC(C)(C)C,13361-63-2,5.067,0.8862,0.7228416147400482,low-fidelity RED
+4-Methyl-1-Pentyne,C#CCC(C)C,7154-75-8,5.268,0.8771,0.9676001240181813,low-fidelity RED
+4-Methyl-1-Hexyne,C#CCC(C)CC,52713-81-2,5.331,0.9185,0.8440971508067068,low-fidelity RED
+5-Methyl-1-Hexyne,C#CCCC(C)C,2203-80-7,5.18,0.9929,0.9506576670915774,low-fidelity RED
+1-Undecyne,C#CCCCCCCCCC,2243-98-3,5.036,0.9594,0.9867877177995278,low-fidelity RED
+1-Dodecyne,C#CCCCCCCCCCC,765-03-7,5.036,0.9594,0.9604686356149276,low-fidelity RED
+1-Tridecyne,C#CCCCCCCCCCCC,26186-02-7,5.036,0.9594,0.9750000000000002,low-fidelity RED
+1-Tetradecyne,C#CCCCCCCCCCCCC,765-10-6,5.036,0.9594,0.8852965604812889,low-fidelity RED
+1-Pentadecyne,C#CCCCCCCCCCCCCC,765-13-9,5.036,0.9594,0.934411579551538,low-fidelity RED
+1-Hexadecyne,C#CCCCCCCCCCCCCCC,629-74-3,5.036,0.9594,0.8852965604812889,low-fidelity RED
+1-Heptadecyne,C#CCCCCCCCCCCCCCCC,26186-00-5,5.036,0.9594,0.8975661535508124,low-fidelity RED
+1-Octadecyne,C#CCCCCCCCCCCCCCCCC,629-89-0,5.036,0.9594,0.82802475808396,low-fidelity RED
+1-Nonadecyne,C#CCCCCCCCCCCCCCCCCC,26186-01-6,5.036,0.9594,0.8789197915623473,low-fidelity RED
+1-Eicosyne,C#CCCCCCCCCCCCCCCCCCC,765-27-5,5.036,0.9594,0.8396427811873336,low-fidelity RED
+"2,3,3-Trimethyl-1-Pentene",C=C(/C)C(C)(C)CC,560-23-6,5.927,0.8841,0.40155946010522536,low-fidelity RED
+3-Methyl-2-Isopropyl-1-Butene,C=C(C(C)C)C(C)C,111823-35-9,6.123,1.04,0.36912057650583513,low-fidelity RED
+Isobutylene,C=C(C)C,115-11-7,5.616,0.8597,0.5921359641163505,high-fidelity RED
+"2,3-Dimethyl-1,3-Butadiene",C=C(C)C(C)=C,513-81-5,5.473,0.8528,0.8170067319184096,low-fidelity RED
+"2,3,4-Trimethyl-1-Pentene",C=C(C)C(C)C(C)C,565-76-4,5.997,0.9633,0.48541219597369,low-fidelity RED
+"2,3-Dimethyl-1-Pentene",C=C(C)C(C)CC,3404-72-6,6.126,0.9537,0.48541219597369,low-fidelity RED
+"2,3-Dimethyl-1-Hexene",C=C(C)C(C)CCC,16746-86-4,5.684,1.008,0.6133922073192647,low-fidelity RED
+"2,4-Dimethyl-1-Hexene",C=C(C)CC(C)CC,16746-87-5,6.066,1.046,0.5196152422706631,low-fidelity RED
+"2-Methyl-1,4-Pentadiene",C=C(C)CC=C,763-30-4,5.744,0.9289,0.9877373132569205,low-fidelity RED
+"1,5-Hexadiene, 2,5-Dimethyl-",C=C(C)CCC(C)=C,627-58-7,6.232,0.9241,0.8280247580839599,low-fidelity RED
+"2,5-Dimethyl-1-Hexene",C=C(C)CCC(C)C,6975-92-4,6.294,0.8964,0.6194755846681933,low-fidelity RED
+2-Methyl-1-Hexene,C=C(C)CCCC,2/6/94 0:00,6.222,0.8712,0.7035623639735143,low-fidelity RED
+2-Methyl-1-Heptene,C=C(C)CCCCC,15870-10-7,6.472,0.9018,0.7524958471646207,low-fidelity RED
+2-Methyl-1-Octene,C=C(C)CCCCCC,4588-18-5,6.417,0.9021,0.7508328708840605,low-fidelity RED
+2-Methyl-1-Nonene,C=C(C)CCCCCCC,2980-71-4,6.417,0.9021,0.7956915231419774,low-fidelity RED
+2-Methyl-1-Decene,C=C(C)CCCCCCCC,13151-27-4,6.417,0.9021,0.7284401142166731,low-fidelity RED
+2-Methyl-1-Tridecene,C=C(C)CCCCCCCCCCC,18094-01-4,6.417,0.9021,0.7778174593052027,low-fidelity RED
+2-Methyl-1-Pentadecene,C=C(C)CCCCCCCCCCCCC,29833-69-0,6.417,0.9021,0.7685213074469701,low-fidelity RED
+"3,3-Dimethyl-2-Ethyl-1-Butene",C=C(CC)C(C)(C)C,18231-53-3,5.538,0.9981,0.3363406011768428,low-fidelity RED
+3-Methyl-2-Ethyl-1-Butene,C=C(CC)C(C)C,7357-93-9,5.976,0.9754,0.552268050859363,low-fidelity RED
+3-Methyl-2-Ethyl-1-Pentene,C=C(CC)C(C)CC,3404-67-9,5.943,1.003,0.44791182167922294,low-fidelity RED
+2-Ethyl-1-Butene,C=C(CC)CC,760-21-4,5.733,0.8166,0.9513148795220224,high-fidelity RED
+4-Methyl-2-Ethyl-1-Pentene,C=C(CC)CC(C)C,3404-80-6,5.636,1.007,0.550567888638631,low-fidelity RED
+2-Ethyl-1-Pentene,C=C(CC)CCC,3404-71-5,5.51,0.9813,0.6675514961409343,low-fidelity RED
+2-Ethyl-1-Hexene,C=C(CC)CCCC,1632-16-2,5.796,0.9481,0.6652067347825038,low-fidelity RED
+β-Pinene,C=C(CC2)C1C(C)(C)C2C1,127-91-3,5.814,1.073,0.9334077351297233,low-fidelity RED
+2-Isopropyl-1-Pentene,C=C(CCC)C(C)C,16746-02-4,6.546,1.118,0.5080600358225393,low-fidelity RED
+2-Propyl-1-Pentene,C=C(CCC)CCC,15918-08-8,5.719,0.9449,0.6229967897188559,low-fidelity RED
+Vinyltriethoxysilane,C=C[Si](OCC)(OCC)OCC,78-08-0,4.925,0.9941,0.868187767709267,low-fidelity RED
+"3,5,5' Trimethyl Hexene",C=C\C(C)CC(C)(C)C,4316-65-8,5.616,1.017,0.44017042154147534,low-fidelity RED
+5-Ethyl-1-Nonene,C=C\CCC(CCCC)CC,19780-74-6,6.252,1.006,0.7365459931328118,low-fidelity RED
+1-Eicosene,C=C\CCCCCCCCCCCCCCCCCC,7/1/52 0:00,5.42,0.905,0.7648529270389179,low-fidelity RED
+1-Tricosene,C=C\CCCCCCCCCCCCCCCCCCCCC,18835-32-0,5.42,0.905,0.7862092596758196,low-fidelity RED
+1-Nonacosene,C=C\CCCCCCCCCCCCCCCCCCCCCCCCCCC,18835-35-3,5.42,0.905,0.73143694191639,low-fidelity RED
+1-Dotriacontene,C=C\CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,18435-55-7,5.42,0.905,0.712828871469163,low-fidelity RED
+"3-Methyl-1,2-Pentadiene",C=C=C(C)CC,7417-48-3,5.383,0.892,0.922293337284836,low-fidelity RED
+"1,2-Hexadiene",C=C=CCCC,592-44-9,5.159,0.9984,0.9663074045043845,low-fidelity RED
+"3,3,4-Trimethyl-1-Pentene",C=CC(C)(C)C(C)C,560-22-5,5.232,0.9549,0.324037034920393,low-fidelity RED
+"3,3-Dimethyl-1-Pentene",C=CC(C)(C)CC,3404-73-7,5.253,0.9104,0.5024937810560445,low-fidelity RED
+"3,3-Dimethyl-1-Hexene",C=CC(C)(C)CCC,3404-77-1,5.12,0.9433,0.4422951503238534,low-fidelity RED
+3-Methyl-3-Ethyl-1-Pentene,C=CC(C)(CC)CC,6196-60-7,5.563,1.013,0.44791182167922294,low-fidelity RED
+"3,4,4-Trimethyl-1-Pentene",C=CC(C)C(C)(C)C,564-03-4,5.345,0.9462,0.39449334595148744,low-fidelity RED
+"3,4-Dimethyl-1-Pentene",C=CC(C)C(C)C,7385-78-6,5.65,0.985,0.5750000000000001,low-fidelity RED
+"3,4-Dimethyl-1-Hexene",C=CC(C)C(C)CC,16745-94-1,5.902,1.043,0.49623583103198005,low-fidelity RED
+"3-Methyl-1,4-Pentadiene",C=CC(C)C=C,1115-08-8,5.417,0.8372,0.95,low-fidelity RED
+"3,5-Dimethyl-1-Hexene",C=CC(C)CC(C)C,7423-69-0,5.437,0.9121,0.5958187643906492,low-fidelity RED
+3-Methyl-1-Hexene,C=CC(C)CCC,3404-61-3,5.059,0.9974,0.7301540933255115,low-fidelity RED
+3-Methyl-1-Heptene,C=CC(C)CCCC,9/7/10 0:00,5.644,1.04,0.7128288714691629,low-fidelity RED
+3-Ethyl-1-Pentene,C=CC(CC)CC,4/4/38 0:00,5.714,1.009,0.7386643351347078,low-fidelity RED
+3-Ethyl-1-Hexene,C=CC(CC)CCC,3404-58-8,5.189,0.9959,0.6675514961409343,low-fidelity RED
+"4,4-Dimethyl-1-Pentene",C=CCC(C)(C)C,762-62-9,5.273,0.8218,0.5408326913195983,low-fidelity RED
+"4,4-Dimethyl-1-Hexene",C=CCC(C)(C)CC,1647-08-1,5.381,0.9009,0.541410195692693,low-fidelity RED
+"4,5-Dimethyl-1-Hexene",C=CCC(C)C(C)C,16106-59-5,5.648,0.8964,0.6490377492873584,low-fidelity RED
+4-Methyl-1-Hexene,C=CCC(C)CC,3769-23-1,5.633,0.9665,0.6224949798994366,low-fidelity RED
+4-Methyl-1-Heptene,C=CCC(C)CCC,13151-05-8,5.273,1.016,0.7830229881682913,low-fidelity RED
+4-Ethyl-1-Hexene,C=CCC(CC)CC,16746-85-3,6.118,1.02,0.7830229881682915,low-fidelity RED
+"5,5-Dimethyl-1-Hexene",C=CCCC(C)(C)C,7116-86-1,5.511,0.9246,0.5297405025104274,low-fidelity RED
+5-Methyl-1-Hexene,C=CCCC(C)C,3524-73-0,5.234,0.9246,0.7437237390321757,low-fidelity RED
+5-Methyl-1-Heptene,C=CCCC(C)CC,13151-04-7,5.529,0.9826,0.6393355926272214,low-fidelity RED
+1-Hexene ,C=CCCCC,592-41-6,5.282,0.915,0.7685213074469699,high-fidelity RED
+6-Methyl-1-Heptene,C=CCCCC(C)C,5026-76-6,5.607,1.023,0.725,low-fidelity RED
+7-Methyl-1-Octene,C=CCCCCC(C)C,13151-06-9,5.679,1.019,0.7826237921249266,low-fidelity RED
+8-Methyl-1-Nonene,C=CCCCCCC(C)C,26741-24-2,5.625,1.051,0.7035623639735145,low-fidelity RED
+1-Nonene,C=CCCCCCCC,124-11-8,5.42,0.905,0.6973162840490679,high-fidelity RED
+1-Decene,C=CCCCCCCCC,872-05-9,5.42,0.905,0.7591113225344489,high-fidelity RED
+1-Undecene,C=CCCCCCCCCC,821-95-4,5.42,0.905,0.8415016339853421,low-fidelity RED
+1-Dodecene,C=CCCCCCCCCCC,112-41-4,5.42,0.905,0.8415016339853421,low-fidelity RED
+1-Tridecene,C=CCCCCCCCCCCC,2437-56-1,5.42,0.905,0.8385254915624215,low-fidelity RED
+1-Tetradecene,C=CCCCCCCCCCCCC,1120-36-1,5.42,0.905,0.8803408430829511,high-fidelity RED
+1-Pentadecene,C=CCCCCCCCCCCCCC,13360-61-7,5.42,0.905,0.8158584436040363,low-fidelity RED
+1-Hexadecene,C=CCCCCCCCCCCCCCC,629-73-2,5.42,0.905,0.8112490369793979,low-fidelity RED
+1-Heptadecene,C=CCCCCCCCCCCCCCCC,6765-39-5,5.42,0.905,0.8200609733428366,low-fidelity RED
+1-Octadecene,C=CCCCCCCCCCCCCCCCC,112-88-9,5.42,0.905,0.7648529270389179,low-fidelity RED
+1-Nonadecene,C=CCCCCCCCCCCCCCCCCC,18435-45-5,5.42,0.905,0.7766112283504536,low-fidelity RED
+1-Docosene,C=CCCCCCCCCCCCCCCCCCCCC,1599-67-3,5.42,0.905,0.73143694191639,low-fidelity RED
+1-Triacontene,C=CCCCCCCCCCCCCCCCCCCCCCCCCCCCC,18435-53-5,5.42,0.905,0.7004462863060953,low-fidelity RED
+"1,1,2-Trimethylcyclohexane",C1(C)(C)C(C)CCCC1,7094-26-0,5.443,1.108,0.6000000000000005,low-fidelity RED
+"3,5,5 Trimethyl Cyclohexene",C1(CC=CC(C)C1)(C)C,933-12-0,5.183,1.122,0.9893179468704696,low-fidelity RED
+Adamantane,C1(CC3C2)CC(C3)CC2C1,281-23-2,5.348,0.7083,0.8500000000000005,low-fidelity RED
+1-Methyl-1-Ethylcyclohexane,C1(CCCCC1)(CC)C,4926-90-3,5.659,1.107,0.8500000000000005,low-fidelity RED
+"Cis,Trans-1,3,5-Trimethylcyclohexane",C1[C@@H](C)C[C@H](C)C[C@@H]1C,1795-26-2,5.157,0.7782,0.5,low-fidelity RED
+"1,Trans-2,Trans-4-Trimethylcyclohexane",C1[C@H](C)[C@@H](C)CC[C@@H]1C,7667-60-9,5.054,0.9781,0.6000000000000005,low-fidelity RED
+"1,Cis-3,Cis-5-Trimethylcyclohexane",C1[C@H](C[C@@H](C)C[C@H]1C)C,1795-27-3,5.157,0.7782,0.5,low-fidelity RED
+Eicosylbenzene,C1=CC=CC=C1CCCCCCCCCCCCCCCCCCCC,2398-68-7,6.257,0.8937,0.9772410142846026,low-fidelity RED
+"1,1-Dicyclohexyltetradecane",C1C(CCCC1)C(C2CCCCC2)CCCCCCCCCCCCC,55334-08-2,6.212,0.9935,0.9500000000000002,low-fidelity RED
+"1,3-Dimethyladamantane",C1C3CC2(CC(CC1(C2)C)C3)C,702-79-4,4.945,1.107,0.8999999999999995,low-fidelity RED
+"1,2,3-Trimethylcyclopentane",C1CC(C)C(C)C1(C),c6387,5.197,0.8479,0.5,low-fidelity RED
+Cyclobutane,C1CCC1,287-23-0,5.364,0.6825,0.9500000000000002,low-fidelity RED
+Cyclopentane,C1CCCC1,287-92-3,5.364,0.6825,0.9956153875869934,high-fidelity RED
+Heneicosylcyclopentane,C1CCCC1CCCCCCCCCCCCCCCCCCCCC,6703-82-8,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Tritriacontylcyclohexane,C1CCCCC1C(CCCCCCCCCCCCCCCC)CCCCCCCCCCCCCCCC,55517-75-4,5.972,1.033,0.7500000000000009,low-fidelity RED
+Eicosylcyclohexane,C1CCCCC1CCCCCCCCCCCCCCCCCCCC,4443-55-4,5.517,0.8841,0.7500000000000009,low-fidelity RED
+Cyclododecane,C1CCCCCCCCCCC1,294-62-2,5.364,0.6825,0.9006941767325906,high-fidelity RED
+4-Methyl-Cis-2-Pentene,CC(/C=C\C)C,691-38-3,5.466,1.024,0.8923284148787374,low-fidelity RED
+"2,5-Dimethyl-Cis-3-Hexene",CC(\C=C/C(C)C)C,10557-44-5,5.535,0.8476,0.6619101147436864,low-fidelity RED
+β-Elemene,CC(=C)[C@H]1CC[C]([C@H](C1)C(=C)C)(C)C=C,33880-83-0,5.568,1.275,0.931732257679211,low-fidelity RED
+(-)-β-Elemene,CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C,515-13-9,5.568,1.275,0.931732257679211,low-fidelity RED
+Santolina Triene,CC(=CC(C=C)C(=C)C)C,2153-66-4,6.486,1.128,0.9424038412485384,low-fidelity RED
+Amber Carbinol,CC(C(C)C(C)C(C)(C)C)C(C)O,87118-95-4,6.309,0.8678,0.8116341540373965,low-fidelity RED
+"2,3,4-Trimethylpentane",CC(C(C)C)C(C)C,565-75-3,5.393,0.6618,0.10000000000000053,low-fidelity RED
+"2,3-Dimethylhexane",CC(C(C)C)CCC,584-94-1,5.149,0.8691,0.20000000000000018,low-fidelity RED
+2-Methyl-3-Ethyl-1-Pentene,CC(C(CC)CC)=C,19780-66-6,6.284,0.9924,0.6194755846681933,low-fidelity RED
+"2,3-Dimethylheptadecane",CC(C(CCCCCCCCCCCCCC)C)C,61868-03-9,5.647,0.9094,0.6000000000000005,low-fidelity RED
+"2,2-Dimethyl-3-Ethylpentane",CC(C)(C(CC)CC)C,16747-32-3,5.501,0.932,0.0,low-fidelity RED
+"4,4-Dimethyl-Trans-2-Pentene",CC(C)(C)/C=C/C,690-08-4,5.117,0.8793,0.6149186938124422,low-fidelity RED
+"2,2-Dimethyl-Trans-3-Hexene",CC(C)(C)/C=C/CC,690-93-7,5.288,0.9383,0.5820223363411408,low-fidelity RED
+"4,4-Dimethyl-Cis-2-Pentene",CC(C)(C)/C=C\C,762-63-0,5.117,0.8793,0.6149186938124422,low-fidelity RED
+"2,2-Dimethyl-Cis-3-Hexene",CC(C)(C)/C=C\CC,690-92-6,5.288,0.9383,0.5820223363411408,low-fidelity RED
+Neopentane,CC(C)(C)C,463-82-1,5.125,0.7662,0.34999999999999964,low-fidelity RED
+"2,2,3,3-Tetramethylbutane",CC(C)(C)C(C)(C)C,594-82-1,5.117,0.7629,0.2999999999999998,low-fidelity RED
+"2,3,3-Trimethyl-1-Butene",CC(C)(C)C(C)=C,594-56-9,5.645,0.8976,0.4100304866714181,low-fidelity RED
+"2,2,3-Trimethylbutane",CC(C)(C)C(C)C,464-06-2,5.531,0.8606,0.20000000000000018,low-fidelity RED
+"2,2,3,4,4-Pentamethylpentane",CC(C)(C)C(C)C(C)(C)C,16747-45-8,5.399,0.728,0.14999999999999947,low-fidelity RED
+"2,2,3,4-Tetramethylpentane",CC(C)(C)C(C)C(C)C,1186-53-4,5.321,0.8628,0.0,low-fidelity RED
+"1,1-Difluoro-2,2-Dimethylpropane",CC(C)(C)C(F)F,53731-23-0,4.955,0.767,0.6422616289332566,low-fidelity RED
+"2,2,4,4-Tetramethyl-3-Pentanol",CC(C)(C)C(O)C(C)(C)C,14609-79-1,6.255,0.8188,0.5836308764964376,low-fidelity RED
+"3,3-Dimethyl-1-Butene",CC(C)(C)C=C,558-37-2,5.057,0.8654,0.561248608016091,low-fidelity RED
+p-Di-Tert-Butylbenzene,CC(C)(C)C1=CC=C(C(C)(C)C)C=C1,1012-72-2,6.29,0.9012,0.8046738469715549,low-fidelity RED
+Tert-Butylcyclohexane,CC(C)(C)C1CCCCC1,3178-22-1,5.716,0.9081,0.5499999999999998,low-fidelity RED
+"2,2-Dimethylbutane",CC(C)(C)CC,75-83-2,5.407,0.7341,0.20000000000000018,low-fidelity RED
+"2,2,4,4-Tetramethylpentane",CC(C)(C)CC(C)(C)C,1070-87-7,5.354,0.7064,0.14999999999999947,low-fidelity RED
+"2,2,4,6,6-Pentamethyl-4-Heptane Thiol",CC(C)(C)CC(C)(CC(C)(C)C)S,93002-38-1,5.354,0.7064,0.6113509630318743,low-fidelity RED
+"2,2,4-Trimethylpentane",CC(C)(C)CC(C)C,540-84-1,5.613,0.8216,0.25248762345905196,high-fidelity RED
+"2,2,4,5-Tetramethylhexane",CC(C)(C)CC(C)C(C)C,16747-42-5,5.922,0.8856,0.04999999999999982,low-fidelity RED
+"2,2,4-Trimethylhexane",CC(C)(C)CC(C)CC,16747-26-5,5.665,0.9232,0.04999999999999982,low-fidelity RED
+"2,2,4-Trimethylheptane",CC(C)(C)CC(C)CCC,14720-74-2,5.258,0.9123,0.15000000000000036,low-fidelity RED
+"2,2-Dimethylpentane",CC(C)(C)CCC,590-35-2,5.062,0.7836,0.04999999999999982,low-fidelity RED
+"2,2,5,5-Tetramethylhexane",CC(C)(C)CCC(C)(C)C,1071-81-4,5.354,0.7064,0.04999999999999982,low-fidelity RED
+"2,2,5-Trimethylhexane",CC(C)(C)CCC(C)C,3522-94-9,5.493,0.8182,0.04999999999999982,low-fidelity RED
+"2,2-Dimethylhexane",CC(C)(C)CCCC,590-73-8,5.394,0.7232,0.04999999999999982,low-fidelity RED
+"2,2,6,6-Tetramethylheptane",CC(C)(C)CCCC(C)(C)C,40117-45-1,5.582,0.8092,0.0,low-fidelity RED
+"2,2-Dimethylheptane",CC(C)(C)CCCCC,1071-26-7,5.579,0.7936,0.15000000000000036,low-fidelity RED
+"2,2-Dimethyloctane",CC(C)(C)CCCCCC,15869-87-1,5.526,0.7988,0.25,low-fidelity RED
+Di-Tert-Butyl Ether,CC(C)(C)OC(C)(C)C,6163-66-2,4.929,0.7701,0.7088723439378912,low-fidelity RED
+Isopropyl-Tert-Butyl-Ether,CC(C)(C)OC(C)C,17348-59-3,5.543,0.9639,0.8609587678861281,low-fidelity RED
+Di-Tet-Butyl Sulfide,CC(C)(C)SC(C)(C)C,107-47-1,5.038,0.7491,0.5662375826453065,low-fidelity RED
+Di-Tert-Butyl Disulfide,CC(C)(C)SSC(C)(C)C,110-06-5,5.426,0.8686,0.9027735042633895,low-fidelity RED
+"Dimethyl-1,1-Dimethylpropylamine",CC(C)(CC)N(C)C,57757-60-5,5.132,0.8531,0.6543126164151201,low-fidelity RED
+"2,5-Dimethyl-Trans-3-Hexene",CC(C)/C=C/C(C)C,692-70-6,5.535,0.8476,0.6619101147436864,low-fidelity RED
+2-Methyl-Cis-3-Hexene,CC(C)\C=C/CC,15840-60-5,5.663,1.024,0.8208227579691002,low-fidelity RED
+4-Methyl-Trans-2-Pentene,CC(C)\C=C\C,674-76-0,5.466,1.024,0.8923284148787374,low-fidelity RED
+2-Methyl-Trans-3-Hexene,CC(C)\C=C\CC,692-24-0,5.663,1.024,0.8208227579691002,low-fidelity RED
+"2,4-Dimethyl-2-Hexene",CC(C)=CC(C)CC,14255-23-3,6.21,0.938,0.6828250141873832,low-fidelity RED
+Isobutane,CC(C)C,75-28-5,5.393,0.6618,0.25,low-fidelity RED
+"2,2,4-Trimethyl-1,3-Pentanediol Diisobutyrate",CC(C)C(=O)OCC(C)(C)C(C(C)(C))OC(=O)C(C)(C),6846-50-0,7.098,1.158,0.980114789195633,low-fidelity RED
+"2,4-Dimethyl-3-Isopropylpentane",CC(C)C(C(C)C)C(C)C,13475-79-1,5.393,0.6618,0.15000000000000036,low-fidelity RED
+"2,2,3,3,4-Pentamethylpentane",CC(C)C(C)(C)C(C)(C)C,16747-44-7,5.553,0.9632,0.09999999999999964,low-fidelity RED
+"2,2,4,4,5-Pentamethylhexane",CC(C)C(C)(C)CC(C)(C)C,60302-23-0,5.936,0.9282,0.0,low-fidelity RED
+"2,3,3-Trimethylhexane",CC(C)C(C)(C)CCC,16747-28-7,5.692,1.053,0.10000000000000053,low-fidelity RED
+"2,3-Dimethyl-1-Butene",CC(C)C(C)=C,563-78-0,5.909,0.959,0.6209871174187109,low-fidelity RED
+"2,3-Dimethylbutane",CC(C)C(C)C,79-29-8,5.393,0.6618,0.09999999999999964,low-fidelity RED
+"2,3,4,5-Tetramethylhexane",CC(C)C(C)C(C)C(C)C,52897-15-1,5.393,0.6618,0.20000000000000018,low-fidelity RED
+"2,3,4-Trimethylhexane",CC(C)C(C)C(C)CC,921-47-1,5.669,0.8069,0.20000000000000018,low-fidelity RED
+"2,3,5-Trimethylhexane",CC(C)C(C)CC(C)C,1069-53-0,5.556,0.6814,0.15000000000000036,low-fidelity RED
+"2,3,6-Trimethylheptane",CC(C)C(C)CCC(C)C,4032-93-3,5.366,0.8917,0.25,low-fidelity RED
+"2,3-Dimethylheptane",CC(C)C(C)CCCC,3074-71-3,5.643,0.9123,0.2999999999999998,low-fidelity RED
+"2,3-Dimethyloctane",CC(C)C(C)CCCCC,7146-60-3,5.701,0.8958,0.35000000000000053,low-fidelity RED
+2-Fluoro-3-Methylbutane,CC(C)C(C)F,62108-95-6,4.987,0.7132,0.7524958471646205,low-fidelity RED
+"Dimethyl-1,2-Dimethylpropylamine",CC(C)C(C)N(C)C,66225-38-5,5.074,0.8076,0.7420411039827916,low-fidelity RED
+3-Ethyl-2-Methylpentane,CC(C)C(CC)CC,609-26-7,5.361,0.8752,0.15000000000000036,low-fidelity RED
+3-Ethyl-2-Methylhexane,CC(C)C(CC)CCC,16789-46-1,5.213,0.8527,0.25,low-fidelity RED
+3-Ethyl-2-Methylheptane,CC(C)C(CC)CCCC,14676-29-0,5.73,0.8729,0.35000000000000053,low-fidelity RED
+"1,1-Difluoro-2-Methylpropane",CC(C)C(F)F,62126-91-4,4.987,0.7132,0.8951256894984079,low-fidelity RED
+"2,5-Dimethyl-2-Hexene",CC(C)C\C=C(C)\C,3404-78-2,6.29,0.9131,0.7470776398741968,low-fidelity RED
+5-Methyl-Trans-2-Hexene,CC(C)C\C=C\C,7385-82-2,5.733,1.03,0.8750000000000001,low-fidelity RED
+Timber Dioxolane,CC(C)C1C(COC(O1)(C)C)(C)C,61920-45-4,5.893,1.137,0.819298480408697,low-fidelity RED
+Isopropylcyclopropane,CC(C)C1CC1,3638-35-5,5.69,0.9218,0.5499999999999998,low-fidelity RED
+Isopropylcyclopentane,CC(C)C1CCCC1,3875-51-2,5.598,0.8605,0.6500000000000004,low-fidelity RED
+"2,3,3,5-Tetramethylhexane",CC(C)CC(C)(C)C(C)C,52897-11-7,5.74,0.9987,0.04999999999999982,low-fidelity RED
+"2,4,4-Trimethylhexane",CC(C)CC(C)(C)CC,16747-30-1,5.611,0.7923,0.04999999999999982,low-fidelity RED
+"2,4-Dimethyl-1-Pentene",CC(C)CC(C)=C,2213-32-3,5.768,0.9149,0.5684408500451037,low-fidelity RED
+"2,4-Dimethylpentane",CC(C)CC(C)C,108-08-7,5.556,0.6814,0.04999999999999982,low-fidelity RED
+"2,2,3,5-Tetramethylhexane",CC(C)CC(C)C(C)(C)C,52897-09-3,5.561,0.7495,0.04999999999999982,low-fidelity RED
+"2,4,6-Trimethylheptane",CC(C)CC(C)CC(C)C,2613-61-8,5.556,0.6814,0.20000000000000018,low-fidelity RED
+"2,4-Dimethylheptane",CC(C)CC(C)CCC,2213-23-2,5.084,0.7236,0.25,low-fidelity RED
+4-Ethyl-2-Methylhexane,CC(C)CC(CC)CC,3074-75-7,5.732,0.902,0.20000000000000018,low-fidelity RED
+"1,1-Difluoro-3-Methylbutane",CC(C)CC(F)F,53731-22-9,5.063,0.798,0.8112490369793977,low-fidelity RED
+4-Methyl-1-Pentene,CC(C)CC=C,691-37-2,5.768,0.9579,0.7176350047203662,low-fidelity RED
+Isobutylcyclopentane,CC(C)CC1CCCC1,3788-32-7,5.483,0.9216,0.6500000000000004,low-fidelity RED
+Isobutylcyclohexane,CC(C)CC1CCCCC1,1678-98-4,5.685,0.933,0.7000000000000002,low-fidelity RED
+"2,5-Dimethylhexane",CC(C)CCC(C)C,592-13-2,5.492,0.773,0.10000000000000053,low-fidelity RED
+"2,5-Dimethylheptane",CC(C)CCC(C)CC,2216-30-0,5.247,0.956,0.25,low-fidelity RED
+"2,4,7-Trimethyloctane",CC(C)CCC(C)CC(C)C,62016-38-0,5.38,0.8427,0.2999999999999998,low-fidelity RED
+2-Methylhexane,CC(C)CCCC,591-76-4,5.465,0.8071,0.15000000000000036,low-fidelity RED
+"2,2,6-Trimethylheptane",CC(C)CCCC(C)(C)C,1190-83-6,6.395,0.8389,0.10000000000000053,low-fidelity RED
+"2,6-Dimethylheptane",CC(C)CCCC(C)C,1072-05-5,5.656,0.7648,0.20000000000000018,low-fidelity RED
+"2,3,7-Trimethyloctane",CC(C)CCCC(C)C(C)C,62016-34-6,5.572,0.8983,0.2999999999999998,low-fidelity RED
+"2,6-Dimethyloctane",CC(C)CCCC(C)CC,2051-30-1,5.701,0.9358,0.2999999999999998,low-fidelity RED
+2-Methylheptane,CC(C)CCCCC,592-27-8,5.521,0.7355,0.25,low-fidelity RED
+"2,7-Dimethyloctane",CC(C)CCCCC(C)C,1072-16-8,5.68,0.7804,0.2999999999999998,low-fidelity RED
+2-Methyloctane,CC(C)CCCCCC,3221-61-2,5.467,0.7608,0.35000000000000053,low-fidelity RED
+2-Methylnonane,CC(C)CCCCCCC,871-83-0,5.467,0.7608,0.40000000000000036,low-fidelity RED
+2-Methyldecane,CC(C)CCCCCCCC,6975-98-0,5.467,0.7608,0.4500000000000002,low-fidelity RED
+2-Methylundecane,CC(C)CCCCCCCCC,31807-55-3,5.467,0.7608,0.5,low-fidelity RED
+2-Methyldodecane,CC(C)CCCCCCCCCC,1560-97-0,5.467,0.7608,0.5,low-fidelity RED
+2-Methyltridecane,CC(C)CCCCCCCCCCC,1560-96-9,5.467,0.7608,0.5499999999999998,low-fidelity RED
+2-Methylpentadecane,CC(C)CCCCCCCCCCCCC,1560-93-6,5.467,0.7608,0.5499999999999998,low-fidelity RED
+2-Methylheptadecane,CC(C)CCCCCCCCCCCCCCC,1560-89-0,5.467,0.7608,0.6000000000000005,low-fidelity RED
+2-Methyloctadecane,CC(C)CCCCCCCCCCCCCCCC,1560-88-9,5.467,0.7608,0.6000000000000005,low-fidelity RED
+2-Methylnonadecane,CC(C)CCCCCCCCCCCCCCCCC,1560-86-7,5.467,0.7608,0.6000000000000005,low-fidelity RED
+Citronellal Diisotridecyl Acetal,CC(C)CCCCCCCCCCOC(CC(C)CCC=C(C)C)OCCCCCCCCCCC(C)C,67923-82-4,6.757,1.205,0.8381527307120107,low-fidelity RED
+Dimethyl-3-Methylbutylamine,CC(C)CCN(C)C,2315-43-7,5.074,0.8679,0.8933784192602818,low-fidelity RED
+Isopentylidene Isopentyl Amine,CC(C)CCN=CCC(C)C,35448-31-8,5.0,0.965,0.8860022573334675,low-fidelity RED
+Isopentylether,CC(C)CCOCCC(C)C,544-01-4,5.95,0.8102,0.8999999999999999,low-fidelity RED
+Isobutyl-Tert-Butyl Ether,CC(C)COC(C)(C)C,33021-02-2,6.002,0.9087,0.7810249675906654,low-fidelity RED
+Diisopropylamine,CC(C)NC(C)C,108-18-9,5.572,0.9436,0.9447221813845592,high-fidelity RED
+Isopropyl Isobutyl Ether,CC(C)OCC(C)C,78448-33-6,5.706,0.8833,0.9688911187538051,low-fidelity RED
+3-Methyl-1-Pentene,CC(C=C)CC,760-20-3,5.286,0.9887,0.5894913061275798,low-fidelity RED
+Isopropylcyclohexane,CC(C1CCCCC1)C,696-29-7,5.8,0.8743,0.7500000000000009,low-fidelity RED
+sec-Butylcyclohexane,CC(C1CCCCC1)CC,1/7/58 0:00,6.088,1.01,0.7500000000000009,low-fidelity RED
+"2,3,4,6-Tetramethylheptane",CC(CC(C)C)C(C)C(C)C,61868-54-0,5.556,0.6814,0.25,low-fidelity RED
+"2,2,3,3-Tetramethylpentane",CC(CC)(C)C(C)(C)C,7154-79-2,5.332,0.9129,0.14999999999999947,low-fidelity RED
+"2,3,3-Trimethylpentane",CC(CC)(C)C(C)C,560-21-4,5.863,1.014,0.0,low-fidelity RED
+"3,3-Dimethylpentane",CC(CC)(C)CC,562-49-2,5.615,0.7832,0.04999999999999982,low-fidelity RED
+"3,3-Dimethylhexane",CC(CC)(C)CCC,563-16-6,5.263,0.9315,0.10000000000000053,low-fidelity RED
+3-Methyl-3-Ethylpentane,CC(CC)(CC)CC,1067-08-9,5.33,0.8711,0.15000000000000036,low-fidelity RED
+4-Methyl-Trans-2-Hexene,CC(CC)/C=C/C,3683-22-5,5.397,1.016,0.7846177413237607,low-fidelity RED
+4-Methyl-Cis-2-Hexene,CC(CC)/C=C\C,3683-19-0,5.397,1.016,0.7846177413237607,low-fidelity RED
+2-Methyl-1-Butene,CC(CC)=C,563-46-2,5.65,0.9029,0.5226136240091718,high-fidelity RED
+"2,2,3-Trimethylpentane",CC(CC)C(C)(C)C,564-02-3,5.625,0.7944,0.04999999999999982,low-fidelity RED
+"2,3-Dimethylpentane",CC(CC)C(C)C,565-59-3,5.736,0.7482,0.04999999999999982,low-fidelity RED
+"1,1-Difluoro-2-Methylbutane",CC(CC)C(F)F,66688-67-3,5.331,0.799,0.659545297913646,low-fidelity RED
+3-Methylpentane,CC(CC)CC,96-14-0,5.619,0.7338,0.04999999999999982,low-fidelity RED
+"2,4-Dimethylhexane",CC(CC)CC(C)C,589-43-5,5.496,0.7485,0.15000000000000036,low-fidelity RED
+3-Methylhexane,CC(CC)CCC,589-34-4,5.193,0.8559,0.15000000000000036,low-fidelity RED
+1-Fluoro-2-Methylbutane,CC(CC)CF,10086-64-3,5.213,0.7843,0.989002022242624,low-fidelity RED
+"1,1,3-Trimethylcyclohexane",CC(CC1C)(CCC1)C,3073-66-3,5.528,0.9857,0.6500000000000004,low-fidelity RED
+2-Methyl-1-Pentene,CC(CCC)=C,763-29-1,5.936,0.9037,0.7356969484781081,low-fidelity RED
+"Cis-1,2-Dimethylcyclopentane",CC(CCC1)C1C,1192-18-3,5.353,0.8694,0.6500000000000004,low-fidelity RED
+"2,3-Difluoropentane",CC(F)C(F)CC,66688-46-8,5.042,0.8353,0.852936105461599,low-fidelity RED
+"2,4-Difluoropentane",CC(F)CC(C)F,66688-47-9,5.271,0.7306,0.9031195934094222,low-fidelity RED
+Tert-Octyl Mercaptan,CC(S)(CC(C)(C)C)C,141-59-3,5.622,0.8386,0.8905756565278439,low-fidelity RED
+"Trans-1,4-Diethylcyclohexane",CC[C@H]1CC[C@H](CC)CC1,13990-93-7,5.427,0.8611,0.7999999999999998,low-fidelity RED
+Tetraethylsilane,CC[Si](CC)(CC)CC,631-36-7,5.201,0.8358,0.3691205765058349,low-fidelity RED
+Triethylsilane,CC[SiH](CC)CC,617-86-7,5.701,0.8465,0.4077376607575021,low-fidelity RED
+Diethylsilane,CC[SiH2]CC,542-91-6,5.029,0.8107,0.48218253804964767,low-fidelity RED
+3-Ethyl-3-Hexene,CC/C(CC)=C/CC,16789-51-8,5.738,0.8081,0.8403868156985805,low-fidelity RED
+3-Ethyl-2-Pentene,CC/C(CC)=C\C,816-79-5,5.762,0.8152,0.8877640452282353,low-fidelity RED
+Cis-3-Heptene,CC/C=C\CCC,10/6/42 0:00,5.178,0.9165,0.9594920531197744,low-fidelity RED
+"3,4-Dimethyl-Trans-3-Hexene",CC\C(C)=C(/C)CC,19550-88-0,5.777,0.713,0.7802243267163619,low-fidelity RED
+"3,4-Dimethyl-Cis-3-Hexene",CC\C(C)=C(\C)CC,19550-87-9,5.777,0.713,0.7802243267163619,low-fidelity RED
+"2,4-Dimethyl-Cis-3-Hexene",CC\C(C)=C/C(C)C,37549-89-6,6.2,1.051,0.7262919523166975,low-fidelity RED
+"2,4-Dimethyl-Trans-3-Hexene",CC\C(C)=C\C(C)C,61847-78-7,6.2,1.051,0.7262919523166975,low-fidelity RED
+"2,3-Dimethyl-Trans-3-Hexene",CC\C=C(/C)C(C)C,66225-30-7,6.129,1.061,0.7262919523166975,low-fidelity RED
+4-Methyl-Trans-3-Heptene,CC\C=C(/C)CCC,13714-85-7,5.963,0.9606,0.863495801958527,low-fidelity RED
+Cis-3-Octene,CC\C=C/CCCC,14850-22-7,5.372,0.9814,0.954266734199616,low-fidelity RED
+5-Methyl-Trans-3-Heptene,CC\C=C\C(C)CC,53510-18-2,5.135,1.096,0.7424621202458749,low-fidelity RED
+Trans-3-Octene,CC\C=C\CCCC,14919-01-8,5.372,0.9814,0.954266734199616,low-fidelity RED
+(+)-Camphene,CC1([C@@H]2CC[C@@H](C2)C1=C)C,3/6/94 0:00,5.94,0.9633,0.9334077351297233,low-fidelity RED
+(+)-β-Pinene,CC1([C@@H]2CCC(=C)[C@H]1C2)C,19902-08-0,5.814,1.073,0.9334077351297233,low-fidelity RED
+(-)-Camphene,CC1([C@H]2CC[C@H](C2)C1=C)C,4/7/94 0:00,5.94,0.9633,0.9334077351297233,low-fidelity RED
+"1,1,2-Trimethylcyclopropane",CC1(C(C)C1)C,4127-45-1,5.358,0.9806,0.40000000000000036,low-fidelity RED
+"1,1,2-Trimethylcyclopentane",CC1(C)C(C)CCC1,4259-00-1,5.322,1.068,0.5499999999999998,low-fidelity RED
+"1,1-Dimethylcyclopropane",CC1(C)CC1,1630-94-0,5.078,0.8452,0.5,low-fidelity RED
+"1,1-Dimethylcyclobutane",CC1(C)CCC1,18931-71-0,5.002,0.8977,0.6000000000000005,low-fidelity RED
+"1,1-Dimethylcyclohexane",CC1(C)CCCCC1,590-66-9,5.502,0.9526,0.7000000000000002,low-fidelity RED
+Laevo-β-Pinene,CC1(C2CCC1C(=C)C2)C,18172-67-3,5.864,1.034,0.9334077351297233,low-fidelity RED
+"1,1,3-Trimethylcyclopentane",CC1(CC(C)CC1)C,4516-69-2,5.612,0.9973,0.6000000000000005,low-fidelity RED
+1-Ethyl-1-Methylcyclopropane,CC1(CC)CC1,3778-43-1,5.52,1.026,0.7000000000000002,low-fidelity RED
+1-Methyl-1-Ethylcyclopentane,CC1(CC)CCCC1,16747-50-5,5.457,1.097,0.7999999999999998,low-fidelity RED
+Longifolene,CC1(CCC[C]2([C@@H]3C1C(C2=C)CC3)C)C,475-20-7,6.545,1.363,0.9864709828474431,low-fidelity RED
+Sclarene,CC1(CCC[C]2([C@H]1CCC(=C)[C@@H]2CCC(=C)C=C)C)C,511-02-4,6.301,1.407,0.9620940702446924,low-fidelity RED
+"1,1-Dimethylcyclopentane",CC1(CCCC1)C,1638-26-2,5.299,0.9372,0.6500000000000004,low-fidelity RED
+"Cis,Cis,Trans-1,2,4-Trimethylcyclopentane",CC1CC(C(C1)C)C,4850-28-6,5.106,0.8901,0.4500000000000002,low-fidelity RED
+"1,2,4-Trimethylcyclopentane",CC1CC(C)C(C)C1,c6388,5.106,0.8901,0.4500000000000002,low-fidelity RED
+"1 ,2A,4A-1,2,4-Trimethylcyclohexane",CC1CC(C)C(C)CC1,c6397,5.054,0.9781,0.6000000000000005,low-fidelity RED
+"1,3,5-Trimethyl Cyclohexane",CC1CC(C)CC(C)C1,1839-63-0,5.157,0.7782,0.5,low-fidelity RED
+"Trans-1,3-Dimethylcyclopentane",CC1CC(C)CC1,1759-58-6,5.106,0.8832,0.6500000000000004,low-fidelity RED
+"Cis 1,1,3,5 Tetramethyl Cyclohexane",CC1CC(CC(C)(C)C1)C,50876-32-9,5.122,0.8922,0.4500000000000002,low-fidelity RED
+p-Menthane,CC1CCC(C(C)C)CC1,99-82-1,5.317,0.9971,0.7500000000000009,low-fidelity RED
+"1,2,3,4-Tetramethylcyclohexane",CC1CCC(C)C(C)C1C,3726-45-2,5.341,0.7999,0.5,low-fidelity RED
+Methylcyclobutane,CC1CCC1,598-61-8,5.044,0.8476,0.7000000000000002,low-fidelity RED
+Aromadendrene,CC1CCC2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C,489-39-4,5.538,1.286,0.8874119674649429,low-fidelity RED
+(Z)-Pinane,CC1CCC2CC1C2(C)C,6876-13-7,5.03,0.9748,0.7500000000000009,low-fidelity RED
+Methyl Cyclopentane,CC1CCCC1,96-37-7,5.105,0.7041,0.7356969484781082,high-fidelity RED
+Methyl Cyclohexane,CC1CCCCC1,108-87-2,5.307,0.7089,0.7356969484781082,high-fidelity RED
+"Furan,3,3,4,4-Tetrafluorotetrahydro-2,5-Dimethyl-",CC1OC(C)C(F)(F)C(F)1F,699-29-6,5.104,1.049,0.8444672877027268,low-fidelity RED
+Triethylboron,CCB(CC)CC,97-94-9,5.433,0.7935,0.642748006609122,low-fidelity RED
+Propane,CCC,74-98-6,5.234,0.6388,0.7508328708840603,high-fidelity RED
+2-Fluoro-1-Butene,CCC(=C)F,430-44-4,5.876,1.006,0.9317322576792112,low-fidelity RED
+"3,3,4-Trimethylheptane",CCC(C(C(CC)C)C)C,20278-87-9,5.716,0.8753,0.2999999999999998,low-fidelity RED
+"3-Ethyl-2,2,4-Trimethylpentane",CCC(C(C)C)C(C)(C)C,52897-18-4,5.678,0.9614,0.04999999999999982,low-fidelity RED
+"2,4-Dimethyl-3-Ethylpentane",CCC(C(C)C)C(C)C,1068-87-7,5.619,0.7338,0.15000000000000036,low-fidelity RED
+"3-Ethyl-2,5-Dimethylhexane",CCC(C(C)C)CC(C)C,52897-04-8,5.494,0.8932,0.20000000000000018,low-fidelity RED
+Hexaethylbenzene,CCC(C(CC)=C(CC)C(CC)=C1CC)=C1CC,604-88-6,6.226,0.8284,0.3807886552931959,low-fidelity RED
+"3-Ethyl-2,3,4-Trimethylpentane",CCC(C)(C(C)C)C(C)C,52897-19-5,6.123,0.8954,0.15000000000000036,low-fidelity RED
+"3,3,4,4-Tetramethylhexane",CCC(C)(C)C(C)(C)CC,5171-84-6,5.358,0.8003,0.0,low-fidelity RED
+"2,3,4,4-Tetramethylhexane",CCC(C)(C)C(C)C(C)C,52897-12-8,5.885,0.9629,0.10000000000000053,low-fidelity RED
+"3,3,4-Trimethylhexane",CCC(C)(C)C(C)CC,16747-31-2,5.852,1.003,0.10000000000000053,low-fidelity RED
+"2,2,4,4-Tetramethylhexane",CCC(C)(C)CC(C)(C)C,51750-65-3,5.389,0.8087,0.04999999999999982,low-fidelity RED
+"3,3,5,5-Tetramethylheptane",CCC(C)(C)CC(C)(C)CC,61868-61-9,5.389,0.8087,0.10000000000000053,low-fidelity RED
+"3,3,5-Trimethylheptane",CCC(C)(C)CC(C)CC,7154-80-5,5.778,0.8915,0.20000000000000018,low-fidelity RED
+"2,2,5,5-Tetramethylheptane",CCC(C)(C)CCC(C)(C)C,61868-47-1,5.413,0.8053,0.04999999999999982,low-fidelity RED
+"2,5,5-Trimethylheptane",CCC(C)(C)CCC(C)C,1189-99-7,5.522,0.8417,0.15000000000000036,low-fidelity RED
+"2,6,6-Trimethyloctane",CCC(C)(C)CCCC(C)C,54166-32-4,6.448,0.9219,0.20000000000000018,low-fidelity RED
+"3,3-Dimethyloctane",CCC(C)(C)CCCCC,4110-44-5,5.75,0.9027,0.25,low-fidelity RED
+"3-Ethyl-2,2,3-Trimethylpentane",CCC(C)(CC)C(C)(C)C,52897-17-3,5.432,0.9876,0.04999999999999982,low-fidelity RED
+"2,3-Dimethyl-3-Ethylpentane",CCC(C)(CC)C(C)C,16747-33-4,5.759,0.8434,0.15000000000000036,low-fidelity RED
+"4-Ethyl-2,4-Dimethylhexane",CCC(C)(CC)CC(C)C,52897-03-7,5.586,0.9028,0.20000000000000018,low-fidelity RED
+Tetrahydrolinalyl Acetate,CCC(C)(CCCC(C)C)OC(=O)C,20780-48-7,6.857,1.082,0.9864709828474428,low-fidelity RED
+Isopentane,CCC(C)C,78-78-4,5.496,0.7485,0.4015594601052247,high-fidelity RED
+"2,3,3,4-Tetramethylhexane",CCC(C)C(C)(C)C(C)C,52897-10-6,5.692,0.9708,0.10000000000000053,low-fidelity RED
+"3-Ethyl-3,4-Dimethylhexane",CCC(C)C(C)(CC)CC,52897-06-0,5.79,0.8292,0.25,low-fidelity RED
+"2,2,3,4-Tetramethylhexane",CCC(C)C(C)C(C)(C)C,52897-08-2,5.777,0.9156,0.10000000000000053,low-fidelity RED
+"3,4,5-Trimethylheptane",CCC(C)C(C)C(C)CC,20278-89-1,5.716,0.8753,0.2999999999999998,low-fidelity RED
+"3,4-Dimethylhexane",CCC(C)C(C)CC,583-48-2,5.87,0.808,0.20000000000000018,low-fidelity RED
+"2,4,5-Trimethylheptane",CCC(C)C(C)CC(C)C,20278-84-6,5.761,0.8831,0.25,low-fidelity RED
+"3,4-Dimethylheptane",CCC(C)C(C)CCC,922-28-1,5.568,0.9265,0.2999999999999998,low-fidelity RED
+"2,5,6-Trimethyloctane",CCC(C)C(C)CCC(C)C,62016-14-2,5.668,0.9552,0.2999999999999998,low-fidelity RED
+"3-Ethyl-2,4-Dimethylhexane",CCC(C)C(CC)C(C)C,7220-26-0,5.682,0.8229,0.25,low-fidelity RED
+3-Ethyl-4-Methylhexane,CCC(C)C(CC)CC,3074-77-9,5.736,0.7482,0.25,low-fidelity RED
+"2,3,5-Trimethylheptane",CCC(C)CC(C)C(C)C,20278-85-7,5.619,0.7338,0.2999999999999998,low-fidelity RED
+"3,5-Dimethylheptane",CCC(C)CC(C)CC,926-82-9,5.619,0.7338,0.25,low-fidelity RED
+"3,5-Dimethyloctane",CCC(C)CC(C)CCC,15869-93-9,5.266,0.781,0.35000000000000053,low-fidelity RED
+3-Ethyl-5-Methylheptane,CCC(C)CC(CC)CC,52896-90-9,5.993,0.8152,0.2999999999999998,low-fidelity RED
+"2,2,5-Trimethylheptane",CCC(C)CCC(C)(C)C,20291-95-6,5.462,1.005,0.15000000000000036,low-fidelity RED
+"2,3,6-Trimethyloctane",CCC(C)CCC(C)C(C)C,62016-33-5,5.271,1.007,0.35000000000000053,low-fidelity RED
+"3,6-Dimethyloctane",CCC(C)CCC(C)CC,15869-94-0,5.396,0.9037,0.35000000000000053,low-fidelity RED
+3-Methylheptane,CCC(C)CCCC,589-81-1,5.888,0.9167,0.2999999999999998,low-fidelity RED
+"2,2,6-Trimethyloctane",CCC(C)CCCC(C)(C)C,62016-28-8,6.7,0.9594,0.20000000000000018,low-fidelity RED
+"3,7-Dimethylnonane",CCC(C)CCCC(C)CC,17302-32-8,5.962,0.9109,0.40000000000000036,low-fidelity RED
+3-Methyloctane,CCC(C)CCCCC,2216-33-3,5.945,0.9282,0.35000000000000053,low-fidelity RED
+2-Methylnonane,CCC(C)CCCCCC,4/6/11 0:00,5.891,0.9423,0.4500000000000002,low-fidelity RED
+3-Methyldecane,CCC(C)CCCCCCC,13151-34-3,5.891,0.9423,0.4500000000000002,low-fidelity RED
+3-Methyldodecane,CCC(C)CCCCCCCCC,17312-57-1,5.891,0.9423,0.5499999999999998,low-fidelity RED
+sec-Butyl-Tert-Butyl Ether,CCC(C)OC(C)(C)C,32970-45-9,5.244,0.9207,0.6950719387228921,low-fidelity RED
+"3,4,5-Trimethyl-3-Ethylheptane",CCC(CC)(C(C(CC)C)C)C,62198-78-1,6.085,0.9913,0.35000000000000053,low-fidelity RED
+3-Ethyl-3-Methylheptane,CCC(CC)(C)CCCC,17302-01-1,5.448,0.9007,0.35000000000000053,low-fidelity RED
+"3,3-Diethyl-2-Methylpentane",CCC(CC)(CC)C(C)C,52897-16-2,5.397,0.8431,0.20000000000000018,low-fidelity RED
+"3,3-Diethylpentane",CCC(CC)(CC)CC,1067-20-5,5.044,0.7301,0.20000000000000018,low-fidelity RED
+"3,3-Diethyloctane",CCC(CC)(CCCCC)CC,17302-40-8,5.383,0.8243,0.4500000000000002,low-fidelity RED
+"4-Ethyl-3,3-Dimethylhexane",CCC(CC)C(C)(C)CC,52897-05-9,5.651,1.009,0.15000000000000036,low-fidelity RED
+"4-Ethyl-2,3-Dimethylhexane",CCC(CC)C(C)C(C)C,52897-01-5,5.619,0.7338,0.25,low-fidelity RED
+"3,4-Diethylhexane",CCC(CC)C(CC)CC,19398-77-7,5.584,0.7296,0.2999999999999998,low-fidelity RED
+3-Ethylpentane,CCC(CC)CC,617-78-7,5.958,0.8072,0.15000000000000036,low-fidelity RED
+"4-Ethyl-2,2-Dimethylhexane",CCC(CC)CC(C)(C)C,52896-99-8,6.037,0.9623,0.10000000000000053,low-fidelity RED
+"3,5-Diethylheptane",CCC(CC)CC(CC)CC,61869-02-1,5.958,0.8072,0.40000000000000036,low-fidelity RED
+3-Ethylhexane,CCC(CC)CCC,619-99-8,5.606,0.8414,0.25,low-fidelity RED
+5-Ethyl-2-Methylheptane,CCC(CC)CCC(C)C,13475-78-0,5.804,0.8997,0.2999999999999998,low-fidelity RED
+3-Ethylheptane,CCC(CC)CCCC,15869-80-4,6.136,0.7873,0.35000000000000053,low-fidelity RED
+2-Methyl-6-Ethyloctane,CCC(CC)CCCC(C)C,62016-19-7,5.98,0.9127,0.35000000000000053,low-fidelity RED
+3-Ethyloctane,CCC(CC)CCCCC,5881-17-4,6.192,0.8608,0.40000000000000036,low-fidelity RED
+3-Methyl Nonane,CCC(CCCCCC)C,1463622,5.891,0.9423,0.4500000000000002,low-fidelity RED
+3-Fluoropentane,CCC(F)CC,41909-29-9,5.242,0.8494,0.8325412902673356,low-fidelity RED
+Cis-1-Methyl-2-Propylcyclopentane,CCC[C@H]1CCC[C@H]1C,3728-57-2,5.47,1.156,0.7000000000000002,low-fidelity RED
+Trans-3-Heptene,CCC/C=C/CC,14686-14-7,5.178,0.9165,0.9594920531197744,low-fidelity RED
+Cis-4-Octene,CCC/C=C\CCC,7642-15-1,5.176,0.8562,0.9253377761660877,low-fidelity RED
+3-Methyl-Trans-3-Heptene,CCC\C=C(/C)CC,22768-18-9,5.966,0.9726,0.863495801958527,low-fidelity RED
+Trans-4-Octene,CCC\C=C\CCC,14850-23-8,5.176,0.8562,0.9253377761660877,low-fidelity RED
+3-Octadecyne,CCC#CCCCCCCCCCCCCCC,61886-64-4,5.224,0.8467,0.9354143466934856,low-fidelity RED
+"1,1-Diethylcyclohexane",CCC1(CC)CCCCC1,78-01-3,5.749,1.005,0.7999999999999998,low-fidelity RED
+Ethylcyclopropane,CCC1CC1,1191-96-4,5.427,0.8611,0.5499999999999998,low-fidelity RED
+Ethylcyclobutane,CCC1CCC1,4806-61-5,5.316,0.8734,0.7000000000000002,low-fidelity RED
+Ethylcyclopentane,CCC1CCCC1,1640-89-7,5.401,0.7984,0.7500000000000009,low-fidelity RED
+Ethylcyclohexane,CCC1CCCCC1,1678-91-7,5.605,0.8116,0.7999999999999998,low-fidelity RED
+Butane,CCCC,106-97-8,5.092,0.6541,0.25248762345905196,high-fidelity RED
+3-Isopropyl-2-Methylhexane,CCCC(C(C)C)C(C)C,62016-13-1,5.186,0.7994,0.20000000000000018,low-fidelity RED
+"3,4,4-Trimethylheptane",CCCC(C)(C)C(C)CC,20278-88-0,5.544,1.083,0.20000000000000018,low-fidelity RED
+"2,4,4-Trimethylheptane",CCCC(C)(C)CC(C)C,4032-92-2,5.656,0.9437,0.15000000000000036,low-fidelity RED
+"4,4-Dimethylheptane",CCCC(C)(C)CCC,1068-19-5,5.091,0.8301,0.20000000000000018,low-fidelity RED
+"4,4-Dimethyloctane",CCCC(C)(C)CCCC,15869-95-1,5.386,0.8412,0.2999999999999998,low-fidelity RED
+"3-Ethyl-2,3-Dimethylhexane",CCCC(C)(CC)C(C)C,52897-00-4,5.579,0.9203,0.25,low-fidelity RED
+3-Ethyl-3-Methylhexane,CCCC(C)(CC)CC,3074-76-8,5.166,0.8836,0.25,low-fidelity RED
+4-Ethyl-4-Methylheptane,CCCC(C)(CC)CCC,17302-04-4,5.166,0.8836,0.35000000000000053,low-fidelity RED
+"2,3,4-Trimethylheptane",CCCC(C)C(C)C(C)C,52896-95-4,5.261,0.8073,0.2999999999999998,low-fidelity RED
+"4,5-Dimethyloctane",CCCC(C)C(C)CCC,15869-96-2,5.261,0.8073,0.40000000000000036,low-fidelity RED
+3-Ethyl-4-Methylheptane,CCCC(C)C(CC)CC,52896-91-0,5.435,0.8732,0.35000000000000053,low-fidelity RED
+"2,3,5-Trimethyloctane",CCCC(C)CC(C)C(C)C,62016-32-4,5.209,0.73,0.35000000000000053,low-fidelity RED
+4-Methylheptane,CCCC(C)CCC,589-53-7,5.209,0.73,0.2999999999999998,low-fidelity RED
+"2,5-Dimethyloctane",CCCC(C)CCC(C)C,15869-89-3,4.946,0.8462,0.35000000000000053,low-fidelity RED
+4-Methyloctane,CCCC(C)CCCC,2216-34-4,5.734,0.8564,0.40000000000000036,low-fidelity RED
+"2,6-Dimethylnonane",CCCC(C)CCCC(C)C,17302-28-2,5.401,0.8349,0.40000000000000036,low-fidelity RED
+4-Methylnonane,CCCC(C)CCCCC,17301-94-9,5.791,0.8579,0.4500000000000002,low-fidelity RED
+"3-Ethyl-2,2-Dimethylhexane",CCCC(CC)C(C)(C)C,20291-91-2,5.261,1.081,0.10000000000000053,low-fidelity RED
+4-Ethyl-3-Methylheptane,CCCC(CC)C(C)CC,52896-89-6,5.383,0.8014,0.2999999999999998,low-fidelity RED
+4-Ethyl-2-Methylheptane,CCCC(CC)CC(C)C,52896-88-5,5.281,0.9696,0.2999999999999998,low-fidelity RED
+"3,5-Diethyloctane",CCCC(CC)CC(CC)CC,62183-93-1,5.509,0.9013,0.40000000000000036,low-fidelity RED
+4-Ethylheptane,CCCC(CC)CCC,2216-32-2,5.704,0.9045,0.2999999999999998,low-fidelity RED
+2-Methyl-5-Ethyloctane,CCCC(CC)CCC(C)C,62016-18-6,5.584,0.9523,0.35000000000000053,low-fidelity RED
+4-Ethyloctane,CCCC(CC)CCCC,15869-86-0,6.062,0.8966,0.40000000000000036,low-fidelity RED
+4-Isopropylheptane,CCCC(CCC)C(C)C,52896-87-4,5.156,0.8055,0.2999999999999998,low-fidelity RED
+4-Propylheptane,CCCC(CCC)CCC,3178-29-8,5.311,0.7816,0.40000000000000036,low-fidelity RED
+Butyltrichlorosilane,CCCC[Si](Cl)(Cl)Cl,7521-80-4,5.094,0.8834,0.9424038412485384,low-fidelity RED
+Cis-1-Fluoro-1-Hexene,CCCC\C=C\F,66225-46-5,4.954,0.9919,0.8778524933039721,low-fidelity RED
+Propylcyclopropane,CCCC1CC1,2415-72-7,5.125,0.982,0.6500000000000004,low-fidelity RED
+Propylcyclopentane,CCCC1CCCC1,2040-96-2,5.099,0.9262,0.7500000000000009,low-fidelity RED
+Propylcyclohexane,CCCC1CCCCC1,1678-92-8,5.302,0.9396,0.7999999999999998,low-fidelity RED
+Pentane,CCCCC,109-66-0,5.106,0.688,0.06123724356957931,high-fidelity RED
+"2,3,3-Trimethylheptane",CCCCC(C)(C)C(C)C,52896-93-2,6.464,0.9938,0.20000000000000018,low-fidelity RED
+"2,2,3-Trimethylheptane",CCCCC(C)C(C)(C)C,52896-92-1,5.291,0.8969,0.20000000000000018,low-fidelity RED
+"3,4-Dimethyloctane",CCCCC(C)C(C)CC,15869-92-8,6.061,0.942,0.40000000000000036,low-fidelity RED
+"4,5-Dimethylnonane",CCCCC(C)C(C)CCC,17302-23-7,5.635,0.9452,0.4500000000000002,low-fidelity RED
+"2,2,4-Trimethyloctane",CCCCC(C)CC(C)(C)C,18932-14-4,5.951,0.9952,0.25,low-fidelity RED
+"2,4-Dimethyloctane",CCCCC(C)CC(C)C,4032-94-4,5.782,0.8339,0.35000000000000053,low-fidelity RED
+"2,5-Dimethylnonane",CCCCC(C)CCC(C)C,17302-27-1,5.641,0.9577,0.40000000000000036,low-fidelity RED
+5-Methylnonane,CCCCC(C)CCCC,15869-85-9,5.906,0.8304,0.4500000000000002,low-fidelity RED
+"3,4-Diethyloctane",CCCCC(CC)C(CC)CC,62183-92-0,5.75,0.7924,0.4500000000000002,low-fidelity RED
+Di-2-Ethylhexyl Amine,CCCCC(CC)CNCC(CC)CCCC,106-20-7,6.336,0.9973,0.9387491677759294,high-fidelity RED
+4-Propyloctane,CCCCC(CCC)CCC,17302-13-5,5.672,0.8417,0.4500000000000002,low-fidelity RED
+Trans-5-Undecene,CCCCC\C=C\CCCC,764-97-6,5.459,0.9158,0.9246621004453471,low-fidelity RED
+Trans-1-Fluoro-1-Heptene,CCCCC\C=C\F,28028-92-4,5.146,0.9515,0.8975661535508123,low-fidelity RED
+n-Butyl Cyclopentane,CCCCC1CCCC1,2040-95-1,5.352,0.9267,0.9280355596635288,high-fidelity RED
+n-Butyl Cyclohexane,CCCCC1CCCCC1,1678-93-9,5.555,0.9413,0.8100925873009823,high-fidelity RED
+Hexane,CCCCCC,110-54-3,5.474,0.6522,0.15411035007422477,high-fidelity RED
+"2,2,3-Trimethyloctane",CCCCCC(C)C(C)(C)C,62016-26-6,5.348,0.8807,0.25,low-fidelity RED
+5-Methyldecane,CCCCCC(C)CCCC,13151-35-4,6.014,0.8709,0.5,low-fidelity RED
+Hexanal Diisoamyl Acetal,CCCCCC(OCCC(C)C)OCCC(C)C,93892-09-2,5.685,0.9478,0.9918417212438687,low-fidelity RED
+Cis-1-Fluoro-1-Octene,CCCCCC\C=C\F,32814-16-7,5.093,0.9388,0.8774964387392122,low-fidelity RED
+1-Heptene,CCCCCC=C,592-76-7,5.474,0.9122,0.702228595259407,high-fidelity RED
+Pentylcyclopentane,CCCCCC1CCCC1,3741-00-2,5.369,0.8716,0.7500000000000009,low-fidelity RED
+Pentylcyclohexane,CCCCCC1CCCCC1,4292-92-6,5.572,0.8872,0.7999999999999998,low-fidelity RED
+Heptane,CCCCCCC,142-82-5,5.42,0.6577,0.35178118198675773,high-fidelity RED
+"2,2,3-Trimethylnonane",CCCCCCC(C)C(C)(C)C,55499-04-2,5.295,0.8949,0.2999999999999998,low-fidelity RED
+"2,3-Dimethylnonane",CCCCCCC(C)C(C)C,6/2/84 0:00,5.647,0.9094,0.40000000000000036,low-fidelity RED
+3-Methylnonane,CCCCCCC(C)CC,4/6/11 0:00,5.891,0.9423,0.4500000000000002,low-fidelity RED
+"2,4-Dimethyldecane",CCCCCCC(C)CC(C)C,2801-84-5,5.784,0.8279,0.4500000000000002,low-fidelity RED
+4-Methyldecane,CCCCCCC(C)CCC,2847-72-5,5.737,0.8716,0.5,low-fidelity RED
+5-Methylundecane,CCCCCCC(C)CCCC,1632-70-8,5.959,0.886,0.5499999999999998,low-fidelity RED
+Cis-1-Fluoro-1-Nonene,CCCCCCC\C=C/F,66688-74-2,5.093,0.9388,0.8724964183307574,low-fidelity RED
+1-Octene,CCCCCCC=C,111-66-0,5.42,0.905,0.7097534783289198,high-fidelity RED
+Hexylcyclopentane,CCCCCCC1CCCC1,4457-00-5,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Hexylcyclohexane,CCCCCCC1CCCCC1,4292-75-5,5.517,0.8841,0.7999999999999998,low-fidelity RED
+Octane,CCCCCCCC,111-65-9,5.42,0.6577,0.4513867521316948,high-fidelity RED
+"2,2,3-Trimethyl Decane",CCCCCCCC(C)C(C)(C)C,62338-09-4,5.295,0.8949,0.35000000000000053,low-fidelity RED
+"2,3-Dimethyldecane",CCCCCCCC(C)C(C)C,17312-44-6,5.647,0.9094,0.4500000000000002,low-fidelity RED
+"2,4-Dimethylundecane",CCCCCCCC(C)CC(C)C,17312-80-0,5.784,0.8279,0.5,low-fidelity RED
+"1,1-Difluorooctane",CCCCCCCC(F)F,61350-03-6,5.292,0.8284,0.9276987657639736,low-fidelity RED
+Cis-2-Undecene,CCCCCCCC\C=C/C,821-96-5,5.821,0.9439,0.9852030247619021,low-fidelity RED
+Trans-2-Undecene,CCCCCCCC\C=C\C,693-61-8,5.821,0.9439,0.9852030247619021,low-fidelity RED
+Heptylcyclohexane,CCCCCCCC1CCCCC1,5617-41-4,5.517,0.8841,0.7999999999999998,low-fidelity RED
+Nonane,CCCCCCCCC,111-84-2,5.42,0.6577,0.5511351921262149,high-fidelity RED
+"2,2-Dimethyldecane",CCCCCCCCC(C)(C)C,17302-37-3,5.526,0.7988,0.35000000000000053,low-fidelity RED
+"2,3-Dimethylundecane",CCCCCCCCC(C)C(C)C,17312-77-5,5.647,0.9094,0.5,low-fidelity RED
+3-Methylundecane,CCCCCCCCC(C)CC,1002-43-3,5.891,0.9423,0.5,low-fidelity RED
+4-Methyl Dodecane,CCCCCCCCC(C)CCC,6117-97-1,5.737,0.8716,0.5499999999999998,low-fidelity RED
+1-Decyne,CCCCCCCCC#C,764-93-2,5.036,0.9594,0.9552486587271403,low-fidelity RED
+Octylcyclohexane,CCCCCCCCC1CCCCC1,1795-15-9,5.517,0.8841,0.7999999999999998,low-fidelity RED
+Decane,CCCCCCCCCC,124-18-5,5.42,0.6577,0.5511351921262149,high-fidelity RED
+"2,2-Dimethylundecane",CCCCCCCCCC(C)(C)C,17312-64-0,5.526,0.7988,0.40000000000000036,low-fidelity RED
+1-Cyclohexylnonane,CCCCCCCCCC1CCCCC1,2/5/83 0:00,5.517,0.8841,0.7999999999999998,low-fidelity RED
+Undecane,CCCCCCCCCCC,1120-21-4,5.42,0.6577,0.7008922884438095,high-fidelity RED
+3-Methyltridecane,CCCCCCCCCCC(C)CC,6418-41-3,5.891,0.9423,0.5499999999999998,low-fidelity RED
+Cis-1-Fluoro-1-Dodecene,CCCCCCCCCCC=CF,66553-43-3,5.093,0.9388,0.82802475808396,low-fidelity RED
+Decylcyclopentane,CCCCCCCCCCC1CCCC1,1795-21-7,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Decylcyclohexane,CCCCCCCCCCC1CCCCC1,1795-16-0,5.517,0.8841,0.7999999999999998,low-fidelity RED
+Dodecane,CCCCCCCCCCCC,112-40-3,5.42,0.6577,0.7008922884438095,high-fidelity RED
+3-Methyltetradecane,CCCCCCCCCCCC(C)CC,18435-22-8,5.891,0.9423,0.6000000000000005,low-fidelity RED
+"1,1-Difluorododecane",CCCCCCCCCCCC(F)F,62127-45-I,5.292,0.8284,0.859142013871979,low-fidelity RED
+Undecylcyclohexane,CCCCCCCCCCCC1CCCCC1,54105-66-7,5.517,0.8841,0.7500000000000009,low-fidelity RED
+Tridecane,CCCCCCCCCCCCC,629-50-5,5.42,0.6577,0.6000000000000005,low-fidelity RED
+2-Methyltetradecane,CCCCCCCCCCCCC(C)C,1560-95-8,5.467,0.7608,0.5499999999999998,low-fidelity RED
+3-Methylpentadecane,CCCCCCCCCCCCC(C)CC,2882-96-4,5.891,0.9423,0.6000000000000005,low-fidelity RED
+Dodecylcyclohexane,CCCCCCCCCCCCC1CCCCC1,1795-17-1,5.517,0.8841,0.7999999999999998,low-fidelity RED
+n-Tetradecane,CCCCCCCCCCCCCC,629-59-4,5.42,0.6577,0.8007808689023481,high-fidelity RED
+3-Methylhexadecane,CCCCCCCCCCCCCC(C)CC,6418-43-5,5.891,0.9423,0.6000000000000005,low-fidelity RED
+Tridecylcyclohexane,CCCCCCCCCCCCCC1CCCCC1,6006-33-3,5.517,0.8841,0.7999999999999998,low-fidelity RED
+Pentadecane,CCCCCCCCCCCCCCC,629-62-9,5.42,0.6577,0.6500000000000004,low-fidelity RED
+2-Methylhexadecane,CCCCCCCCCCCCCCC(C)C,1560-92-5,5.467,0.7608,0.6000000000000005,low-fidelity RED
+3-Methylheptadecane,CCCCCCCCCCCCCCC(C)CC,6418-44-6,5.891,0.9423,0.6500000000000004,low-fidelity RED
+Tetradecylcyclohexane,CCCCCCCCCCCCCCC1CCCCC1,1795-18-2,5.517,0.8841,0.7500000000000009,low-fidelity RED
+n-Hexadecane,CCCCCCCCCCCCCCCC,15716-08-2,5.42,0.6577,0.6500000000000004,low-fidelity RED
+3-Methyloctadecane,CCCCCCCCCCCCCCCC(C)CC,6561-44-0,5.891,0.9423,0.6000000000000005,low-fidelity RED
+n-Pentadecylcyclopentane,CCCCCCCCCCCCCCCC1CCCC1,1/6/69 0:00,5.315,0.8668,0.7500000000000009,low-fidelity RED
+Pentadecylcyclohexane,CCCCCCCCCCCCCCCC1CCCCC1,6006-95-7,5.517,0.8841,0.7500000000000009,low-fidelity RED
+Heptadecane,CCCCCCCCCCCCCCCCC,629-78-7,5.42,0.6577,0.6500000000000004,low-fidelity RED
+3-Methylnonadecane,CCCCCCCCCCCCCCCCC(C)CC,6418-45-7,5.891,0.9423,0.6500000000000004,low-fidelity RED
+Octadecane,CCCCCCCCCCCCCCCCCC,593-45-3,5.42,0.6577,0.9006941767325906,high-fidelity RED
+Isobutyl Stearate,CCCCCCCCCCCCCCCCCC(=O)OCC(C)C,646-13-9,8.026,0.9725,0.9407443861113391,low-fidelity RED
+2-Eicosyne,CCCCCCCCCCCCCCCCCC#CC,61847-99-2,5.222,0.7689,0.9460443964212252,low-fidelity RED
+Nonadecane,CCCCCCCCCCCCCCCCCCC,629-92-5,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Eicosene,CCCCCCCCCCCCCCCCCCC=C,7/1/52 0:00,5.42,0.905,0.7648529270389179,low-fidelity RED
+Eicosane,CCCCCCCCCCCCCCCCCCCC,112-95-8,5.42,0.6577,0.9506576670915773,high-fidelity RED
+Heneicosane,CCCCCCCCCCCCCCCCCCCCC,629-94-7,5.42,0.6577,0.7000000000000002,low-fidelity RED
+Docosane,CCCCCCCCCCCCCCCCCCCCCC,629-97-0,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Tricosane,CCCCCCCCCCCCCCCCCCCCCCC,638-67-5,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Tetracosane,CCCCCCCCCCCCCCCCCCCCCCCC,646-31-1,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Methyl Tetracosanoate,CCCCCCCCCCCCCCCCCCCCCCCC(=O)OC,2442-49-1,7.114,0.7566,0.9864709828474431,low-fidelity RED
+Pentacosane,CCCCCCCCCCCCCCCCCCCCCCCCC,629-99-2,5.42,0.6577,0.7000000000000002,low-fidelity RED
+Hexacosane,CCCCCCCCCCCCCCCCCCCCCCCCCC,630-01-3,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Heptacosane,CCCCCCCCCCCCCCCCCCCCCCCCCCC,593-49-7,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Octacosane,CCCCCCCCCCCCCCCCCCCCCCCCCCCC,630-02-4,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Nonacosane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCC,630-03-5,5.42,0.6577,0.7000000000000002,low-fidelity RED
+Triacontane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,638-68-6,5.42,0.6577,0.7000000000000002,low-fidelity RED
+Dotriacontane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,544-85-4,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Tetratriacontane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,14167-59-0,5.42,0.6577,0.7000000000000002,low-fidelity RED
+Pentatriacontane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,630-07-9,5.42,0.6577,0.6500000000000004,low-fidelity RED
+Hexatriacontane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,630-06-8,5.42,0.6577,0.7000000000000002,low-fidelity RED
+1-Iodotetracontane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCI,62154-91-0,5.42,0.6577,0.888115983416581,low-fidelity RED
+1-Iodotetratriacontane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCI,62154-85-2,5.42,0.6577,0.9572094859538318,low-fidelity RED
+Tritriacontylamine,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCN,E16477,5.568,0.9102,0.8131727983645298,low-fidelity RED
+1-Iodotriacontane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCI,62154-82-9,5.42,0.6577,0.9749999999999995,low-fidelity RED
+Nonacosylamine,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCN,66213-93-2,5.568,0.9102,0.8492643875731516,low-fidelity RED
+Tricosylamine,CCCCCCCCCCCCCCCCCCCCCCCN,14130-07-5,5.568,0.9102,0.9659839543180829,low-fidelity RED
+Methyloctadecylamine,CCCCCCCCCCCCCCCCCCNC,2439-55-6,5.279,0.92,0.9861541461658011,low-fidelity RED
+Ditetradecylamine,CCCCCCCCCCCCCCNCCCCCCCCCCCCCC,17361-44-3,5.332,0.9475,0.8620469824783336,low-fidelity RED
+1-Fluorotridecane,CCCCCCCCCCCCCF,1536-21-6,5.028,0.7862,0.969535971483266,low-fidelity RED
+Ditridecylamine,CCCCCCCCCCCCCNCCCCCCCCCCCCC,5910-75-8,5.332,0.9475,0.9158329542007109,low-fidelity RED
+Didodecylamine,CCCCCCCCCCCCNCCCCCCCCCCCC,3007-31-6,5.332,0.9475,0.8620469824783336,low-fidelity RED
+Didecylamine,CCCCCCCCCCNCCCCCCCCCC,1120-49-6,5.332,0.9475,0.9861541461658011,low-fidelity RED
+Dioctyl Ether,CCCCCCCCOCCCCCCCC,629-82-3,5.855,0.7897,0.9141252649391114,low-fidelity RED
+Tripentylamine,CCCCCN(CCCCC)CCCCC,621-77-2,4.959,0.8914,0.8418729120241367,low-fidelity RED
+Tripropyl Borate,CCCOB(OCCC)OCCC,688-71-1,5.324,0.7604,0.7553972464869063,low-fidelity RED
+Diethylisopropylamine,CCN(CC)C(C)C,6006-15-1,5.565,1.008,0.7335700375560605,low-fidelity RED
+Ethyl Linalyl Ether,CCOC(C)(CCC=C(C)C)C=C,72845-33-1,6.193,1.14,0.9759610647971568,low-fidelity RED
+Acetal 318,CCOC(C)OC(C)(CCCC(C)C)C=C,84029-93-6,6.56,1.133,0.8374067112222112,low-fidelity RED
+Dihydrocitronellyl Ethyl Ether,CCOCCC(C)CCCC(C)C,22810-10-2,5.61,0.9401,0.94505290857179,low-fidelity RED
+Trichloroethylsilane,Cl[Si](Cl)(Cl)CC,115-21-9,5.112,0.9028,0.9344115795515379,low-fidelity RED
+2-Chloro-3-Methyl-1-Butene,ClC(=C)C(C)C,17773-64-7,5.039,1.011,0.8204419540710971,low-fidelity RED
+2-Chloro-1-Pentene,ClC(=C)CCC,42131-85-1,5.538,0.9165,0.9529559276272959,low-fidelity RED
+2-Chloro-3-Methylpentane,ClC(C)C(C)CC,24319-09-3,5.071,0.8737,0.8558621384311844,low-fidelity RED
+2-Chloro-4-Methylpentane,ClC(C)CC(C)C,25346-32-1,5.0,0.8299,0.9650129532809391,low-fidelity RED
+3-Chloro-2-Methylpentane,ClC(CC)C(C)C,38384-05-3,5.187,0.8672,0.8649421946003097,low-fidelity RED
+Methyldiisopropylamine,CN(C(C)C)C(C)C,10342-97-9,5.085,0.9225,0.6562202374203343,low-fidelity RED
+Dimethyl-sec-Butylamine,CN(C)C(C)CC,921-04-0,5.495,0.9458,0.7913595895672207,low-fidelity RED
+Methylethylpropylamine,CN(CC)CCC,4458-32-6,4.932,0.9538,0.952955927627296,low-fidelity RED
+Dimethyldodecylamine,CN(CCCCCCCCCCCC)C,112-18-5,5.033,0.8601,0.8986100377805712,low-fidelity RED
+Trans-1-Fluoro-1-Dodecene,F/C=C/CCCCCCCCCC,66553-44-4,5.093,0.9388,0.82802475808396,low-fidelity RED
+Cis-1-Fluoro-1-Decene,F\C=C/CCCCCCCC,66291-49-4,5.093,0.9388,0.8015609770940698,low-fidelity RED
+"1,2,2-Trifluorovinylbenzene",FC(=C(F)c1ccccc1)F,447-14-3,5.998,0.938,0.9669539802906865,low-fidelity RED
+Hexafluorobenzene,FC(C(F)=C(F)C(F)=C1F)=C1F,392-56-3,5.213,0.8102,0.7008922884438095,high-fidelity RED
+2-Fluorohexane,FC(C)CCCC,372-54-3,5.322,0.8295,0.653834841531101,low-fidelity RED
+"2,2,4,4-Tetrafluoro-1-Trifluoromethyl-3-Oxabicyclo[3.1.0]Hexane",FC(C1CC(C(F)(F)F)1C2(F)F)(O2)F,161504-23-0,5.133,1.226,0.9280355596635292,low-fidelity RED
+"1,2-Propadiene, 1,1,3,3-Tetrafluoro-",FC(F)=C=C(F)F,461-68-7,5.079,0.8731,0.8739279146474268,low-fidelity RED
+"1,1-Difluoropentane",FC(F)CCCC,62127-40-6,5.288,0.8192,0.8958236433584459,low-fidelity RED
+"1,1-Difluorohexane",FC(F)CCCCC,62127-41-7,5.345,0.815,0.8916277250063506,low-fidelity RED
+"1,1-Difluoroheptane",FC(F)CCCCCC,407-96-5,5.292,0.8284,0.8810505093353049,low-fidelity RED
+"1,1-Difluorononane",FC(F)CCCCCCCC,62127-42-8,5.292,0.8284,0.7988272654335229,low-fidelity RED
+"1,1-Difluorodecane",FC(F)CCCCCCCCC,62127-43-9,5.292,0.8284,0.8250000000000001,low-fidelity RED
+"1,1-Difluoroundecane",FC(F)CCCCCCCCCC,62127-44-0,5.292,0.8284,0.812403840463596,low-fidelity RED
+"1,1-Difluorotridecane",FC(F)CCCCCCCCCCCC,62127-02-0,5.292,0.8284,0.7648529270389176,low-fidelity RED
+"1,1-Difluorotetradecane",FC(F)CCCCCCCCCCCCC,62127-03-1,5.292,0.8284,0.7766112283504533,low-fidelity RED
+Octafluorocyclopentene,FC1=C(F)C(F)(F)C(F)(F)C1(F)F,559-40-0,4.94,0.8351,0.6543126164151202,low-fidelity RED
+"1-Fluoro-2,2-Dimethylpropane",FCC(C)(C)C,59006-05-2,5.239,0.7889,0.8867073925484099,low-fidelity RED
+"Dimethyl-2,2-Dimethylpropylamine",N(C)(C)CC(C)(C)C,10076-31-0,5.157,0.9152,0.7106335201775947,low-fidelity RED
+Dimethylisobutylamine,N(C)(C)CC(C)C,7239-24-9,5.378,0.8249,0.8764274071479051,low-fidelity RED
+Dimethyltetradecylamine,N(C)(C)CCCCCCCCCCCCCC,112-75-4,5.033,0.8601,0.9450529085717903,low-fidelity RED
+Dimethylhexadecylamine,N(C)(C)CCCCCCCCCCCCCCCC,112-69-6,5.033,0.8601,0.8919781387455641,low-fidelity RED
+Methylethylbutylamine,N(C)(CC)CCCC,66225-40-9,5.21,0.9767,0.9737171047075224,low-fidelity RED
+Dimethyl-2-Methylbutylamine,N(CC(C)CC)(C)C,66225-39-6,5.442,0.9638,0.8200609733428362,low-fidelity RED
+Methyldipropylamine,N(CCC)(CCC)C,3405-42-3,5.088,0.8576,0.8721381771256205,low-fidelity RED
+Dimethyloctylamine,N(CCCCCCCC)(C)C,7378-99-6,5.033,0.8601,0.9490126448051155,low-fidelity RED
+Dimethyldecylamine,N(CCCCCCCCCC)(C)C,1120-24-7,5.033,0.8601,0.9842509842514763,low-fidelity RED
+Dimethyleicosylamine,N(CCCCCCCCCCCCCCCCCCCC)(C)C,45275-74-9,5.033,0.8601,0.8314144574157949,low-fidelity RED
+Eicosylamine,NCCCCCCCCCCCCCCCCCCCC,10525-37-8,5.568,0.9102,0.9861541461658011,low-fidelity RED
+Tripentyl Borate,O(B(OCCCCC)OCCCCC)CCCCC,621-78-3,5.695,0.7419,0.7945124291035351,low-fidelity RED
+Ethyl Tert-Pentyl Ether,O(C(C)(C)CC)CC,919-94-8,5.47,0.8929,0.9424038412485382,low-fidelity RED
+Diisobutyl Ether,O(CC(C)C)CC(C)C,628-55-7,5.928,0.8925,0.9069178573608527,low-fidelity RED
+Triethoxyallylsilane,O(CC)[Si](OCC)(OCC)C\C=C,4/1/50 0:00,5.327,0.99,0.8336666000266535,low-fidelity RED
+Dinonyl Ether,O(CCCCCCCCC)CCCCCCCCC,2456-27-1,5.855,0.7897,0.9476945710512436,low-fidelity RED
+Didecyl Ether,O(CCCCCCCCCC)CCCCCCCCCC,2456-28-2,5.855,0.7897,0.9347459547919962,low-fidelity RED
+Tetrahydromyrcenyl Acetate,O=C(OC(CCCC(CC)C)(C)C)C,68480-08-0,7.179,1.16,0.987420882906575,low-fidelity RED
+Myristyl_Myristate,O=C(OCCCCCCCCCCCCCC)CCCCCCCCCCCCC,3234-85-3,7.62,0.9126,0.9287087810503356,low-fidelity RED
+Palmityl Behenate,O=C(OCCCCCCCCCCCCCCCC)CCCCCCCCCCCCCCCCCCCCC,42233-11-4 ,7.62,0.9126,0.8143248737451166,low-fidelity RED
+Behenyl_Behenate,O=C(OCCCCCCCCCCCCCCCCCCCCCC)CCCCCCCCCCCCCCCCCCCCC,17671-27-1,7.62,0.9126,0.8359126748650252,low-fidelity RED
+Trioctylphosphine,P(CCCCCCCC)(CCCCCCCC)CCCCCCCC,4731-53-7,5.71,0.9249,0.555090082779363,low-fidelity RED
+"2,2-Dimethyl-3-Thiapentane",S(CC)C(C)(C)C,14290-92-7,5.188,0.7757,0.9823441352194253,low-fidelity RED

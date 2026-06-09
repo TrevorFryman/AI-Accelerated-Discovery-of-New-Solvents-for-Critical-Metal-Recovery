@@ -1,0 +1,19 @@
+Name,solvent_SMILES,CAS,G-score prediction,G-score prediction uncertainty,Relative Energy Difference (RED),Source
+N-Methyl Formamide,O=CNC,123-39-7,5.266,0.7578,0,high-fidelity RED
+"2-Bromo-2-Nitropropane-1,3-Diol",[O-][N+](=O)C(Br)(CO)CO,52-51-7,5.374,1.009,0.9656603957913986,low-fidelity RED
+Acetamide,CC(N)=O,60-35-5,6.204,0.6921,0.8518362518700411,high-fidelity RED
+N-Methyl Acetamide,CC(NC)=O,79-16-3,6.039,0.8963,0.8891709621889371,high-fidelity RED
+Lactonitrile,CC(O)C#N,78-97-7,6.342,0.9375,0.6882949948968099,low-fidelity RED
+Carbamyl Chloride,ClC(=O)N,463-72-9,5.782,0.7208,0.739087274954725,low-fidelity RED
+Aminoacetonitrile,N#CCN,540-61-4,5.856,0.8638,0.8923284148787378,low-fidelity RED
+Adipamide,NC(CCCCC(N)=O)=O,628-94-4,7.442,0.8457,0.3913118960624636,low-fidelity RED
+"Ethanol, 2-Nitro-",O=[N+]([O-])CCO,625-48-9,6.674,0.8488,0.7215434844830907,low-fidelity RED
+"2-Propenamide,_n-(Hydroxymethyl)-",O=C(\C=C)NCO,924-42-5,6.656,0.9543,0.9263503656824457,low-fidelity RED
+Succinic Anhydride,O=C(CC1)OC1=O,108-30-5,6.789,0.8068,0.6828250141873845,high-fidelity RED
+Urea Min Sphere,O=C(N)N,57-13-6,6.27,0.6951,0.3889087296526015,high-fidelity RED
+n-Nitroso-N-Methylurea,O=C(N)N(N=O)C,684-93-5,6.689,1.011,0.6344288770224762,low-fidelity RED
+l-Glutathione,O=C(NCC(=O)O)[C@@H](NC(=O)CC[C@@H](C(=O)O)N)CS,70-18-8,7.119,1.165,0.739932429347437,low-fidelity RED
+Adipic Dihydrazide,O=C(NN)CCCCC(=O)NN,1071-93-8,7.859,1.13,0.9253377761660876,low-fidelity RED
+Cyanoacetic Acid,O=C(O)CC#N,372-09-8,6.077,0.9697,0.7537406715840675,low-fidelity RED
+Ethylene Cyanohydrin,OCCC#N,109-78-4,7.335,0.854,0.4366062299143247,high-fidelity RED
+N-Methyldithiocarbamicacid,S=C(S)NC,144-54-7,5.431,1.027,0.8933784192602819,low-fidelity RED

@@ -1,0 +1,536 @@
+Name,solvent_SMILES,CAS,G-score prediction,G-score prediction uncertainty,Relative Energy Difference (RED),Source
+Tetramethylurea,O=C(N(C)C)N(C)C,632-22-4,5.057,0.7453,0,high-fidelity RED
+Methyl Formate,[H]C(OC)=O,107-31-3,5.406,0.7389,0.7297259759663206,high-fidelity RED
+Ethyl Formate,[H]C(OCC)=O,109-94-4,5.85,0.7648,0.8860022573334673,high-fidelity RED
+3-Bromo-3-Buten-1-ol,Br/C(=C)CCO,76334-36-6,7.133,0.9629,0.6269968101992233,low-fidelity RED
+"Butanoic Acid, 2-Bromo-3-Methyl-",BrC(C(O)=O)C(C)C,565-74-2,6.178,0.9242,0.45069390943299864,low-fidelity RED
+Thiocyanic Acid,C(#N)S,463-56-9,5.713,0.7823,0.18371173070873878,high-fidelity RED
+Cis-2-Methyl-2-Butenoic Acid,C(=C(\C(=O)O)C)/C,565-63-9,5.859,0.7935,0.7163274390947203,low-fidelity RED
+Isocyanic Acid,C(=N)=O,75-13-8,5.41,0.8595,0.9775607398008573,high-fidelity RED
+Dichloroacetaldehyde,C(=O)C(Cl)Cl,79-02-7,5.063,0.8355,0.9034655499796326,high-fidelity RED
+2-Bromobutanoic Acid,C(C(C(O)=O)Br)C,80-58-0,6.327,0.9299,0.8291561975888498,low-fidelity RED
+Neohexanoic Acid,C(C(C)(C(O)=O)C)C,595-37-9,6.153,0.873,0.9555757426808195,low-fidelity RED
+3-Methyl-2-Butenoic Acid,C(C)(C)=CC(=O)O,541-47-9,5.8,0.935,0.7163274390947203,low-fidelity RED
+"2,2,4-Trimethyl-1,3-Pentanediol",C(C)(C)C(C(CO)(C)C)O,144-19-4,6.547,0.9848,0.9195787078874756,low-fidelity RED
+Succinaldehyde (Butanedial),C(CC=O)C=O,638-37-9,5.902,0.8049,0.4220485754033537,high-fidelity RED
+Spermidin,C(CCNCCCN)CN,124-20-9,5.667,1.142,0.7905694150420949,high-fidelity RED
+"1,2-Ethane Dithiol",C(CS)S,540-63-6,5.43,0.722,0.8678277478854889,high-fidelity RED
+"1-Ethoxy-2,2,2-Trifluoro-Ethanol",C(F)(C(OCC)O)(F)F,433-27-2,5.411,0.9919,0.896521053852055,low-fidelity RED
+1-Aminocyclopropane Carboxylic Acid,C(O)(=O)C1(CC1)(N),22059-21-8,6.037,0.9254,0.8189169677079599,high-fidelity RED
+2-Amino-2-Methyl-1-Propanol,C[C](N)(C)CO,124-68-5,6.279,0.945,0.9766012492312304,low-fidelity RED
+Methyl Laevo-Lactate,C[C@@H](C(=O)OC)O,27871-49-4,6.983,0.7522,0.9273618495495706,low-fidelity RED
+"(E)-Para-Menthane-3,8-Diol",C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)(C)O,3564-98-5,6.478,1.115,0.7424621202458747,low-fidelity RED
+Cholic Acid,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C]3(CC[C@H](C4)O)C)O)O)C,81-25-4,7.394,1.502,0.7893826701923475,low-fidelity RED
+Cis-4-Methylcyclohexanol,C[C@H]1CC[C@@H](O)CC1,7731-28-4,6.102,1.014,0.8370334521391601,low-fidelity RED
+Trans-4-Methylcyclohexanol,C[C@H]1CC[C@H](O)CC1,7731-29-5,6.102,1.014,0.8370334521391601,low-fidelity RED
+Dimethyl Citraconate,C/C(=C/C(=O)OC)/C(=O)OC,617-54-9,6.129,1.091,0.9467048114380745,low-fidelity RED
+8-Hydroxylinalool,C/C(=C\CCC(C)(C=C)O)/CO,64142-78-5,6.305,1.221,0.8558621384311845,low-fidelity RED
+Crotonaldehyde,C/C=C/C=O,4170-30-3,5.524,0.9885,0.95818839483684,low-fidelity RED
+2-Methyl (Cis) Acrylic Acid,C/C=C\C(O)=O,503-64-0,5.783,0.9192,0.8291561975888498,high-fidelity RED
+Cis-Crotonaldehyde,C/C=C\C=O,15798-64-8,5.524,0.9885,0.95818839483684,low-fidelity RED
+2-Methyl-2-Buten-1-ol,C\C=C(/C)\CO,4675-87-0,6.183,0.8233,0.5618051263561058,low-fidelity RED
+(Z)-3-Penten-1-ol,C\C=C/CCO,764-38-5,6.95,1.038,0.5921359641163506,low-fidelity RED
+Cis-2-Butene-1-ol,C\C=C/CO,4088-60-2,6.709,0.8859,0.8093207028119322,low-fidelity RED
+2-Methyl-3-Pentenoic Acid,C\C=C\C(C)C(=O)O,37674-63-8,6.213,0.9221,0.7035623639735143,low-fidelity RED
+(E)-3-Penten-2-ol,C\C=C\C(C)O,3899-34-1,6.408,0.9327,0.7163274390947201,low-fidelity RED
+"(E,E)-Sorbic Acid",C\C=C\C=C\C(=O)O,110-44-1,5.533,1.095,0.8249999999999997,low-fidelity RED
+"(E,E)-2,4-Hexadien-1-ol",C\C=C\C=C\CO,17102-64-6,6.149,1.047,0.731864058415222,low-fidelity RED
+(E)-4-Hexen-1-ol,C\C=C\CCCO,928-92-7,7.849,0.9893,0.5522680508593629,low-fidelity RED
+(E)-3-Penten-1-ol,C\C=C\CCO,764-37-4,6.95,1.038,0.5921359641163506,low-fidelity RED
+Mepafynol,C#CC(C)(O)CC,77-75-8,5.985,0.9206,0.8131727983645295,low-fidelity RED
+α-Chloro Methyl Acrylate,C=C(C(=O)OC)Cl,80-63-7,5.415,1.013,0.7754031209635408,high-fidelity RED
+1-Fluoro Acrylic Acid,C=C(C(O)=O)F,430-99-9,5.156,0.9069,0.6229967897188554,high-fidelity RED
+2-Hydroxyethyl Methacrylate,C=C(C(OCCO)=O)C,868-77-9,7.017,1.064,0.2622022120425379,low-fidelity RED
+"3-Buten-1-ol, 3-Methyl-",C=C(C)CCO,763-32-6,7.062,0.9318,0.6128825336065625,low-fidelity RED
+Acryloxy Propionic Acid,C=CC(=O)OCCC(O)=O,24615-84-7,6.866,1.036,0.673145600891813,low-fidelity RED
+Acrylic Acid,C=CC(O)=O,79-10-7,5.587,0.8488,0.5172040216394297,high-fidelity RED
+3-Buten-2-ol,C=CC(O)C,598-32-3,6.38,0.8421,0.7905694150420948,low-fidelity RED
+Acrolein,C=CC=O,107-02-8,5.289,0.8194,0.9604686356149272,high-fidelity RED
+"3,4-Epoxy-1-Butene",C=CC1CO1,930-22-3,5.322,1.045,0.9100137361600646,high-fidelity RED
+Vinylacetic Acid,C=CCC(O)=O,625-38-7,5.925,0.9053,0.9940447676035518,low-fidelity RED
+Allyl Acetic Acid,C=CCCC(=O)O,591-80-0,6.187,0.9521,0.8782084035125146,high-fidelity RED
+5-Hexen-1-ol,C=CCCCCO,821-41-0,7.633,0.9446,0.7470776398741964,low-fidelity RED
+4-Penten-1-ol,C=CCCCO,821-09-0,7.44,0.8935,0.5645794895318106,low-fidelity RED
+Allyl Amine,C=CCN,107-11-9,5.459,0.8086,0.87213817712562,high-fidelity RED
+2-Allyloxyethanol,C=CCOCCO,111-45-5,7.126,0.9091,0.5031152949374523,low-fidelity RED
+Allyl Mercaptan,C=CCS,870-23-5,5.254,0.8369,0.9344115795515378,high-fidelity RED
+s-Allyl-Laevo-Cysteine,C=CCSCC(C(=O)O)N,21593-77-1,6.649,1.08,0.7925433742073683,low-fidelity RED
+Ethenyl 2-Chloroacetate,C=COC(=O)CCl,2549-51-1,5.49,0.9164,0.8732124598286494,low-fidelity RED
+Vinyl Formate,C=COC=O,692-45-5,5.435,0.8572,0.8810505093353042,high-fidelity RED
+HBVE,C=COCCCCO,17832-28-9,7.444,0.9822,0.49307707308290005,low-fidelity RED
+2-Ethenoxyethanol,C=COCCO,764-48-7,6.562,0.9711,0.7284401142166733,low-fidelity RED
+Diethylene Glycol Divinyl Ether,C=COCCOCCOC=C,764-99-8,5.408,0.9268,0.8796306042879588,high-fidelity RED
+"Trans-1,8-Terpin",C1(C)(O)CCC(C(C)(C)(O))CC1,565-50-4,5.909,1.007,0.7810249675906654,low-fidelity RED
+Phenethyl Lactate,C1=CC=C(C=C1)CCOC(=O)CCO,10138-63-3,8.991,1.097,0.8692669325356857,low-fidelity RED
+Ethylene Glycol Mono Benzyl Ether,C1=CC=C(C=C1)COCCO,622-08-2,8.105,0.9392,0.8503675675847476,high-fidelity RED
+Furfuryl Formate,C1=COC(=C1)COC=O,13493-97-5,7.239,1.124,0.8340413658806144,low-fidelity RED
+Hyacinth Acetal,C1C(COC(O1)CC2=CC=CC=C2)O,29895-73-6,7.393,1.264,0.9893179468704685,low-fidelity RED
+Cyclohexyl Acetic Acid,C1CCC(CC1)CC(=O)O,5292-21-7,6.426,0.8675,0.8860022573334672,low-fidelity RED
+Cyclohexyl Ethyl Alcohol,C1CCC(CC1)CCO,4442-79-9,7.04,0.9379,0.962094070244693,low-fidelity RED
+Cyclopentylacetic Acid,C1CCCC1CC(O)=O,1123-00-8,6.221,0.8735,0.8093207028119322,low-fidelity RED
+"1,3-Dioxane",C1OCCCO1,505-22-6,5.322,0.8822,0.9103570728016562,low-fidelity RED
+Methacrylamide,CC(=C)C(=O)N,79-39-0,6.124,0.8937,0.845576726264388,high-fidelity RED
+3-Isopropenyl-6-Oxoheptanoic Acid,CC(=C)C(CCC(=O)C)CC(=O)O,4436-82-2,6.45,1.289,0.6675514961409342,low-fidelity RED
+Limonene Glycol,CC(=C)C1CCC(C(C1)O)(C)O,1946-00-5,5.649,1.248,0.6805328794408095,low-fidelity RED
+"Para-Menth-8-En-1,2-Diol",CC(=C1CCC(C(C1)O)(C)O)C,89708-25-8,6.704,1.171,0.7668930825088988,low-fidelity RED
+4-Methyl-3-Pentenoic Acid,CC(=CCC(=O)O)C,504-85-8,6.058,0.8575,0.656220237420334,low-fidelity RED
+4-Methyl-3-Penten-1-ol,CC(=CCCO)C,763-89-3,6.697,1.003,0.6595452979136458,low-fidelity RED
+Prenol,CC(=CCO)C,556-82-1,6.434,0.886,0.5618051263561058,low-fidelity RED
+3-Hydroxy-4-Phenyl-2-Butanone,CC(=O)C(CC1=CC=CC=C1)O,5355-63-5,6.835,1.096,0.9433981132056607,low-fidelity RED
+Allyl Acetoacetate,CC(=O)CC(=O)OCC=C,1118-84-9,6.623,1.07,0.7909646009778184,high-fidelity RED
+Methyl Levulinate,CC(=O)CCC(=O)OC,624-45-3,6.922,0.8393,0.877852493303972,low-fidelity RED
+2-Keto-4-Butane Thiol,CC(=O)CCS,34619-12-0,6.695,0.8313,0.9620940702446927,low-fidelity RED
+Acetol Acetate,CC(=O)COC(=O)C,592-20-1,6.883,0.8263,0.7185053931599955,low-fidelity RED
+1-Mercapto-2-Propanone,CC(=O)CS,24653-75-6,6.279,0.6969,0.9387491677759296,low-fidelity RED
+2-Chloroallylidene Diacetate,CC(=O)OC(C(=C)Cl)OC(=O)C,5459-90-5,6.468,1.062,0.5942432162002355,high-fidelity RED
+Glucose Pentaacetate,CC(=O)OC[C@H]([C@H]([C@@H]([C@H](C=O)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C,3891-59-6,7.406,1.152,0.8492643875731516,low-fidelity RED
+2-Chloroethyl Acetate,CC(=O)OCCCl,542-58-5,6.307,0.8802,0.6519202405202648,high-fidelity RED
+Thioacetic Acid,CC(=O)S,507-09-5,5.962,0.7136,0.6623820649745884,high-fidelity RED
+Acetoin Acetate,CC(C(=O)C)OC(=O)C,4906-24-5,6.749,0.9461,0.982980162566875,low-fidelity RED
+3-Mercapto-2-Butanone,CC(C(=O)C)S,40789-98-8,6.273,0.7343,0.9788385975225947,low-fidelity RED
+2-Methyl Thiopropionic Acid,CC(C(=O)O)SC,58809-73-7,6.251,0.8674,0.83815273071201,low-fidelity RED
+Methyl 2-Mercaptopropionate,CC(C(=O)OC)S,53907-46-3,6.689,0.8541,0.5662375826453065,low-fidelity RED
+Benzyl Lactate,CC(C(=O)OCC1=CC=CC=C1)O,2051-96-9,7.922,1.039,0.9607939425287817,low-fidelity RED
+"(R*,S*)-2-Mercapto-3-Butanol",CC(C(C)S)O,37887-04-0,6.262,0.8007,0.7433034373659254,low-fidelity RED
+Roasted Butanol,CC(C(C)SC(C)C(C)S)O,54957-02-7,6.101,0.8016,0.900694176732591,low-fidelity RED
+"2,4,6-Cycloheptatrien-1-One, 2-Hydroxy-4-(1-Methylethyl)-  Hinokitiol",CC(C(C=C1O)=CC=CC1=O)C,499-44-5,7.488,1.025,0.8007808689023492,low-fidelity RED
+"2-Butanone, 3-Hydroxy-",CC(C(O)C)=O,513-86-0,6.689,0.7269,0.9552486587271402,low-fidelity RED
+"Popanoic Acid, 2-Oxo-, Methyl Este",CC(C(OC)=O)=O,600-22-6,5.517,0.918,0.7403546447480424,low-fidelity RED
+"2,2-Dimethylpropanoic Acid",CC(C)(C)C(O)=O,75-98-9,5.665,0.8287,0.9581883948368396,low-fidelity RED
+"2,2-Dimethyl-1-Propanol (Neopentyl Alc.)",CC(C)(C)CO,75-84-3,6.186,0.8286,0.9347459547919957,high-fidelity RED
+Dipropylene Glycol t-Butyl Ether,CC(C)(C)OC(C)COCC(O)C,132739-31-2,7.204,1.158,0.9013878188659972,low-fidelity RED
+Ethylene Glycol Mono t-Butyl Ether,CC(C)(C)OCCO,7580-85-0,6.976,0.8513,0.8764274071479046,high-fidelity RED
+t-Butyl Hydroperoxide,CC(C)(C)OO,75-91-2,6.039,0.8057,0.9433981132056599,low-fidelity RED
+2-Methyl-3-Buten-2-ol,CC(C)(C=C)O,115-18-4,5.817,0.8894,0.8947765084086637,low-fidelity RED
+3-Methoxy-3-Methyl Butanol,CC(C)(CCO)OC,56539-66-3,7.064,0.839,0.7574628703771557,high-fidelity RED
+3-Mercapto-3-Methyl Butanol,CC(C)(CCO)S,34300-94-2,6.865,0.8556,0.4301162633521312,low-fidelity RED
+"2,3-Dimethyl-2,3-Butanediol",CC(C)(O)C(C)(O)C,76-09-5,6.135,0.7789,0.673145600891813,low-fidelity RED
+"3-Butyn-2-ol, 2-Methyl-",CC(C)(O)C#C,115-19-5,5.584,0.8953,0.45345892868042625,low-fidelity RED
+Triacetone Alcohol,CC(C)(O)CC(=O)CC(C)(O)C,3682-91-5,6.59,0.9747,0.07500000000000033,low-fidelity RED
+Cumene Hydroperoxide,CC(C)(OO)C1=CC=CC=C1,80-15-9,6.993,1.098,0.4886205071423025,low-fidelity RED
+"(E)-2,4-Dimethyl-2-Pentenoic Acid ",CC(C)\C=C(/C)\C(=O)[O-],21016-46-6,6.196,0.9989,0.8518362518700408,low-fidelity RED
+4-Methyl-2-Pentenoic Acid,CC(C)\C=C\C(=O)O,10321-71-8,6.22,1.008,0.6269968101992223,low-fidelity RED
+Dimethyl Pyruvic Acid,CC(C)C(=O)C(=O)O,759-05-7,6.237,0.883,0.574456264653803,low-fidelity RED
+"Dextro,Laevo-Valine",CC(C)C(C(=O)O)N,516-06-3,5.924,0.9707,0.6041522986797284,low-fidelity RED
+"4,5-Dimethyl-1-Hexanol",CC(C)C(C)CCCO,E14149,7.666,0.8997,0.8739279146474261,low-fidelity RED
+"2-Isopropyl-1,4-Butanediol",CC(C)C(CCO)CO,39497-66-0,7.176,0.9766,0.9775607398008573,low-fidelity RED
+Isobutyric Acid,CC(C)C(O)=O,79-31-2,6.197,0.8111,0.8692669325356852,high-fidelity RED
+"2,4-Dimethyl-2-Pentenoic Acid",CC(C)C=C(C)C(O)=O,66634-97-7,5.657,0.9371,0.8518362518700408,low-fidelity RED
+4-Methyl-2-Oxovaleric Acid,CC(C)CC(=O)C(=O)O,816-66-0,5.826,0.9283,0.37499999999999994,low-fidelity RED
+2-Hydroxy-5-Methyl-3-Hexanone,CC(C)CC(=O)C(C)O,246511-74-0,6.415,0.902,0.37831864876053883,low-fidelity RED
+3-Hydroxy-5-Methyl-2-Hexanone,CC(C)CC(C(=O)C)O,163038-04-8,6.325,0.9201,0.37831864876053883,low-fidelity RED
+Methyl 2-Hydroxy-4-Methyl Valerate,CC(C)CC(C(=O)OC)O,40348-72-9,6.743,0.9374,0.5937171043518955,low-fidelity RED
+4-Methyl-1-Pentanol,CC(C)CCCO,626-89-1,7.492,0.7962,0.9344115795515378,low-fidelity RED
+Isoamyl Lactate,CC(C)CCOC(=O)C(C)O,19329-89-6,6.876,0.981,0.7335700375560602,low-fidelity RED
+Isobutyl Lactate,CC(C)COC(=O)C(C)O,585-24-0,7.145,0.9122,0.5937171043518955,low-fidelity RED
+3-(Methyl Thio) Butyric Acid,CC(CC(=O)O)SC,16630-65-2,6.419,0.9184,0.680073525436772,low-fidelity RED
+Methyl 3-Hydroxybutyrate,CC(CC(=O)OC)O,1487-49-6,7.24,0.9101,0.620987117418711,low-fidelity RED
+Methyl 3-Mercaptobutanoate,CC(CC(=O)OC)S,54051-19-3,6.583,0.9389,0.7862092596758194,low-fidelity RED
+4-Mercapto-4-Methyl-2-Pentanol,CC(CC(C)(C)S)O,31539-84-1,7.26,0.966,0.5755432216610666,low-fidelity RED
+Diacetone Alcohol,CC(CC(C)(O)C)=O,123-42-2,6.621,0.8797,0.4527692569068701,high-fidelity RED
+"2,4-Heptanediol",CC(CC(CCC)O)O,20748-86-1,6.62,0.9048,0.9842509842514764,low-fidelity RED
+Methyl Aceto Acetate,CC(CC(OC)=O)=O,105-45-3,6.31,0.7922,0.555090082779363,high-fidelity RED
+Ethyl Aceto Acetate (Keto),CC(CC(OCC)=O)=O,141-97-9,6.545,0.909,0.7185053931599955,high-fidelity RED
+2-Methylbutyric Acid,CC(CC)C(O)=O,116-53-0,6.418,0.8153,0.7972609359550984,low-fidelity RED
+Ethyl 2-Hydroxy-3-Methyl Valerate,CC(CC)C(O)C(=O)OCC,24323-38-4,7.24,0.8464,0.8015609770940695,low-fidelity RED
+3-Methyl-1-Pentanol,CC(CC)CCO,589-35-5,7.174,0.8976,0.9823441352194247,low-fidelity RED
+sec-Butyl Glycolate,CC(CC)OC(=O)CO,E13626,6.963,0.9445,0.4415880433163922,low-fidelity RED
+2-Methyl-4-Pentenoic Acid,CC(CC=C)C(=O)O,1575-74-2,6.556,0.9196,0.7132671308843551,low-fidelity RED
+4-Penten-2-ol,CC(CC=C)O,625-31-0,6.892,0.8741,0.7271519786124492,low-fidelity RED
+4-Methyl Cyclohexanol (Mix),CC(CC1)CCC1O,589-91-3,6.102,1.014,0.6547900426854396,high-fidelity RED
+Levulinic Acid,CC(CCC(O)=O)=O,123-76-2,6.221,0.8368,0.9394147114027973,low-fidelity RED
+Cis-3-Methylcyclohexanol,CC(CCC1)CC1O,5454-79-5,6.569,1.087,0.8463155439905378,low-fidelity RED
+Hydroxycitronellol,CC(CCCC(C)(C)O)CCO,107-74-4,7.93,0.9681,0.6675514961409345,low-fidelity RED
+"2,6-Heptanediol",CC(CCCC(O)C)O,5969-12-0,7.193,0.8672,0.9303897032964197,low-fidelity RED
+"3,4-Dimethyl-1,4-Pentanediol",CC(CCO)C(C)(C)O,63521-36-8,7.465,0.9277,0.820441954071097,low-fidelity RED
+3-(Ethyl Thio) Butanol,CC(CCO)SCC,117013-33-9,7.13,0.9464,0.6528782428600298,low-fidelity RED
+(±)-3-Mercapto-1-Butyl Acetate,CC(CCOC(=O)C)S,89534-38-3,7.316,0.9062,0.9733961166965892,low-fidelity RED
+"Propanoic Acid, 2-Chloro-",CC(Cl)C(O)=O,598-78-7,5.639,0.8863,0.8310385069297332,low-fidelity RED
+"2,3-Dimethyl-1,3-Pentanediol",CC(CO)C(C)(O)CC,66225-52-3,7.213,0.8749,0.9617692030835672,low-fidelity RED
+3-Mercapto-2-Methyl-1-Butanol,CC(CO)C(C)S,227456-33-9,6.936,0.6926,0.604152298679729,low-fidelity RED
+2-Methyl-3-Buten-1-ol,CC(CO)C=C,4516-90-9,6.811,0.9171,0.7369701486491831,low-fidelity RED
+Propylene Glycol Mono-t-Butyl Ether,CC(COC(C)(C)C)O,57018-52-7,7.153,0.9098,0.8764274071479046,high-fidelity RED
+Tripropylene Glycol Monomethyl Ether,CC(COC(COC(COC)C)C)O,30373-82-1,6.584,0.9554,0.9839334327077207,high-fidelity RED
+Propylene Glycol Monomethyl Ether Acetate,CC(COC)OC(=O)C,108-65-6,6.721,0.8783,0.9027735042633891,high-fidelity RED
+Propylene Glycol Phenyl Ether,CC(COC1=CC=CC=C1)O,770-35-4,8.456,0.9928,0.8147085368400159,high-fidelity RED
+Methyl 2-Methyl-3-Mercaptopropionate,CC(CS)C(=O)OC,4131-76-4,6.921,0.7952,0.7862092596758194,low-fidelity RED
+"N,N-Dimethyl Acetamide",CC(N(C)C)=O,127-19-5,5.436,0.7363,0.8503675675847476,low-fidelity RED
+"1,2-Propanediamine",CC(N)CN,78-90-0,5.985,0.7928,0.5836308764964374,low-fidelity RED
+2-Pentanol,CC(O)CCC,6032-29-7,6.625,0.7494,0.914125264939111,high-fidelity RED
+2-Hexanol,CC(O)CCCC,626-93-7,7.003,0.9079,0.9246621004453462,low-fidelity RED
+2-Octanol,CC(O)CCCCCC,123-96-6,7.003,0.9055,0.8778524933039713,high-fidelity RED
+2-Hydroxypropyl Methacrylate,CC(O)COC(=O)C(C)=C,923-26-2,7.406,0.9736,0.5255949010407158,low-fidelity RED
+1-Tert-Butoxy-2-[2-(Hydroxy)Propoxy]Propane,CC(O)COC(C)COC(C)(C)(C),58797-58-3,7.098,0.9707,0.9013878188659972,low-fidelity RED
+Acetic Anhydride,CC(OC(C)=O)=O,108-24-7,5.998,0.732,0.9633924433998845,high-fidelity RED
+Ethylidene Diacetate,CC(OC(C)=O)OC(C)=O,542-10-9,6.84,0.8367,0.87213817712562,low-fidelity RED
+2-Methoxy Propanol-1,CC(OC)CO,1589-47-5,6.609,0.9255,0.5437140792732887,low-fidelity RED
+3-Butoxybutanol,CC(OCCCC)CCO,,7.765,0.9681,0.7909646009778184,high-fidelity RED
+Ethylene Glycol Diacetate,CC(OCCOC(C)=O)=O,111-55-7,7.011,0.6961,0.9581883948368397,high-fidelity RED
+Diethylene Glycol Monoethyl Ether Acetate,CC(OCCOCCOCC)=O,112-15-2,6.906,0.8479,0.9303897032964198,high-fidelity RED
+"1,1-Ethane Dithiol 1% In Ethanol",CC(S)S,69382-62-3,5.393,0.6618,0.922293337284836,low-fidelity RED
+(Z)-3-Hexenoic Acid,CC\C=C/CC(=O)O,1775-43-5,5.854,0.8874,0.6010407640085652,low-fidelity RED
+(Z)-5-Octenoic Acid,CC\C=C/CCCC(=O)O,41653-97-8,6.546,1.034,0.752080447824566,low-fidelity RED
+(Z)-4-Hepten-1-ol,CC\C=C/CCCO,6191-71-5,7.424,0.9793,0.7110731326663944,low-fidelity RED
+Hexenol,CC\C=C/CCO,928-96-1,6.526,1.033,0.6274950199005563,low-fidelity RED
+(Z)-3-Hexen-1-Yl Lactate,CC\C=C/CCOC(=O)C(C)O,61931-81-5,6.949,1.097,0.689655711206686,low-fidelity RED
+(Z)-2-Penten-1-ol,CC\C=C/CO,1576-95-0,6.282,0.8462,0.5984354601792911,low-fidelity RED
+(E)-3-Hexenoic Acid,CC\C=C\CC(=O)O,1577-18-0,5.854,0.8874,0.6010407640085652,low-fidelity RED
+(E)-2-Penten-1-ol,CC\C=C\CO,1576-96-1,6.282,0.8462,0.5984354601792911,low-fidelity RED
+Tiglic Acid,CC=C(C)C(=O)O,13201-46-2,5.859,0.7935,0.7163274390947203,low-fidelity RED
+"2,4-Hexadien-1-ol",CC=CC=CCO,111-28-4,6.149,1.047,0.731864058415222,low-fidelity RED
+4-Hexen-1-ol,CC=CCCCO,6126-50-7,7.849,0.9893,0.5522680508593629,low-fidelity RED
+2-Buten-1-ol,CC=CCO,6117-91-5,6.709,0.8859,0.8093207028119322,low-fidelity RED
+1-Methylcyclopentanol,CC1(O)CCCC1,1462-03-9,5.859,0.8958,0.9516433155337141,low-fidelity RED
+Diosphenol,CC1=C(C(=O)C(CC1)C(C)C)O,490-03-9,7.73,1.189,0.8177713616898068,low-fidelity RED
+2-Hydroxyisophorone,CC1=C(C(=O)CC(C1)(C)C)O,4883-60-7,7.826,1.1,0.6623820649745893,low-fidelity RED
+6-Hydroxycarvone,CC1=CC[C@@H]([C@H](C1=O)O)C(=C)C,51200-86-3,7.376,1.291,0.8645808232895295,low-fidelity RED
+5-Methyl Furfuryl Alcohol,CC1=CC=C(O1)CO,3857-25-8,7.63,1.019,0.7960841664045331,low-fidelity RED
+"2,4-Dimethylimidazol",CC1=CN=C(N1)C,930-62-1,5.504,1.013,0.9924716620639604,low-fidelity RED
+Caramel Furanone,CC1C(=C(C(=O)O1)O)C,28664-35-9,7.896,1.093,0.4802343178074639,low-fidelity RED
+Strawberry Furanone Acetate,CC1C(=O)C(=C(O1)C)OC(=O)C,4166-20-5,7.76,1.125,0.9650129532809391,low-fidelity RED
+Geranium Cyclohexane,CC1CCC(C(C1)O)C(C)(C)O,50373-36-9,6.478,1.115,0.7424621202458747,low-fidelity RED
+Menthoxypropane Diol,CC1CCC(C(C1)OCC(CO)O)C(C)C,87061-04-9,7.642,1.344,0.7782191208136688,low-fidelity RED
+3-Methyl Cyclohexanol (Mix),CC1CCCC(C1)O,591-23-1,6.569,1.087,0.6368869601428496,high-fidelity RED
+2-Methyl Cyclohexanol (Mix),CC1CCCCC1O,583-59-5,6.349,0.9002,0.6010407640085657,high-fidelity RED
+Acetoin Propylene Glycol Acetal,CC1COC(O1)(C)C(C)O,94089-23-3,6.911,1.197,0.41907636535600523,low-fidelity RED
+Sulfuryl Formate,Cc1scnc1CCOC=O,90731-56-9,7.569,1.104,0.9775607398008582,low-fidelity RED
+Acetyl Ethyl Carbinol,CCC(C(=O)C)O,3142-66-3,6.411,0.9117,0.44511234536912153,low-fidelity RED
+3-Mercapto-2-Methyl Pentanol,CCC(C(C)CO)S,227456-27-1,6.876,0.76,0.5080600358225391,low-fidelity RED
+Ethyl 2-Hydroxy-2-Methyl Butyrate,CCC(C)(C(=O)OCC)O,77-70-3,6.905,0.809,0.7232738070744712,low-fidelity RED
+Methyl Ethyl Pyruvic Acid,CCC(C)C(=O)C(=O)O,1460-34-0,6.108,0.9218,0.3132491021535417,low-fidelity RED
+"Dextro,Laevo-Isoleucine",CCC(C)C(C(=O)O)N,443-79-8,6.41,0.9133,0.7877975628294361,low-fidelity RED
+3-Methyl Valeric Acid,CCC(C)CC(=O)O,105-43-1,6.262,0.9757,0.8093207028119316,low-fidelity RED
+sec-Butyl Lactate,CCC(C)OC(=O)C(C)O,18449-60-0,6.948,0.9358,0.6446898479113812,low-fidelity RED
+1-Penten-3-ol,CCC(C=C)O,616-25-1,6.516,1.007,0.7648529270389175,low-fidelity RED
+3-Pentanol,CCC(O)CC,584-02-1,6.235,0.8514,0.8215838362577491,low-fidelity RED
+3-Heptanol,CCC(O)CCCC,589-82-2,6.496,0.9812,0.8249999999999995,high-fidelity RED
+s-Butyl Glycolate,CCC(OC(CO)=O)C,37160-61-5,6.963,0.9445,0.4415880433163922,low-fidelity RED
+2-Methyl-2-Hexenoic Acid,CCC\C=C(/C)\C(=O)O,28897-58-7,6.027,0.8742,0.7566372975210776,low-fidelity RED
+(Z)-4-Octen-1-ol,CCC\C=C/CCCO,54393-36-1,7.283,0.9188,0.9555757426808194,low-fidelity RED
+"2,4-Octadien-1-ol",CCC\C=C\C=C\CO,18409-20-6,6.041,0.9328,0.9953014618697194,low-fidelity RED
+(E)-3-Heptenoic Acid,CCC\C=C\CC(=O)O,28163-84-0,5.818,0.9098,0.7284401142166731,low-fidelity RED
+(E)-4-Octenoic Acid,CCC\C=C\CCC(=O)O,18776-92-6,6.017,0.9714,0.8474225628339145,low-fidelity RED
+2-Methyl-2-Pentenoic Acid,CCC=C(C)C(=O)O,3142-72-1,6.039,0.9218,0.6108395861435306,low-fidelity RED
+3-Hexenoic Acid,CCC=CCC(=O)O,4219-24-3,5.854,0.8874,0.6010407640085652,low-fidelity RED
+(Z)-3-Hexen-1-ol,CCC=CCCO,544-12-7,6.526,1.033,0.6274950199005563,low-fidelity RED
+2-Penten-1-ol,CCC=CCO,20273-24-9,6.282,0.8462,0.5984354601792911,low-fidelity RED
+Shoyu Furanone,CCC1=C(C(=O)C(O1)C)O,27538-09-6,7.589,1.175,0.8340413658806143,low-fidelity RED
+3-Ethyl-4-Methyl Cyclotene,CCC1=C(C(=O)CC1C)O,42348-12-9,7.869,1.079,0.6999999999999998,low-fidelity RED
+Abhexone,CCC1C(=C(C(=O)O1)O)C,698-10-2,8.165,1.096,0.16007810593582114,low-fidelity RED
+5-Ethyl-3-Methyl Cyclotene,CCC1CC(=C(C1=O)O)C,53263-58-4,7.713,1.047,0.6999999999999998,low-fidelity RED
+1-Penten-2-ol,CCCC(=C)O,61923-56-6,5.733,0.9198,0.7420411039827912,low-fidelity RED
+5-Oxooctanoic Acid,CCCC(=O)CCCC(=O)O,3637-14-7,6.438,0.8946,0.24109126902482417,low-fidelity RED
+Propylene Glycol Monobutyrate,CCCC(=O)OCC(C)O,29592-95-8,7.815,0.961,0.47827816174272453,low-fidelity RED
+Butyroin,CCCC(C(=O)CCC)O,496-77-5,6.395,0.9903,0.5595757321399846,low-fidelity RED
+2-Mercapto-2-Methyl-1-Pentanol,CCCC(C)(CO)S,258823-39-1,5.668,0.912,0.7318640584152222,low-fidelity RED
+2-Methyl Valeric Acid,CCCC(C)C(=O)O,97-61-0,6.011,0.8266,0.7850159234053785,low-fidelity RED
+Pineapple Hydroxyhexanoate,CCCC(CC(=O)OC)O,21188-58-9,6.566,0.9685,0.47827816174272453,low-fidelity RED
+Ethyl 3-Hydroxyhexanoate,CCCC(CC(=O)OCC)O,2305-25-1,6.815,0.9769,0.6547900426854395,low-fidelity RED
+3-Thiohexanol,CCCC(CCO)S,51755-83-0,6.486,0.9434,0.4749999999999999,low-fidelity RED
+3-(Methyl Thio) Hexanol,CCCC(CCO)SC,51755-66-9,6.415,0.9386,0.814708536840016,low-fidelity RED
+(Z)-3-Octen-1-ol,CCCC\C=C/CCO,20125-84-2,6.574,1.046,0.9027735042633893,low-fidelity RED
+(E)-2-Heptenoic Acid,CCCC\C=C\C(=O)O,10352-88-2,6.091,1.017,0.7335700375560604,low-fidelity RED
+(E)-3-Octenoic Acid,CCCC\C=C\CC(=O)O,5163-67-7,6.011,0.9778,0.8077747210701754,low-fidelity RED
+(E)-2-Hepten-1-ol,CCCC\C=C\CO,22104-77-4,6.434,0.9362,0.8400148808205719,low-fidelity RED
+(E)-2-Hexenoic Acid,CCCC=CC(=O)O,1191-04-4,5.899,0.9408,0.6269968101992225,low-fidelity RED
+3-Hepten-1-ol,CCCC=CCCO,10606-47-0,6.384,0.9856,0.8325412902673355,low-fidelity RED
+(E)-2-Hexen-1-ol,CCCC=CCO,2305-21-7,6.243,0.8685,0.7267220926874315,low-fidelity RED
+2-Methylhexanoic Acid,CCCCC(C)C(=O)O,4536-23-6,6.48,0.9336,0.8863548950617917,low-fidelity RED
+Di-(2-Ethyl Hexyl) Sebacate,CCCCC(CC)COC(=O)CCCCCCCCC(=O)OCC(CC)CCCC,122-62-3,8.141,1.002,0.9759610647971566,high-fidelity RED
+3-Octanon-1-ol,CCCCC(CO)C(=O)C,65405-68-7,7.361,0.9941,0.28394541729001327,low-fidelity RED
+(Z)-3-Nonen-1-ol,CCCCC\C=C/CCO,10340-23-5,6.765,0.9965,0.9672771061076548,low-fidelity RED
+(E)-2-Octenoic Acid,CCCCC\C=C\C(=O)O,1871-67-6,6.282,0.98,0.8077747210701754,low-fidelity RED
+(E)-2-Octen-1-ol,CCCCC\C=C\CO,18409-17-1,6.625,0.8809,0.9013878188659972,low-fidelity RED
+2-Heptenoic Acid,CCCCC=CC(=O)O,18999-28-5,6.091,1.017,0.7335700375560604,low-fidelity RED
+3-Octenoic Acid,CCCCC=CCC(=O)O,1577-19-1,6.011,0.9778,0.8077747210701754,low-fidelity RED
+5-Oxodecanoic Acid,CCCCCC(=O)CCCC(=O)O,624-01-1,6.701,0.8674,0.43011626335213127,low-fidelity RED
+Propylene Glycol Monohexanoate,CCCCCC(=O)OCC(C)O,39556-41-7,8.399,0.9675,0.7110731326663944,low-fidelity RED
+3-Hydroxy-2-Octanone,CCCCCC(C(=O)C)O,37160-77-3,6.576,1.05,0.37165171868296243,low-fidelity RED
+2-Methyl Heptanoic Acid,CCCCCC(C)C(=O)O,1188-02-9,6.537,0.9197,0.9727538229171856,low-fidelity RED
+Ethyl 3-Hydroxyoctanoate,CCCCCC(CC(=O)OCC)O,7367-90-0,7.476,1.068,0.8732124598286486,low-fidelity RED
+Glyceryl 5-Hydroxydecanoate,CCCCCC(CCCC(=O)OCC(CO)O)O,26446-31-1,8.425,1.239,0.4451123453691209,low-fidelity RED
+Hydroxymethyl Hexyl Ethyl Ketone,CCCCCC(CO)C(=O)C,59191-78-5,7.417,1.007,0.4330127018922191,low-fidelity RED
+2-Heptanol,CCCCCC(O)C,543-49-7,7.058,0.8914,0.8778524933039715,high-fidelity RED
+(Z)-2-Nonen-1-ol,CCCCCC\C=C/CO,41453-56-9,6.571,0.863,0.9672771061076548,low-fidelity RED
+(E)-2-Nonenoic Acid,CCCCCC\C=C\C(=O)O,14812-03-4,6.227,0.9671,0.926350365682445,low-fidelity RED
+(E)-2-Nonen-1-ol,CCCCCC\C=C\CO,31502-14-4,6.571,0.863,0.9672771061076548,low-fidelity RED
+3-Nonenoic Acid,CCCCCC=CCC(=O)O,4124-88-3,6.202,0.9248,0.9113863066779091,low-fidelity RED
+2-Octen-1-ol,CCCCCC=CCO,22104-78-5,6.625,0.8809,0.9013878188659972,low-fidelity RED
+Jasmin Acetate,CCCCCCC(CCOC(=O)C)O,1322-17-4,7.85,0.9931,0.9965565713997374,low-fidelity RED
+Herbal Ketone,CCCCCCC(CO)C(=O)C,67801-33-6,7.361,1.019,0.5921359641163503,low-fidelity RED
+2-Nonenoic Acid,CCCCCCC=CC(=O)O,3760-11-0,6.227,0.9671,0.926350365682445,low-fidelity RED
+Heptanal Glyceryl Acetal,CCCCCCC1OCC(O1)CO,1708-35-6,6.584,1.004,0.7794228634059944,low-fidelity RED
+5-Oxododecanoic Acid,CCCCCCCC(=O)CCCC(=O)O,3637-16-9,6.646,0.8649,0.752080447824566,low-fidelity RED
+Glyceryl 5-Hydroxydodecanoate,CCCCCCCC(CCCC(=O)OCC(CO)O)O,26446-32-2,8.367,1.244,0.43945989578117334,low-fidelity RED
+"1,2-Nonanediol",CCCCCCCC(O)CO,42789-13-9,7.38,0.9965,0.920937022819693,low-fidelity RED
+Nonyl Phenoxy Ethanol,CCCCCCCCCC1=CC=CC=C1OCCO,27986-36-3,8.148,1.109,0.8200609733428362,high-fidelity RED
+"1,2-Dodecanediol",CCCCCCCCCCC(O)CO,1119-87-5,7.38,0.9965,0.9893179468704687,low-fidelity RED
+1-Decanol ,CCCCCCCCCCO,112-30-1,7.453,0.6459,0.9506576670915768,high-fidelity RED
+1-Nonanol,CCCCCCCCCO,143-08-8,7.453,0.6459,0.9192388155425115,high-fidelity RED
+1-Octanol ,CCCCCCCCO,111-87-5,7.453,0.6459,0.8746427842267946,high-fidelity RED
+1-Heptanol,CCCCCCCO,111-70-6,7.453,0.6459,0.8238628526642037,high-fidelity RED
+Heptanal Cyclic Acetal With Glycerol,CCCCCCCOCC(=O)CO,72854-42-3,6.825,1.067,0.48798053239857836,low-fidelity RED
+1-Hexanol,CCCCCCO,111-27-3,7.453,0.6459,0.8127884103504426,high-fidelity RED
+Hexyl Lactate,CCCCCCOC(=O)C(C)O,20279-51-0,7.164,0.9394,0.7267220926874315,low-fidelity RED
+Ethylene Glycol Mono n-Hexyl Ether,CCCCCCOCCO,112-25-4,7.48,0.801,0.8789197915623469,high-fidelity RED
+Diethylene Glycol Hexyl Ether,CCCCCCOCCOCCO,112-59-4,7.468,0.7946,0.6982120021884468,high-fidelity RED
+Amyl Lactate,CCCCCOC(=O)C(C)O,6/5/82 0:00,7.222,0.9325,0.6041522986797284,low-fidelity RED
+2-Pentoxyethanol,CCCCCOCCO,6196-58-3,7.538,0.7969,0.6393355926272208,low-fidelity RED
+2-(2-Pentoxyethoxy)Ethanol,CCCCCOCCOCCO,18912-81-7,7.526,0.79,0.6800735254367718,low-fidelity RED
+n-Butylpropanamide,CCCCNC(=O)CC,2955-67-1,6.287,0.9457,0.9027735042633894,low-fidelity RED
+Butyl Laevo-Lactate,CCCCOC(=O)C(C)O,34451-19-9,7.181,0.931,0.5244044240850754,low-fidelity RED
+"Dextro,Laevo-Dibutyl Malate",CCCCOC(=O)CC(C(=O)OCCCC)O,6280-99-5,7.309,1.09,0.7782191208136688,low-fidelity RED
+Butyl 3-Hydroxybutyrate,CCCCOC(=O)CC(C)O,53605-94-0,7.764,0.9957,0.6041522986797284,low-fidelity RED
+Butyl Cyanoacetate,CCCCOC(=O)CC#N,5459-58-5,7.034,1.048,0.9620940702446928,low-fidelity RED
+Butyl Formate,CCCCOC=O,592-84-7,6.128,0.88,0.7956915231419774,high-fidelity RED
+Dipropylene Glycol Mono N-Butyl Ether,CCCCOCC(C)OCC(C)O,29911-28-2,7.145,1.005,0.7022285952594068,high-fidelity RED
+Butoxy Ethoxy Propanol,CCCCOCC(COCC)O,39332-55-3,6.861,1.031,0.7619875327064082,high-fidelity RED
+Ethylene Glycol Monobutyl Ether,CCCCOCCO,111-76-2,7.494,0.7282,0.910357072801656,high-fidelity RED
+Diethylene Glycol Monobutyl Ether,CCCCOCCOCCO,112-34-5,7.482,0.7182,0.4716990566028298,high-fidelity RED
+Propyl Lactate,CCCOC(=O)C(C)O,616-09-1,6.865,0.9386,0.39449334595148716,low-fidelity RED
+Propyl 4-Hydroxybenzoate,CCCOC(=O)C1=CC=C(C=C1)O,94-13-3,7.274,1.008,0.9263503656824459,low-fidelity RED
+Propyl Salicylate,CCCOC(=O)C1=CC=CC=C1O,607-90-9,7.637,1.021,0.9236476600955585,low-fidelity RED
+Propyl Formate,CCCOC=O,110-74-7,5.804,0.9027,0.8919781387455634,high-fidelity RED
+Propylene Glycol Monopropyl Ether,CCCOCC(C)O,1569-01-3,7.016,0.9691,0.703562363973514,high-fidelity RED
+Dipropylene Glycol Mono n-Propyl Ether,CCCOCC(C)OCC(C)O,29911-27-1,6.929,1.028,0.7603453162872773,high-fidelity RED
+Ethylene Glycol Mono n-Propyl Ether,CCCOCCO,2807-30-9,7.28,0.7904,0.7044501401802681,high-fidelity RED
+Diethylene Glycol Monopropyl Ether,CCCOCCOCCO,6881-94-3,7.269,0.786,0.43660622991432413,high-fidelity RED
+2-(Diethylamino)Ethanol,CCN(CC)CCO,100-37-8,6.108,0.7982,0.8200609733428362,high-fidelity RED
+N-Ethyl Formamide,CCNC=O,627-45-2,6.118,0.938,0.9096702699330127,high-fidelity RED
+Ethyl (2S)-2-Hydroxypropanoate,CCOC([C@H](C)O)=O,687-47-8,6.639,0.7388,0.5396758286230724,low-fidelity RED
+Ethyl Pyruvate,CCOC(=O)C(=O)C,617-35-6,6.51,0.8939,0.8070006195784486,low-fidelity RED
+Diethyl Laevo-Tartrate,CCOC(=O)C(C(C(=O)OCC)O)O,87-91-2,6.962,0.7564,0.9387491677759291,low-fidelity RED
+(±)-Ethyl 3-Hydroxy-2-Methyl Butyrate,CCOC(=O)C(C)C(C)O,27372-03-8,6.813,0.9232,0.5590169943749472,low-fidelity RED
+Ethyl Lactate,CCOC(=O)C(C)O,97-64-3,6.639,0.7388,0.5344389581607984,high-fidelity RED
+Ethyl 2-Mercaptopropionate,CCOC(=O)C(C)S,19788-49-9,6.801,0.8292,0.8336666000266533,low-fidelity RED
+Ethyl Phenyl Lactate,CCOC(=O)C(CC1=CC=CC=C1)O,NF001,7.526,1.06,0.9058835465996723,low-fidelity RED
+Ethyl Vanillate,CCOC(=O)C1=CC(=C(C=C1)O)OC,617-05-0,7.623,1.181,0.9852030247619026,low-fidelity RED
+Ethyl Paraben,CCOC(=O)C1=CC=C(C=C1)O,120-47-8,7.247,0.895,0.9852030247619026,low-fidelity RED
+Diethyl Malate,CCOC(=O)CC(C(=O)OCC)O,12/3/54 0:00,6.722,0.9596,0.22360679774997877,low-fidelity RED
+Grape Butyrate,CCOC(=O)CC(C)O,5405-41-4,7.375,0.9169,0.3749999999999998,low-fidelity RED
+Leather Propionate,CCOC(=O)CC(C1=CC=CC=C1)O,5764-85-2,7.829,1.101,0.9058835465996723,low-fidelity RED
+Ethyl 3-Mercaptopropionate,CCOC(=O)CCS,6/8/66 0:00,7.119,0.8219,0.6964194138592059,low-fidelity RED
+Ethyl Thioglycolate,CCOC(=O)CS,623-51-8,6.54,0.7326,0.47037219305566974,low-fidelity RED
+Diethyl Oxalate,CCOC(C(OCC)=O)=O,95-92-1,6.648,0.8325,0.6062177826491069,high-fidelity RED
+Dianthus Ethone,CCOC1=C(C=CC(=C1)COC)O,5595-79-9,6.876,1.066,0.9048480535426927,low-fidelity RED
+Propylene Glycol Monoethyl Ether,CCOCC(C)O,1569-02-4,6.75,0.906,0.6680194607943692,high-fidelity RED
+Dipropylene Glycol Monoethyl Ether,CCOCC(C)OCC(C)O,30025-38-8,6.663,0.9707,0.7520804478245656,low-fidelity RED
+Vanillyl Ethyl Ether,CCOCC1=CC(=C(C=C1)O)OC,13184-86-6,7.284,1.183,0.9048480535426927,low-fidelity RED
+α-Ethoxy-Ortho-Cresol,CCOCC1=CC=CC=C1O,20920-83-6,6.952,1.053,0.9711462299777518,low-fidelity RED
+3-Ethoxypropionic Acid,CCOCCC(=O)O,4324-38-3,6.292,0.9129,0.44511234536912136,low-fidelity RED
+3-Ethoxy Propionaldehyde,CCOCCC=O,2806-85-1,5.619,0.9498,0.977241014284603,high-fidelity RED
+Ethylene Glycol Monoethyl Ether,CCOCCO,110-80-5,6.763,0.7926,0.8860022573334673,high-fidelity RED
+Ethylene Glycol Monoethyl Ether Acetate,CCOCCOC(=O)C,111-15-9,6.614,0.8295,0.9672771061076548,high-fidelity RED
+Ethylene Glycol Mono Ethyl Ether Acrylate,CCOCCOC(=O)C=C,106-74-1,6.348,0.9835,0.9701803955966124,high-fidelity RED
+Diethylene Glycol Monoethyl Ether,CCOCCOCCO,111-90-0,7.048,0.7889,0.4924428900898045,high-fidelity RED
+Diethyl Peroxide,CCOOCC,628-37-5,5.227,0.7957,0.8415016339853417,low-fidelity RED
+3-Ethyl Thiopropanol,CCSCCCO,18721-61-4,7.127,0.9555,0.5159941860137576,low-fidelity RED
+2-Chloropropanoic Acid,ClC(C(=O)O)C,5/7/74 0:00,5.639,0.8863,0.8310385069297332,low-fidelity RED
+2-Chlorobutanoic Acid,ClC(C(=O)O)CC,4170-24-5,5.614,0.9886,0.5099019513592782,low-fidelity RED
+3-Chlorobutanoic Acid,ClC(C)CC(=O)O,12/8/51 0:00,5.281,1.038,0.5488624600025037,low-fidelity RED
+"Ethanol, 2,2,2-Tichloro-",ClC(Cl)(Cl)CO,115-20-8,5.378,0.8784,0.8796306042879593,low-fidelity RED
+6-Chloro-1-Hexanol,ClCCCCCCO,2009-83-8,6.92,0.8777,0.37914377220257744,low-fidelity RED
+"N,N,N,N-Tetramethylthiourea",CN(C(N(C)C)=S)C,2782-91-4,5.16,0.8625,0.6388466169590321,high-fidelity RED
+Dimethyl Ethanolamine,CN(C)CCO,108-01-0,6.45,0.9157,0.8455767262643878,high-fidelity RED
+Meclofenoxate,CN(C)CCOC(=O)COC1=CC=C(C=C1)Cl,51-68-3,7.204,1.305,0.7889866919029747,high-fidelity RED
+Methyl Hydrazine,CNN,60-34-4,5.407,0.8513,0.9902651160169181,high-fidelity RED
+Methyl Chloroformate,COC(=O)Cl,79-22-1,5.575,0.7238,0.7322909257938404,high-fidelity RED
+Methyl 2-(Methyl Thio) Acetate,COC(=O)CSC,16630-66-3,6.278,0.7972,0.9943590900675674,low-fidelity RED
+Methyl Difluoroacetate,COC(C(F)F)=O,433-53-4,5.904,0.8591,0.9239859306288162,low-fidelity RED
+Methyl Lactate,COC(C(O)C)=O,547-64-8,6.983,0.7522,0.9273618495495706,low-fidelity RED
+Dimethyl Oxalate,COC(C(OC)=O)=O,553-90-2,6.225,0.87,0.20310096011589868,low-fidelity RED
+Dimethyl Glutarate,COC(CCCC(OC)=O)=O,1119-40-0,7.152,0.7442,0.923647660095558,low-fidelity RED
+o-Methoxyphenol (Guaiacol),COC1=CC=CC=C1O,90-05-1,7.117,0.9105,0.7582875444051553,high-fidelity RED
+"2,5-Dimethoxytetrahydrofuran",COC1CCC(O1)OC,696-59-3,5.935,0.9784,0.7449832212875672,high-fidelity RED
+Ethylene Glycol Monomethyl Ether Acetate,COCCOC(C)=O,110-49-6,5.882,0.7545,0.7988272654335224,high-fidelity RED
+Methyl Carbitol,COCCOCCO,111-77-3,6.254,0.7537,0.48218253804964767,low-fidelity RED
+3-Methyl Thiopropionic Acid,CSCCC(=O)O,646-01-5,6.459,0.9405,0.8860022573334678,low-fidelity RED
+4-(Methyl Thio) Butanol,CSCCCCO,20582-85-8,7.642,0.8151,0.6204836822995435,low-fidelity RED
+3-(Methyl Thio) Propanol,CSCCCO,505-10-2,7.488,0.8767,0.7566372975210776,low-fidelity RED
+Pentafluorophenol,FC(C(F)=C1F)=C(C(F)=C1O)F,771-61-9,6.107,0.893,0.8403868156985808,low-fidelity RED
+2-Fluorophenol,Fc1ccccc1O,367-12-4,6.156,0.8794,0.8746427842267956,low-fidelity RED
+Valine,N[C@H](C(O)=O)C(C)C,72-18-4,5.924,0.9707,0.6041522986797284,low-fidelity RED
+Lysine,N[C@H](C(O)=O)CCCCN,56-87-1,6.824,1.091,0.8634958019585273,low-fidelity RED
+"2-Butenoic Acid, 3-Amino-, Ethyl Ester",N/C(C)=C/C(OCC)=O,7318-00-5,6.828,1.01,0.854766049863938,low-fidelity RED
+Propyl Carbamate,NC(=O)OCCC,627-12-3,6.571,0.933,0.43084219849035227,low-fidelity RED
+Ethyl Carbamate,NC(OCC)=O,51-79-6,6.541,0.8335,0.6914658342969666,high-fidelity RED
+Cyclopropylamine,NC1CC1,765-30-0,5.416,0.8394,0.7558108228915488,low-fidelity RED
+6-Aminohexanamide,NCCCCCC(=O)N,373-04-6,7.321,1.049,0.9233092656309697,low-fidelity RED
+"Hexanenitrile, 6-Amino-",NCCCCCC#N,2432-74-8,6.382,1.075,0.8961724164467461,low-fidelity RED
+Hexamethylenediamine,NCCCCCCN,124-09-4,5.704,0.9584,0.8066132902450839,low-fidelity RED
+6-Aminohexanol   (6-Amino-1-Hexanol),NCCCCCCO,4048-33-3,7.728,0.9435,0.6882949948968103,low-fidelity RED
+Cadaverine,NCCCCCN,462-94-2,5.704,0.9584,0.7830229881682911,low-fidelity RED
+"1,4-Butanediamine",NCCCCN,110-60-1,5.759,0.9208,0.5963430220938281,low-fidelity RED
+"1,3-Propanediamine",NCCCN,109-76-2,5.934,0.9246,0.4911720676097129,low-fidelity RED
+Diethylenetriamine,NCCNCCN,111-40-0,5.722,0.9962,0.8696263565463044,high-fidelity RED
+"2-Propanol, 1,3-Dimethoxy-",O(C)CC(O)COC,623-69-8,6.438,0.8697,0.19525624189766663,low-fidelity RED
+2-Phenoxy -1-Propanol,O(c1ccccc1)C(CO)C,4/4/69 0:00,7.929,0.9263,0.9307255234493148,low-fidelity RED
+Secbumeton,O(c1nc(nc(n1)NC(C)CC)NCC)C,26259-45-0,7.036,1.277,0.9708243919473808,low-fidelity RED
+1-O-Octyl- -d-Glucopyranoside,O(CCCCCCCC)[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO,29836-26-8,6.895,1.215,0.8192984804086967,low-fidelity RED
+"1,3,5-Triazine-2,4,6-Triamine, N,N,N,N,N ,N -Hexakis(Methoxy",O(CN(c1nc(nc(n1)N(COC)COC)N(COC)COC)COC)C,3089-11-0,6.153,1.051,0.6523994175349951,low-fidelity RED
+Trans-3-Methylcyclohexanol,O[C@H]1CCC[C@H](C)C1,7443-55-2,6.569,1.087,0.8463155439905378,low-fidelity RED
+Trimethylphosphate,O=[P](OC)(OC)OC,512-56-1,5.076,0.9066,0.7877975628294367,high-fidelity RED
+Butyl Lactate,O=C(C(O)C)OCCCC,138-22-7,7.181,0.931,0.6504805915628838,high-fidelity RED
+Methyl Furoate,O=C(C1=CC=CO1)OC,611-13-2,7.376,1.104,0.5777110004145669,high-fidelity RED
+Cyclopopanecaboxylic Acid,O=C(C1CC1)O,1759-53-1,5.655,0.9222,0.8444672877027267,low-fidelity RED
+Cyclohexanecarboxylic Acid,O=C(C1CCCCC1)O,98-89-5,5.764,0.959,0.8295330011518529,low-fidelity RED
+Propionic Anhydride,O=C(CC)OC(CC)=O,123-62-6,5.87,0.8803,0.9607939425287814,high-fidelity RED
+"Butanedioic Acid, Dimethyl Ester",O=C(CCC(OC)=O)OC,106-65-0,7.004,0.7197,0.6864765108872991,low-fidelity RED
+"Propanoic Acid, 3-Chloro-, Ethyl Ester",O=C(CCCl)OCC,623-71-2,6.482,0.9251,0.9918417212438687,low-fidelity RED
+"Acetic Acid, Chloro-, Ethyl Ester",O=C(CCl)OCC,105-39-5,5.656,0.848,0.8514693182963202,low-fidelity RED
+"Acetic Acid, Hydroxy-, Ethyl Ester",O=C(CO)OCC,623-50-7,6.995,0.8977,0.9940447676035523,low-fidelity RED
+Lauryl Sarcosine,O=C(N(C)CC(=O)O)CCCCCCCCCCC,97-78-9,6.555,0.9134,0.9467048114380744,low-fidelity RED
+Metalaxyl,O=C(N(c1c(cccc1C)C)C(C(=O)OC)C)COC,57837-19-1,6.754,1.235,0.9253377761660879,low-fidelity RED
+"N,N-Bis(2-Hydroxyethyl)Oleamide",O=C(N(CCO)CCO)CCCCCCC/C=C/CCCCCCCC,93-83-4,7.206,1.04,0.3051638903933423,low-fidelity RED
+"2,2-Dimethylpropanamide",O=C(N)C(C)(C)C,754-10-9,6.471,0.8102,0.8276472678623421,low-fidelity RED
+Atenolol,O=C(N)Cc1ccc(OCC(O)CNC(C)C)cc1,29122-68-7,9.162,1.411,0.9226321043622976,low-fidelity RED
+Pentanamide,O=C(N)CCCC,626-97-1,7.063,0.8125,0.8097067370350827,low-fidelity RED
+n-Glycylleucine,O=C(NC(C(=O)O)CC(C)C)CN,869-19-2,6.922,1.125,0.9209370228196934,low-fidelity RED
+n-sec-Butylacetamide,O=C(NC(C)CC)C,1189-05-5,6.563,1.062,0.9721111047611793,low-fidelity RED
+N-Methylpentanamide,O=C(NC)CCCC,10/1/25 0:00,6.684,0.9606,0.9027735042633895,low-fidelity RED
+n-Leucylglycine,O=C(NCC(=O)O)C(N)CC(C)C,686-50-0,6.245,0.9511,0.9209370228196934,low-fidelity RED
+n-Octadecyl-d-Gluconamide,O=C(NCCCCCCCCCCCCCCCCCC)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,18375-66-1,7.582,1.149,0.5279678020485721,low-fidelity RED
+"2-Propenamide,_n-(Butoxymethyl)-",O=C(NCOCCCC)\C=C,1852-16-0,6.563,0.97,0.956882960450232,low-fidelity RED
+d-Camphoric Acid,O=C(O)[C]1(CC[C@H](C(=O)O)C1(C)C)C,124-83-4,5.857,1.097,0.7570501964863362,low-fidelity RED
+Captopril,O=C(O)[C@H]1N(C(=O)[C@H](C)CS)CCC1,62571-86-2,6.209,1.072,0.9447221813845594,low-fidelity RED
+Enalapril,O=C(O)[C@H]2N(C(=O)[C@@H](N[C@@H](C(=O)OCC)CCc1ccccc1)C)CCC2,75847-73-3,7.359,1.392,0.8562271894771855,low-fidelity RED
+2-Methyl-2-Pentenoic Acid,O=C(O)/C(=C/CC)C,16957-70-3,6.039,0.9218,0.6108395861435306,low-fidelity RED
+Trans-2-Methyl-2-Butenoic Acid,O=C(O)/C(C)=C/C,80-59-1,5.859,0.7935,0.7163274390947203,low-fidelity RED
+Trans-2-Hexenoic Acid,O=C(O)/C=C/CCC,13419-69-7,5.899,0.9408,0.6269968101992225,low-fidelity RED
+Cis-2-Pentenoic Acid,O=C(O)\C=C/CC,16666-42-5,5.966,1.011,0.6731456008918126,low-fidelity RED
+Crotonic Acid,O=C(O)\C=C\C,107-93-7,5.783,0.9192,0.2839454172900138,high-fidelity RED
+Trans-2-Pentenoic Acid,O=C(O)\C=C\CC,13991-37-2,5.966,1.011,0.6731456008918126,low-fidelity RED
+2-Methylenebutanoic Acid,O=C(O)C(=C)CC,3586-58-1,5.568,0.9434,0.6519202405202646,low-fidelity RED
+2-Methyl-3-Butenoic Acid,O=C(O)C(C)C=C,53774-20-2,6.21,0.8957,0.7262919523166975,low-fidelity RED
+2-Ethyl Butyric Acid,O=C(O)C(CC)CC,88-09-5,6.741,0.8696,0.7399324293474367,low-fidelity RED
+Isoleucine,O=C(O)C(N)C(C)CC,73-32-5,6.41,0.9133,0.7877975628294361,low-fidelity RED
+Norvaline,O=C(O)C(N)CCC,6600-40-4,6.183,0.875,0.8692669325356852,low-fidelity RED
+Neotame,O=C(O)C[C@H](NCCC(C)(C)C)C(=O)N[C@H](C(=O)OC)Cc1ccccc1,165450-17-9,7.314,1.374,0.7570501964863362,low-fidelity RED
+Cis-3-Pentenoic Acid,O=C(O)C\C=C/C,33698-87-2,6.264,0.9838,0.7648529270389178,low-fidelity RED
+Trans-3-Pentenoic Acid,O=C(O)C\C=C\C,1617-32-9,6.264,0.9838,0.7648529270389178,low-fidelity RED
+"4-Methylcyclohexane-1,2-Dicarboxylic Acid",O=C(O)C1C(C(=O)O)CC(C)CC1,57567-84-7,5.777,1.041,0.9905806378079477,low-fidelity RED
+Cyclobutane Carboxylic Acid,O=C(O)C1CCC1,3721-95-7,5.475,1.011,0.8219641111386803,low-fidelity RED
+4-Piperidinecarboxylic Acid ,O=C(O)C1CCNCC1,498-94-2,5.472,1.101,0.9233092656309693,low-fidelity RED
+l-Pipecolic Acid,O=C(O)C1NCCCC1,3105-95-1,5.795,1.185,0.7441438033068614,low-fidelity RED
+n-Carbobenzoxyproline,O=C(O)C2N(C(=O)OCc1ccccc1)CCC2,1148-11-4,7.664,1.222,0.9384162189561734,low-fidelity RED
+Tert-Butylacetic Acid,O=C(O)CC(C)(C)C,1070-83-3,6.025,0.8471,0.9721111047611787,low-fidelity RED
+Gabapentin,O=C(O)CC1(CN)CCCCC1,60142-96-3,6.392,1.217,0.7504165509901822,low-fidelity RED
+Heptanoic Acid,O=C(O)CCCCCC,111-14-8,6.542,0.7999,0.7280109889280514,low-fidelity RED
+Azelaic Acid,O=C(O)CCCCCCCC(O)=O,123-99-9,6.665,0.837,0.7520804478245664,low-fidelity RED
+Dodecanedioic Acid,O=C(O)CCCCCCCCCCC(=O)O,693-23-2,6.665,0.837,0.6087897830942959,low-fidelity RED
+6-Aminohexanoic Acid,O=C(O)CCCCCN,60-32-2,6.81,1.049,0.6194755846681931,low-fidelity RED
+"N,N-Dimethylglycine",O=C(O)CN(C)C,1118-68-9,5.862,0.8395,0.8249999999999997,low-fidelity RED
+n-Propylglycine,O=C(O)CNCCC,6939-13-5,5.684,0.9814,0.7335700375560602,low-fidelity RED
+Diisopropyl d-Tartrate,O=C(OC(C)C)C(O)C(O)C(=O)OC(C)C,62961-64-2,7.022,0.8814,0.2738612787525827,low-fidelity RED
+Dimethyl Maleate,O=C(OC)/C=C\C(OC)=O,624-48-6,6.232,0.8862,0.3614208073700235,high-fidelity RED
+"2-Butenedioic Acid (E)-, Dimethyl Este",O=C(OC)\C=C\C(OC)=O,624-49-7,6.232,0.8862,0.7071067811865478,low-fidelity RED
+Methyl Dichloroacetate,O=C(OC)C(Cl)Cl,116-54-1,5.905,0.9856,0.8958236433584458,low-fidelity RED
+Methyl Acrylate,O=C(OC)C=C,96-33-3,6.067,0.8587,0.8891709621889363,high-fidelity RED
+"Propanedioic Acid, Dimethyl Ester",O=C(OC)CC(OC)=O,108-59-8,6.398,0.7245,0.44017042154147523,low-fidelity RED
+"Pentanedioic Acid, Monomethyl Ester",O=C(OC)CCCC(O)=O,1501-27-5,6.776,0.8241,0.6264982043070836,low-fidelity RED
+Methyl Chloroacetate,O=C(OC)CCl,96-34-4,5.343,0.8979,0.696419413859206,low-fidelity RED
+Dimethyl Carbonate,O=C(OC)OC,616-38-6,6.55,0.7251,0.6896557112066859,high-fidelity RED
+"2,2-Dimethyl-3-Hydroxypropyl 2,2-Dimethyl-3-Hydroxypropionate",O=C(OCC(C)(C)CO)C(C)(C)CO,1115-20-4,5.872,1.043,0.57282196186948,low-fidelity RED
+Isobutyl Paraben,O=C(OCC(C)C)c1ccc(O)cc1,2/3/47 0:00,7.926,1.011,0.9263503656824449,low-fidelity RED
+2-Hydroxypropyl Acrylate,O=C(OCC(O)C)C=C,999-61-1,7.596,0.966,0.47037219305566935,low-fidelity RED
+Monolaurin,O=C(OCC(O)CO)CCCCCCCCCCC,142-18-7,8.454,1.134,0.6932712311931023,low-fidelity RED
+Diacetin,O=C(OCC(O)COC(=O)C)C,25395-31-7,7.55,0.8797,0.48798053239857825,low-fidelity RED
+Ethyl Bromofluoroacetate,O=C(OCC)C(Br)F,401-55-8,6.29,1.05,0.9965565713997373,low-fidelity RED
+3-Ethyl-2-Hydroxy-2-Cyclopenten-1-One,O=C(OCC)C(O)CCCC,52089-55-1,7.102,1.051,0.6025985396596973,low-fidelity RED
+Diethyl Malonate,O=C(OCC)CC(OCC)=O,105-53-3,6.635,0.844,0.7491662031885843,high-fidelity RED
+Ethyl Cyanoacetate,O=C(OCC)CC#N,105-56-6,6.643,0.982,0.6791538853603061,high-fidelity RED
+Ethyl-N-Methyl Carbamate,O=C(OCC)NC,105-40-8,6.358,0.9491,0.8097067370350828,low-fidelity RED
+Ethyl Propylcarbamate,O=C(OCC)NCCC,623-85-8,6.452,1.0,0.9124143795447329,low-fidelity RED
+Glycidyl Acrylate,O=C(OCC1OC1)\C=C,106-90-1,6.614,1.149,0.9003471552684554,low-fidelity RED
+Dibutyl Tartrate,O=C(OCCCC)[C@H](O)[C@@H](O)C(OCCCC)=O,87-92-3,7.504,0.9085,0.4828301978956989,low-fidelity RED
+Butyl p-Aminobenzoate (Butamben),O=C(OCCCC)c1ccc(N)cc1,94-25-7,7.571,1.087,0.9924716620639604,low-fidelity RED
+Butyl Ethylcarbamate,O=C(OCCCC)NCC,16246-07-4,6.943,0.8897,0.8265137627408269,low-fidelity RED
+2-Hydroxy Ethyl Methacrylate,O=C(OCCO)\C(=C)C,12676-48-1,7.017,1.064,0.2622022120425379,low-fidelity RED
+Ethylene_Bromoacetate,O=C(OCCOC(=O)CBr)CBr,3785-34-0,6.425,0.8209,0.7533259586659686,low-fidelity RED
+Polysorbate 20,O=C(OCCOCC(OCCO)C1OC(OCCO)CC1OCCO)CCCCCCC/C=C/CCCCCCCC,9005-64-5,8.723,1.481,0.6860211367006118,low-fidelity RED
+2-(2-Methoxyethoxy)Ethyl Acetate,O=C(OCCOCCOC)C,629-38-9,6.189,0.8436,0.9620940702446927,low-fidelity RED
+Hydroxymethyl Methacrylate,O=C(OCO)\C(=C)C,21982-30-9,6.726,0.971,0.45689167206242653,low-fidelity RED
+2-Ethyl-4-Hydroxy-5-Methyl-3(2H)-Furanone,O=C1C(O)=C(/OC1CC)C,27538-10-9,8.252,1.097,0.8340413658806143,low-fidelity RED
+Prostaglandin E2,O=C1C[C@@H](O)[C@H](C=C[C@@H](O)CCCCC)[C@H]1CC=CCCCC(=O)O,363-24-6,9.123,1.459,0.461654632815485,low-fidelity RED
+"2-Propenoic_Acid,_(2,4,6-Trioxo-1,3,5-Triazine-1,3,5(2H,4H,6H)-Triyl)Tri-2,1-Eth",O=C1N(C(=O)N(C(=O)N1CCOC(=O)\C=C)CCOC(=O)\C=C)CCOC(=O)\C=C,40220-08-4,7.498,1.161,0.6067330549755799,low-fidelity RED
+"1,3-Dimethylimidazolidin-2-One",O=C1N(C)CCN1C,80-73-9,6.386,0.7431,0.9513148795220228,low-fidelity RED
+5-Ethyl-5-Pentylbarbituric Acid,O=C1NC(=O)NC(=O)C1(CCCCC)CC,115-58-2,6.603,1.172,0.9978101021737557,low-fidelity RED
+Mevinphos,O=P(O/C(=C/C(=O)OC)C)(OC)OC,7786-34-7,5.683,1.185,0.745402575793779,low-fidelity RED
+"Phosphoric Acid, Bis(2-Ethylhexyl) Ester",O=P(OCC(CC)CCCC)(OCC(CCCC)CC)O,298-07-7,7.245,1.103,0.1581138830084191,low-fidelity RED
+Triethylphosphate,O=P(OCC)(OCC)OCC,78-40-0,5.11,0.8847,0.9178779875342913,high-fidelity RED
+p-n-Octylbenzene_Sulfonic_Acid,O=S(=O)(O)c1ccc(cc1)CCCCCCCC,25321-43-1,6.668,1.241,0.8215838362577501,low-fidelity RED
+Dodecylbenzenesulfonic Acid,O=S(=O)(O)c1ccc(cc1)CCCCCCCCCCCC,27176-87-0,6.668,1.241,0.5303300858899106,low-fidelity RED
+Ethylene Methyl Sulfonate,O=S(OCCOS(=O)(C)=O)(C)=O,4672-49-5,5.447,1.02,0.4562071897723667,high-fidelity RED
+"1,5-Hexadien-3-ol",OC(\C=C)C\C=C,924-41-4,6.72,0.9982,0.7713624310270755,low-fidelity RED
+1-Hexen-3-ol,OC(\C=C)CCC,4798-44-1,6.038,1.06,0.9137833441248527,low-fidelity RED
+Artesunate,OC(=O)CCOC(=O)[C@@H]3O[C@@H]4O[C]1(C)OOC42[C@@H](CC[C@@H](C)[C@@H]2CC1)[C@H]3C,88495-63-0,7.098,1.447,0.8280247580839598,low-fidelity RED
+"Ethyl 2-Methyl-3-Hydroxy-4,4,4-Trifluorobutyrate",OC(C(C(OCC)=O)C)C(F)(F)F,91600-33-8,5.403,0.9668,0.8919781387455633,low-fidelity RED
+"2,4-Dimethyl-2,3-Pentanediol",OC(C(C)C)C(O)(C)C,66225-53-4,6.331,0.8849,0.6576473218982949,low-fidelity RED
+2-Methylbutanoic Acid,OC(C(CC)C)=O,600-07-7,6.418,0.8153,0.7972609359550984,low-fidelity RED
+Dichloroacetic Acid,OC(C(Cl)Cl)=O,79-43-6,5.509,0.8849,0.8081614937622306,high-fidelity RED
+"2,4-Dimethyl-2,4-Pentanediol",OC(C)(C)CC(O)(C)C,24892-49-7,6.296,0.8757,0.6128825336065631,low-fidelity RED
+(+)-2-Butanol,OC(C)CC,4221-99-2,6.687,0.7341,0.8459462157844315,low-fidelity RED
+Propylene Glycol Monomethyl Ether,OC(C)COC,107-98-2,6.549,0.8297,0.7420411039827913,high-fidelity RED
+Triethyl Citrate,OC(CC(OCC)=O)(C(OCC)=O)CC(OCC)=O,77-93-0,6.286,0.967,0.8678277478854888,high-fidelity RED
+"2-Methyl-2,3-Pentanediol",OC(CC)C(O)(C)C,7795-80-4,6.723,0.8751,0.9387491677759292,low-fidelity RED
+"2-Methyl-2,4-Hexanediol",OC(CC)CC(O)(C)C,66225-35-2,6.412,0.9447,0.7369701486491836,low-fidelity RED
+Sebacic Acid,OC(CCCCCCCCC(O)=O)=O,111-20-6,6.665,0.837,0.3824264635194593,high-fidelity RED
+"3-(3-Methylbutoxy)Propane-1,2-Diol",OC(CO)COCCC(C)C,627-92-9,7.393,1.108,0.6786935980249112,low-fidelity RED
+"3-Butoxy-1,2-Propanediol",OC(CO)COCCCC,624-52-2,7.594,1.045,0.986470982847443,low-fidelity RED
+Propylene Glycol Monoisopropyl Ether,OC(COC(C)C)C,3944-36-3,7.034,0.83,0.7972609359550984,high-fidelity RED
+"1-Propanol, 1-Methoxy-",OC(OC)CC,28677-93-2,6.141,0.9523,0.4589389937671446,low-fidelity RED
+2-Methyl-l-Butanol,OC[C@@H](C)CC,1565-80-6,6.756,0.8305,0.9069178573608525,low-fidelity RED
+Trans-2-Hexen-1-ol,OC/C=C/CCC,928-95-0,6.243,0.8685,0.7267220926874315,low-fidelity RED
+Cis-2-Hexen-1-ol,OC\C=C/CCC,928-94-9,6.243,0.8685,0.7267220926874315,low-fidelity RED
+Ethyl Salicylate,OC1=C(C(OCC)=O)C=CC=C1,118-61-6,7.612,0.9119,0.8624094155330169,low-fidelity RED
+Cyclobutanol,OC1CCC1,2919-23-5,6.543,0.8977,0.7508328708840601,low-fidelity RED
+Cyclopentanol  (Cyclopentyl Alcohol),OC1CCCC1,96-41-3,6.815,0.785,0.8381527307120106,low-fidelity RED
+Hydrogenatedbisphenol A,OC2CCC(C(C1CCC(O)CC1)(C)C)CC2,80-04-6,6.612,1.045,0.9290452088031025,low-fidelity RED
+"2-Ethyl-1,2-Hexanediol",OCC(C(O)CCC)CC,94-96-2,6.918,0.9527,0.9154916711800276,low-fidelity RED
+"2,3-Dimethyl-1,2-Butanediol",OCC(C)(O)C(C)C,66553-15-9,6.772,0.9822,0.9103570728016561,low-fidelity RED
+2-Methyl-1-Hexanol,OCC(C)CCCC,624-22-6,7.16,0.8604,0.9918417212438683,low-fidelity RED
+2-Chloro-1-Propanol,OCC(C)Cl,78-89-7,6.375,0.8508,0.7040063920164361,low-fidelity RED
+"1-Propanol, 2-(2-Ethoxypropoxy)-",OCC(C)OCC(C)OCC,15764-24-6,6.75,1.047,0.7365459931328113,low-fidelity RED
+"2,4-Diethyl-1,5-Pentanediol",OCC(CC(CC)CO)CC,57987-55-0,7.288,0.8406,0.8877640452282354,low-fidelity RED
+"3,3-Dimethyl-1,2-Butanediol",OCC(O)C(C)(C)C,59562-82-2,7.27,0.8365,0.5749999999999996,low-fidelity RED
+3-Oxohexanoic Acid Diglyceride,OCC(O)COC(=O)CC(=O)CCC,91052-72-1,7.981,1.235,0.8514693182963202,low-fidelity RED
+3-Oxooctanoic Acid Glyceride,OCC(O)COC(=O)CC(=O)CCCCC,91052-68-5,8.505,1.24,0.2512468905280227,low-fidelity RED
+3-Oxododecanoic Acid Glyceride,OCC(O)COC(=O)CC(=O)CCCCCCC,91052-69-6,8.448,1.241,0.25495097567963937,low-fidelity RED
+3-Oxodecanoic Acid Glyceride,OCC(O)COC(=O)CC(=O)CCCCCCCCC,91052-70-9,8.448,1.241,0.23584952830141487,low-fidelity RED
+3-Oxotetradecanoic Acid Glyceride,OCC(O)COC(=O)CC(=O)CCCCCCCCCCC,91052-73-2,8.448,1.241,0.38810436740650045,low-fidelity RED
+3-Oxohexadecanoic Acid Glyceride,OCC(O)COC(=O)CC(=O)CCCCCCCCCCCCC,91052-71-0,8.448,1.241,0.46368092477478484,low-fidelity RED
+Tripropylene Glycol Monomethyl Ether,OCC(OC(COC(C)COC)C)C,25498-49-1,6.395,1.051,0.9212762886344137,low-fidelity RED
+Dipropylene Glycol Monomethyl Ether,OCC(OCC(OC)C)C,34590-94-8,6.75,1.11,0.5836308764964374,low-fidelity RED
+Tripropylene Glycol,OCC(OCC(OCC(O)C)C)C,24800-44-0,7.275,1.036,0.4828301978956989,low-fidelity RED
+4-Hexen-3-One,OCC/C=C/CC,928-97-2,6.526,1.033,0.6274950199005563,low-fidelity RED
+Cyclohexyl Carbinol C6h11-Ch2oh,OCC1CCCCC1,100-49-2,6.839,0.8569,0.8891709621889369,low-fidelity RED
+Tetrahydrofurfuryl Alcohol,OCC1CCCO1,97-99-4,5.207,0.7814,0.7267220926874323,high-fidelity RED
+Tetrahydro-2H-Pyran-2-Ylmethanol,OCC1OCCCC1,100-72-1,5.617,0.912,0.532094916344819,low-fidelity RED
+"4,4,4-Trifluoro-Butan-1-ol",OCCCC(F)(F)F,461-18-7,6.025,0.8678,0.9397473064606247,low-fidelity RED
+"1,4-Heptanediol",OCCCC(O)CCC,40646-07-9,7.7,0.9399,0.9817076958035927,low-fidelity RED
+"1,4-Undecanediol",OCCCC(O)CCCCCCC,E16487,7.939,0.9442,0.7202430145443967,low-fidelity RED
+"1,12-Dodecanediol",OCCCCCCCCCCCCO,5675-51-4,7.59,0.7067,0.734846922834953,low-fidelity RED
+"1,11-Undecanediol",OCCCCCCCCCCCO,765-04-8,7.59,0.7067,0.6442049363362562,low-fidelity RED
+"1,10-Decanediol",OCCCCCCCCCCO,112-47-0,7.59,0.7067,0.7141428428542849,low-fidelity RED
+"1,8-Octanediol",OCCCCCCCCO,629-41-4,7.59,0.7067,0.9347459547919957,low-fidelity RED
+"1-Butanol , 4-Methoxy-",OCCCCOC,111-32-0,6.836,0.8835,0.4007804885470348,low-fidelity RED
+3-Ethoxypropan-1-ol,OCCCOCC,111-35-3,7.127,0.8551,0.36912057650583396,low-fidelity RED
+Dipropylene Glycol Methyl Ether,OCCCOCCCOC,112-28-7,6.8,0.91,0.8678277478854887,high-fidelity RED
+"Ethanol, 2-(Ethylamino)-",OCCNCC,110-73-6,6.761,0.9628,0.8649421946003097,low-fidelity RED
+Ethylene Glycol Monoisopropyl Ether,OCCOC(C)C,109-59-1,7.185,0.7879,0.6309714732061978,high-fidelity RED
+Diethylene Glycol Monomethyl Ether,OCCOCCOC,111-77-3,6.254,0.7537,0.48218253804964767,high-fidelity RED
+Vinyl Carbitol,OCCOCCOC=C,929-37-3,7.04,0.9089,0.7487489565935969,high-fidelity RED
+Triethylene Glycol Monomethyl Ether,OCCOCCOCCOC,112-35-6,6.254,0.7537,0.475,high-fidelity RED
+"Ethanol, 2-[2-(2-Ethoxyethoxy)Ethoxy]-",OCCOCCOCCOCC,112-50-5,7.048,0.7889,0.3436931771216875,low-fidelity RED
+2-(2-(2-Butoxyethoxy)Ethoxy)Ethanol,OCCOCCOCCOCCCC,143-22-6,7.482,0.7182,0.7508328708840603,low-fidelity RED
+Tetraethylene Glycol,OCCOCCOCCOCCO,112-60-7,7.452,0.6907,0.9219544457292886,low-fidelity RED
+2-Hydroxyethyl Vinyl Sulfide,OCCS\C=C,,6.623,1.004,0.8455767262643891,low-fidelity RED
+p-Menthane Hydroperoxide,OOC(C)(C)C1CCC(CC1)C,80-47-7,5.793,1.094,0.3249999999999998,low-fidelity RED
+p-Diisopropylbenzene Hydroperoxide,OOC(c1ccc(cc1)C(C)C)(C)C,98-49-7,7.297,1.169,0.45893899376714575,low-fidelity RED
+Cyclohexyl Peroxide,OOC1CCCCC1,766-07-4,6.229,0.9027,0.9407443861113389,low-fidelity RED
+Ethylthioethanol,S(CC)CCO,110-77-0,6.621,0.9232,0.6791538853603061,low-fidelity RED
+Methyl Mercaptan,SC([H])([H])[H],74-93-1,5.063,0.6266,0.6149186938124421,high-fidelity RED
+"1,2-Propanedithiol",SCC(S)C,814-67-5,5.566,0.7563,0.9965565713997379,low-fidelity RED
+"1,3-Propanedithiol",SCCCS,109-80-8,5.706,0.7513,0.9804335775563786,low-fidelity RED
+Cysteamine,SCCN,60-23-1,5.824,0.9,0.705779710674655,low-fidelity RED
+Dimercaptoethyl Ether,SCCOCCS,2/9/50 0:00,5.995,0.8513,0.7566372975210777,low-fidelity RED
