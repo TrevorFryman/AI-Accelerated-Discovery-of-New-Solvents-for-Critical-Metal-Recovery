@@ -1,0 +1,56 @@
+Name,solvent_SMILES,CAS,G-score prediction,G-score prediction uncertainty,Relative Energy Difference (RED),Source
+Furfural,[H]C(C1=CC=CO1)=O,98-01-1,6.464,0.7941,0,high-fidelity RED
+3-Cyanopyridine,C1=CC(=CN=C1)C#N,100-54-9,6.731,1.171,0.5963430220938276,low-fidelity RED
+2-Cyanopyridine,C1=CC=NC(=C1)C#N,100-70-9,6.987,1.111,0.5963430220938276,low-fidelity RED
+4-Cyanopyridine,C1=CN=CC=C1C#N,100-48-1,6.614,1.108,0.5963430220938276,low-fidelity RED
+2-Furonitrile,C1=COC(=C1)C#N,617-90-3,6.666,1.086,0.7818247885555946,high-fidelity RED
+2-Cyanopyrimidine,c1cnc(nc1)C#N,14080-23-0 ,6.691,1.037,0.743723739032176,low-fidelity RED
+Vinylethylene Carbonate,C1OC(=O)OC1(C=C),4427-96-7,7.971,1.126,0.8732124598286491,low-fidelity RED
+2-Acetyl Pyrazine,CC(=O)C1=NC=CN=C1,22047-25-2,7.15,1.219,0.7607562027351468,low-fidelity RED
+2-Acetyl-2-Thiazoline,CC(=O)C1=NCCS1,29926-41-8,6.588,1.004,0.5755432216610671,low-fidelity RED
+Acetyl Methyl Anthranilate,CC(=O)NC1=CC=CC=C1C(=O)OC,8/6/19 0:00,7.002,1.042,0.9100137361600646,low-fidelity RED
+Timolol,CC(C)(C)NC[C@@H](COc1c(nsn1)N2CCOCC2)O,26839-75-8,7.002,1.462,0.8388980867781262,low-fidelity RED
+Dimedone,CC(CC(C1)=O)(CC1=O)C,126-81-8,6.695,1.009,0.4743416490252574,low-fidelity RED
+Epoxyoxophorone,CC1(CC(=O)C2C(C1=O)(O2)C)C,38284-11-6,7.19,1.152,0.7586995452746762,low-fidelity RED
+Cimetidine,CC1=C(N=CN1)CSCCNC(=NC)NC#N,51481-61-9,7.129,1.545,0.7794228634059948,low-fidelity RED
+5-Methyl Furfural,CC1=CC=C(O1)C=O,620-02-0,6.727,0.9718,0.8518362518700414,low-fidelity RED
+Bread Thiophene,CC1=CC=C(S1)C=O,13679-70-4,6.544,1.1,0.9721111047611788,low-fidelity RED
+2-Acetyl-6-Methyl Pyrazine,CC1=NC(=CN=C1)C(=O)C,22047-26-3,7.271,1.128,0.9222933372848358,low-fidelity RED
+2-Acetyl-5-Methyl Pyrazine,CC1=NC=C(N=C1)C(=O)C,22047-27-4,7.121,1.193,0.9222933372848358,low-fidelity RED
+4-Acetyl-2-Methyl Pyrimidine,CC1=NC=CC(=N1)C(=O)C,67860-38-2,7.639,1.208,0.9222933372848358,low-fidelity RED
+2-Acetyl-3-Methyl Pyrazine,CC1=NC=CN=C1C(=O)C,23787-80-6,6.753,1.072,0.9222933372848358,low-fidelity RED
+Caramel Pentadione,CC1CC(=O)C(=O)C1C,13494-06-9,6.762,1.059,0.7254309064273459,low-fidelity RED
+5-Methyl Tetrahydrofuran-3-One,CC1CC(=O)CO1,34003-72-0,7.261,1.091,0.7145802963978231,low-fidelity RED
+Caramel Dione,CC1CC(C(=O)C1=O)C,13494-07-0,7.013,0.9198,0.7254309064273459,low-fidelity RED
+Cyclotene,CC1CCC(=O)C1=O,765-70-8,6.791,0.9814,0.438748219369606,low-fidelity RED
+Coffee Dione,CC1CCCC(=O)C1=O,3008-43-3,7.217,1.043,0.7802243267163617,low-fidelity RED
+2-Propionyl-2-Thiazoline,CCC(=O)C1=NCCS1,29926-42-9,6.691,1.053,0.7956915231419778,low-fidelity RED
+5-Ethyl-2-Thiophene Carboxaldehyde,CCC1=CC=C(S1)C=O,36880-33-8,6.811,1.203,0.9965565713997376,low-fidelity RED
+"Benzene, (Ethylsulfonyl)-",CCS(=O)(=O)C1=CC=CC=C1,599-70-2,6.478,0.962,0.5522680508593631,low-fidelity RED
+"1,3-Dicyanobenzene",N#CC1=CC(C#N)=CC=C1,626-17-5,6.606,1.074,0.8503675675847467,low-fidelity RED
+"1,4-Dicyanobenzene",N#CC1=CC=C(C#N)C=C1,623-26-7,6.494,0.9841,0.7335700375560592,low-fidelity RED
+4-Methoxy Benzonitrile,N#CC1=CC=C(OC)C=C1,874-90-8,7.488,1.128,0.6067330549755787,high-fidelity RED
+2-Cyanopyrazine,N#Cc1nccnc1,19847-12-2,6.562,1.156,0.743723739032176,low-fidelity RED
+Phenyl Acetonitrile,N#CCC1=CC=CC=C1,140-29-4,6.729,0.9637,0.8547660498639374,high-fidelity RED
+p-Benzoquinone,O=C(C=C1)C=CC1=O,106-51-4,6.497,0.82,0.7566372975210777,low-fidelity RED
+2-Acetylpyrazine,O=C(c1nccnc1)C,22047-25-2,7.15,1.219,0.7607562027351468,low-fidelity RED
+"1,4-Cyclohexanedione",O=C(CC1)CCC1=O,637-88-7,6.815,0.8337,0.5836308764964367,low-fidelity RED
+o-Acetoacetotoluidide,O=C(Nc1ccccc1C)CC(=O)C,93-68-5,7.221,1.198,0.9695359714832656,low-fidelity RED
+Phthalic Anhydride,O=C(O2)C1=CC=CC=C1C2=O,85-44-9,6.969,0.8087,0.7537406715840661,high-fidelity RED
+Methyl 5-Pyrimidinecarboxylate,O=C(OC)c1cncnc1,34253-01-5,6.838,1.126,0.7717674520216566,low-fidelity RED
+Methyl 2-Pyrimidinecarboxylate,O=C(OC)c1ncccn1,34253-03-7,7.007,1.116,0.7717674520216566,low-fidelity RED
+Methyl 2-Pyrazinecarboxylate,O=C(OC)c1nccnc1,6164-79-0,7.112,1.235,0.7717674520216566,low-fidelity RED
+Ethyl 2-Pyrimidinecarboxylate,O=C(OCC)c1ncccn1,,7.51,1.078,0.915491671180028,low-fidelity RED
+Ethyl 2-Pyrazinecarboxylate,O=C(OCC)c1nccnc1,6924-68-1,7.632,1.241,0.915491671180028,low-fidelity RED
+5-Methyl-3(2H)-Furanone,O=C\1COC(/C)=C/1,3511-32-8,6.88,1.065,0.9918417212438687,low-fidelity RED
+Metribuzin,O=C1/C(=N\N=C(\SC)N1N)C(C)(C)C,21087-64-9,7.256,1.046,0.906228448019594,low-fidelity RED
+Cyrene,O=C1C(OC2)OC2CC1,53716-82-8,6.965,0.7959,0.758287544405155,low-fidelity RED
+Cyclopentanone,O=C1CCCC1,120-92-3,7.023,0.7057,0.8280247580839603,high-fidelity RED
+Epsilon-Caprolactam,O=C1CCCCCN1,105-60-2,6.696,1.079,0.5706356105256652,high-fidelity RED
+γ-Butyrolactone (Gbl),O=C1CCCO1,96-48-0,6.665,0.9588,0.7754031209635417,high-fidelity RED
+5-Ethyl-5-Isopropylbarbituric Acid {Probarbital},O=C1NC(=O)NC(=O)C1(C(C)C)CC,76-76-6,6.804,1.134,0.888115983416581,low-fidelity RED
+Tetrahydromethylphthalic Anhydride,O=C1OC(=O)/C2=C/CCCC12C,11070-44-3,6.488,1.302,0.9727538229171858,low-fidelity RED
+"2,3-Butylene Carbonate",O=C1OC(C)C(C)O1,4437-70-1,7.435,0.9744,0.7520804478245664,high-fidelity RED
+Glycerol Carbonate Ethyl Ether,O=C1OC(CO1)COCC,307949-19-5,8.039,1.104,0.9750000000000013,low-fidelity RED
+Caprolactone (Epsilon),O=C1OCCCCC1,502-44-3,7.067,0.996,0.7960841664045323,low-fidelity RED
+Metamitron,O=C2N(/C(=N\N=C2\c1ccccc1)C)N,41394-05-2,6.668,0.9691,0.7267220926874318,low-fidelity RED

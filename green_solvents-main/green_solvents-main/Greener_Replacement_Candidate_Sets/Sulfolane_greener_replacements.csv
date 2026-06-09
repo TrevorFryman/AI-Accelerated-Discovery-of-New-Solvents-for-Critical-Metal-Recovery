@@ -1,0 +1,42 @@
+Name,solvent_SMILES,CAS,G-score prediction,G-score prediction uncertainty,Relative Energy Difference (RED),Source
+Sulfolane (Tetramethylene Sulfone),O=[S]1(CCCC1)=O,126-33-0,5.635,0.7763,0,high-fidelity RED
+"Propanenitrile, 3,3 -Iminobis-",C(CCNCCC#N)#N,111-94-4,5.78,1.032,0.49560569003997473,low-fidelity RED
+α-(2-Cyanoethyl)Acrylonitrile,C=C(C#N)CCC#N,,6.597,1.127,0.7586995452746755,low-fidelity RED
+2-Furonitrile,C1=COC(=C1)C#N,617-90-3,6.666,1.086,0.6823672031978083,high-fidelity RED
+Vinylenecarbonate,C1=COC(=O)O1,872-36-6,6.559,0.9944,0.3791437722025779,high-fidelity RED
+2-Oxopyrrolidinacetamid,C1CC(=O)N(C1)CC(=O)N,7491-74-9,6.948,1.048,0.7846177413237607,high-fidelity RED
+Cyclopropylnitrile,C1CC1C#N,5500-21-0,5.91,0.8699,0.9013878188659972,high-fidelity RED
+"1,4-Dioxan-2-On",C1COC(=O)CO1,3041-16-5,6.547,0.9457,0.47696960070847255,low-fidelity RED
+Vinylethylene Carbonate,C1OC(=O)OC1(C=C),4427-96-7,7.971,1.126,0.6619101147436862,low-fidelity RED
+Citraconic Anhydride,CC(C(O1)=O)=CC1=O,616-02-4,6.014,1.119,0.9437293044088432,high-fidelity RED
+γ-Valerolactone (Gvl),CC(CC1)OC1=O,108-29-2,7.393,0.7831,0.7420411039827912,high-fidelity RED
+Diacetamide,CC(NC(C)=O)=O,625-77-4,6.185,0.7367,0.8778524933039723,low-fidelity RED
+Trans-Dicyano-1-Butene,CC/C=C(C#N)\C#N,2141-59-5,6.19,0.9624,0.6329494450586075,low-fidelity RED
+Tolbutamide,CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C,64-77-7,6.807,1.042,0.707548584904245,low-fidelity RED
+Sulpiride,CCN1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC,15676-16-1,6.808,1.518,0.9171968163922063,low-fidelity RED
+"4-Chloromethyl-1,3-Dioxolan-2-One",ClCC(OC1=O)CO1,2463-45-8,7.378,1.066,0.7582875444051553,low-fidelity RED
+Maleonitrile,N#C/C=C\C#N,928-53-0,5.731,0.8949,0.9317322576792119,low-fidelity RED
+"1,4-Dicyano-2-Butene",N#CC/C=C/CC#N,1119-85-3,5.753,0.938,0.40773766075750256,low-fidelity RED
+Methylglutaronitrile,N#CCCC(C)C#N,4553-62-2,5.909,0.9422,0.8891709621889365,low-fidelity RED
+Succinonitrile,N#CCCC#N,110-61-2,5.727,0.764,0.2999999999999992,high-fidelity RED
+Glutaronitrile,N#CCCCC#N,544-13-8,6.292,0.8313,0.5755432216610671,low-fidelity RED
+Adiponitrile,N#CCCCCC#N,111-69-3,6.292,0.8313,0.8562271894771857,low-fidelity RED
+Bis(Cyanoethyl) Ether,N#CCCOCCC#N,1656-48-0,6.21,0.8396,0.596866819315666,low-fidelity RED
+Dicyandiamide,N#CN=C(/N)N,461-58-5,6.566,0.8453,0.8547660498639378,low-fidelity RED
+Barbital ,O=C(C(CC)(CC)C(N1)=O)NC1=O,57-44-3,6.37,1.164,0.7549834435270746,low-fidelity RED
+Glycerol Carbonate Acetate,O=C(C)OCC1COC(=O)O1,1607-31-4,9.345,1.058,0.11456439237389598,low-fidelity RED
+Glutaric Anhydride,O=C(CCC1)OC1=O,108-55-4,6.301,0.9293,0.8019507466172716,low-fidelity RED
+"N,N'-Methylenediacrylamide",O=C(NCNC(=O)\C=C)\C=C,110-26-9,6.053,0.9354,0.8381527307120104,low-fidelity RED
+Methyl Cyanoacetate,O=C(OC)CC#N,105-34-0,6.456,1.04,0.8265137627408273,high-fidelity RED
+"<1,4>Dioxane-2,5-Dione",O=C(OC1)COC1=O,502-97-6,7.127,0.8348,0.8591420138719796,low-fidelity RED
+γ-Butyrolactone (Gbl),O=C1CCCO1,96-48-0,6.665,0.9588,0.39449334595148683,high-fidelity RED
+Bentazon,O=C1N(C(C)C)S(=O)(=O)Nc2ccccc12,25057-89-0,7.54,1.175,0.8038967595406753,low-fidelity RED
+Glycerol Carbonate Ethyl Ether,O=C1OC(CO1)COCC,307949-19-5,8.039,1.104,0.780224326716362,low-fidelity RED
+Crotonlactone,O=C1OCC=C1,497-23-4,7.032,0.8579,0.877852493303972,high-fidelity RED
+ß-Propiolactone,O=C1OCC1,57-57-8,6.878,0.8646,0.45345892868042675,high-fidelity RED
+Aldicarb,O=S(=O)(C(\C=N\OC(=O)NC)(C)C)C,1646-88-4,6.274,1.237,0.43373378932243695,low-fidelity RED
+N-Methylbenzenesulfonamide,O=S(=O)(NC)c1ccccc1,5183-78-8,5.951,1.053,0.9804335775563783,low-fidelity RED
+Aldicarb,O=S(C(\C=N\OC(=O)NC)(C)C)C,1646-87-3,6.139,1.251,0.6128825336065626,low-fidelity RED
+Dimethyl Sulfoxide (Dmso),O=S(C)C,67-68-5,5.991,0.7517,0.5414101956926923,high-fidelity RED
+Oxycarboxin,O=S1(=O)C(=C(/OCC1)C)\C(=O)Nc2ccccc2,5259-88-1,6.651,1.307,0.9749999999999998,low-fidelity RED
+Acetonethiosemicarbazone,S=C(N)N/N=C(\C)C,1752-30-3,5.667,0.9622,0.46970735570139827,low-fidelity RED
