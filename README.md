@@ -8,6 +8,6 @@ The overall goal is to develop machine learning models to predict solvent proper
 
 * mp_prediction-main contains a provided ML model from post-graduate student Kailong Zhang to help me get a basic grasp of a ML model. Furthermore, it contains the gathered data that was used to train the simple ML models to further my grasp on the project. 
 
-* green_solvents-main contains a dataset used to train the production-level ML model references in [[Solvent Greenness]] as well as the _GreenSolventDB_.
+* green_solvents-main contains a dataset used to train the production-level ML model references in [[Predicting Solvent Greenness]] as well as the _GreenSolventDB_.
 
-*PersonalPrediction contains all my personal work done on this project.
+* PersonalPrediction contains all my personal work done on this project.
