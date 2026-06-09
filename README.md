@@ -2,8 +2,12 @@
 
 This repository is for my summer of 2026 REU program at the University of Kentucky. 
 
-The original code, in the mp_prediction-main, and the gathered data comes from the post-graduate student I am working under, Kailong Zhang. Furthermore, the project is headed by Dr. Jian Shi, who works at the University of Kentucky.
+The overall goal is to develop machine learning models to predict solvent properties and guide the selection of deep eutectic solvents for critical metal recovery. The project follows this simple process: ML models —> Solvent screening —> Experimental validation.
 
-The overall goal is to develop machine learning models to predict solvent properties and guide the selection of solvents for critical metal recovery. ML models—Solvent screening—Experimental validation.
+**File Organization:**
 
-My personal ML model development can be found in the folder named PersonalPrediction.
+* mp_prediction-main contains a provided ML model from post-graduate student Kailong Zhang to help me get a basic grasp of a ML model. Furthermore, it contains the gathered data that was used to train the simple ML models to further my grasp on the project. 
+
+* green_solvents-main contains a dataset used to train the production-level ML model references in [[Solvent Greenness]] as well as the _GreenSolventDB_.
+
+*PersonalPrediction contains all my personal work done on this project.
