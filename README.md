@@ -11,3 +11,5 @@ ML Models —> Solvent Screening —> Experimental Validation
 * green_solvents-main contains a dataset used to train the production-level ML model references in [Predicting Solvent Greenness wiki page](https://github.com/TrevorFryman/AI-Accelerated-Discovery-of-New-Solvents-for-Critical-Metal-Recovery/wiki/Predicting-Solvent-Greenness) as well as the _GreenSolventDB_.
 
 * PersonalPrediction contains all my personal work done on this project.
+> * Simple ML Models
+> * Greenness ML Models
