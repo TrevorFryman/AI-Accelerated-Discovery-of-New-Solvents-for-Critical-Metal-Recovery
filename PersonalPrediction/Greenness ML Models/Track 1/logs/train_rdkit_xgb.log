@@ -1,0 +1,19 @@
+2026-06-10 16:48:31,555 [INFO] Starting RDKit Descriptors + XGBoost pipeline...
+2026-06-10 16:48:31,604 [INFO] Loaded RDKit raw features shape: (154, 217)
+2026-06-10 16:48:31,605 [INFO] Loaded cached split: 123 train / 31 test  (seed=42, strategy=StratifiedGroupKFold(n_splits=5, fold=0, shuffle=True))
+2026-06-10 16:48:32,504 [INFO] Fold 1: RMSE = 0.760, R² = 0.603, MAE = 0.618
+2026-06-10 16:48:33,199 [INFO] Fold 2: RMSE = 0.938, R² = 0.566, MAE = 0.695
+2026-06-10 16:48:33,877 [INFO] Fold 3: RMSE = 0.736, R² = 0.636, MAE = 0.562
+2026-06-10 16:48:34,549 [INFO] Fold 4: RMSE = 0.572, R² = 0.776, MAE = 0.472
+2026-06-10 16:48:35,246 [INFO] Fold 5: RMSE = 0.913, R² = 0.179, MAE = 0.718
+2026-06-10 16:48:35,247 [INFO] CV Summary: Mean RMSE = 0.784, Mean R² = 0.552
+2026-06-10 16:48:35,320 [INFO] Fitting final preprocessor and training on full training set...
+2026-06-10 16:48:35,335 [INFO] Saved final preprocessor to: C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\models\rdkit_preprocessor.joblib
+2026-06-10 16:48:35,335 [INFO] Preprocessed feature shape: (123, 162) (dropped 55 constant features)
+2026-06-10 16:48:36,468 [INFO] Saved final model to: C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\models\rdkit_xgb.json
+2026-06-10 16:48:36,473 [INFO] Test Set Results: RMSE = 0.800, R² = 0.694, MAE = 0.667
+2026-06-10 16:48:36,480 [INFO] Running stability analysis across seeds: [42, 123, 456, 789, 1337]
+2026-06-10 16:48:59,748 [INFO] Generating evaluation plots...
+2026-06-10 16:49:03,616 [INFO] Calculating SHAP values...
+2026-06-10 16:49:07,375 [INFO] Calculating learning curves...
+2026-06-10 16:49:18,480 [INFO] Pipeline completed successfully! All RDKit outputs saved.

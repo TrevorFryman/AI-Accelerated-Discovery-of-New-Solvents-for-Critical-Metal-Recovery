@@ -1,0 +1,18 @@
+2026-06-10 16:47:26,552 [INFO] Starting Morgan Fingerprint + XGBoost pipeline...
+2026-06-10 16:47:26,577 [INFO] Loaded Morgan features shape: (154, 2048)
+2026-06-10 16:47:26,580 [INFO] Loaded cached split: 123 train / 31 test  (seed=42, strategy=StratifiedGroupKFold(n_splits=5, fold=0, shuffle=True))
+2026-06-10 16:47:26,587 [INFO] Split details: Train size = 123, Test size = 31
+2026-06-10 16:47:27,748 [INFO] Fold 1: RMSE = 1.015, R² = 0.292, MAE = 0.786
+2026-06-10 16:47:28,769 [INFO] Fold 2: RMSE = 0.993, R² = 0.514, MAE = 0.663
+2026-06-10 16:47:30,083 [INFO] Fold 3: RMSE = 0.902, R² = 0.452, MAE = 0.626
+2026-06-10 16:47:31,134 [INFO] Fold 4: RMSE = 0.700, R² = 0.664, MAE = 0.604
+2026-06-10 16:47:32,507 [INFO] Fold 5: RMSE = 0.971, R² = 0.072, MAE = 0.780
+2026-06-10 16:47:32,508 [INFO] CV Summary: Mean RMSE = 0.916, Mean R² = 0.399
+2026-06-10 16:47:32,517 [INFO] Training final model on full training set...
+2026-06-10 16:47:33,624 [INFO] Saved final model to: C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\models\morgan_xgb.json
+2026-06-10 16:47:33,631 [INFO] Test Set Results: RMSE = 0.952, R² = 0.566, MAE = 0.751
+2026-06-10 16:47:33,637 [INFO] Running stability analysis across seeds: [42, 123, 456, 789, 1337]
+2026-06-10 16:48:04,267 [INFO] Generating evaluation plots...
+2026-06-10 16:48:07,884 [INFO] Calculating SHAP values...
+2026-06-10 16:48:11,812 [INFO] Calculating learning curves...
+2026-06-10 16:48:23,228 [INFO] Pipeline completed successfully! All outputs saved to results/morgan/ and figures/morgan/.

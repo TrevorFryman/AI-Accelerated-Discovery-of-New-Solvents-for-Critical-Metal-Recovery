@@ -1,0 +1,18 @@
+2026-06-10 16:49:27,341 [INFO] Starting ChemBERTa Embeddings + XGBoost pipeline...
+2026-06-10 16:49:27,391 [INFO] Loaded ChemBERTa embeddings shape: (154, 768)
+2026-06-10 16:49:27,394 [INFO] Loaded cached split: 123 train / 31 test  (seed=42, strategy=StratifiedGroupKFold(n_splits=5, fold=0, shuffle=True))
+2026-06-10 16:49:32,186 [INFO] Fold 1: RMSE = 1.195, R² = 0.019, MAE = 0.934
+2026-06-10 16:49:36,692 [INFO] Fold 2: RMSE = 1.317, R² = 0.145, MAE = 1.062
+2026-06-10 16:49:40,817 [INFO] Fold 3: RMSE = 1.148, R² = 0.114, MAE = 0.970
+2026-06-10 16:49:45,230 [INFO] Fold 4: RMSE = 1.093, R² = 0.180, MAE = 0.778
+2026-06-10 16:49:49,214 [INFO] Fold 5: RMSE = 1.129, R² = -0.255, MAE = 0.930
+2026-06-10 16:49:49,215 [INFO] CV Summary: Mean RMSE = 1.177, Mean R² = 0.041
+2026-06-10 16:49:49,225 [INFO] Fitting final scaler and training on full training set...
+2026-06-10 16:49:49,231 [INFO] Saved final scaler to: C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\models\chemberta_scaler.joblib
+2026-06-10 16:49:54,944 [INFO] Saved final model to: C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\models\chemberta_xgb.json
+2026-06-10 16:49:54,950 [INFO] Test Set Results: RMSE = 1.415, R² = 0.042, MAE = 1.170
+2026-06-10 16:49:54,956 [INFO] Running stability analysis across seeds: [42, 123, 456, 789, 1337]
+2026-06-10 16:51:55,045 [INFO] Generating evaluation plots...
+2026-06-10 16:51:57,476 [INFO] Calculating SHAP values...
+2026-06-10 16:52:00,128 [INFO] Calculating learning curves...
+2026-06-10 16:52:30,042 [INFO] Pipeline completed successfully! All ChemBERTa outputs saved.

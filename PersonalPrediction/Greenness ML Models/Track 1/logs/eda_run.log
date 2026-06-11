@@ -1,0 +1,142 @@
+2026-06-10 15:26:34  INFO      ======================================================================
+2026-06-10 15:26:34  INFO      GSK Solvent G-Score — Exploratory Data Analysis
+2026-06-10 15:26:34  INFO      Started: 2026-06-10 15:26:34
+2026-06-10 15:26:34  INFO      ======================================================================
+2026-06-10 15:26:34  INFO      
+----------------------------------------------------------------------
+  LOADING DATASET
+----------------------------------------------------------------------
+2026-06-10 15:26:34  INFO      Reading: C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\data\GSK_dataset.csv
+2026-06-10 15:26:34  INFO      Dataset loaded successfully.
+2026-06-10 15:26:34  INFO      
+----------------------------------------------------------------------
+  BASIC DATASET INSPECTION
+----------------------------------------------------------------------
+2026-06-10 15:26:34  INFO      Shape: 154 rows × 6 columns
+2026-06-10 15:26:34  INFO      
+Column names and dtypes:
+2026-06-10 15:26:34  INFO        Classification                 str
+2026-06-10 15:26:34  INFO        solvent_common_name            str
+2026-06-10 15:26:34  INFO        IPUAC name                     str
+2026-06-10 15:26:34  INFO        solvent_SMILES                 str
+2026-06-10 15:26:34  INFO        CAS Number                     str
+2026-06-10 15:26:34  INFO        G-score                        float64
+2026-06-10 15:26:34  INFO      
+Missing values:
+                     Missing Count  Missing %
+Classification                   0        0.0
+solvent_common_name              0        0.0
+IPUAC name                       0        0.0
+solvent_SMILES                   0        0.0
+CAS Number                       0        0.0
+G-score                          0        0.0
+2026-06-10 15:26:34  INFO      
+Duplicate rows: 0
+2026-06-10 15:26:34  INFO      
+Duplicate SMILES (2 unique SMILES with count > 1):
+2026-06-10 15:26:34  INFO        SMILES: CCO                                       Count: 2  Names: ['Ethanol', 'IMS (ethanol, denatured)']
+2026-06-10 15:26:34  INFO        SMILES: CCCC(C)C                                  Count: 2  Names: ['2-Methylpentane', 'Petroleum sprit']
+2026-06-10 15:26:34  INFO      
+Rows with '¬†' UTF-8 artefact in IUPAC names: 9
+2026-06-10 15:26:34  INFO                 solvent_common_name                              IPUAC name
+41               Methyl oleate           ¬†methyl (Z)-octadec-9-enoate
+45          Dimethyl succinate                 ¬†dimethyl butanedioate
+50            Dimethyl adipate                dimethyl hexanedioate.¬†
+58            Ethyl propionate                   ethyl¬†propanoate¬†¬†
+59              Methyl formate                         methyl¬†formate
+62           Diethyl carbonate                  diethyl¬†carbonate¬†¬†
+76                  Mesitylene                1,3,5-trimethylbenzene¬†
+85                     Heptane                             heptane¬†¬†
+110  Bis(2-methoxyethyl) ether  1-methoxy-2-(2-methoxyethoxy)ethane.¬†
+2026-06-10 15:26:34  INFO      
+Solvent class distribution:
+Classification
+Alcohols            29
+Esters              25
+Ethers              20
+Halogenated         17
+Dipolar Aprotics    14
+Hydrocarbons        12
+Aromatics           11
+Other                8
+Ketones              7
+water and acids      6
+Carbonates           5
+2026-06-10 15:26:34  INFO      
+G-score statistics:
+count    154.000000
+mean       6.038766
+std        1.278169
+min        3.015135
+25%        5.132927
+50%        5.981880
+75%        7.102702
+max        8.758885
+  Skewness: -0.1127  Kurtosis: -0.7819
+2026-06-10 15:26:34  INFO      
+----------------------------------------------------------------------
+  SMILES VALIDATION & MOLECULAR PROPERTY CALCULATION
+----------------------------------------------------------------------
+2026-06-10 15:26:34  INFO      Total SMILES:    154
+2026-06-10 15:26:34  INFO      Valid SMILES:    154
+2026-06-10 15:26:34  INFO      Invalid SMILES:  0
+2026-06-10 15:26:35  INFO      
+Molecular property summary (valid molecules only):
+2026-06-10 15:26:35  INFO                 MW    logP     HBD     HBA    TPSA  RotBonds
+count  154.00  154.00  154.00  154.00  154.00    154.00
+mean   110.76    1.16    0.34    1.39   21.59      1.63
+std     53.06    1.29    0.60    1.13   16.57      2.22
+min     18.02   -1.67    0.00    0.00    0.00      0.00
+25%     84.13    0.18    0.00    1.00    9.23      0.00
+50%    100.18    1.02    0.00    1.00   20.23      1.00
+75%    126.64    1.98    1.00    2.00   29.46      2.00
+max    416.05    6.20    3.00    6.00   78.90     15.00
+2026-06-10 15:26:35  INFO      
+----------------------------------------------------------------------
+  FIGURE 1: G-SCORE HISTOGRAM + KDE
+----------------------------------------------------------------------
+2026-06-10 15:26:35  INFO      Saved figure -> C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\figures\fig01_gscore_histogram.png
+2026-06-10 15:26:35  INFO      
+----------------------------------------------------------------------
+  FIGURE 2: G-SCORE BOXPLOT
+----------------------------------------------------------------------
+2026-06-10 15:26:35  INFO      Saved figure -> C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\figures\fig02_gscore_boxplot.png
+2026-06-10 15:26:35  INFO      
+----------------------------------------------------------------------
+  FIGURE 3: G-SCORE VIOLIN BY CLASSIFICATION
+----------------------------------------------------------------------
+2026-06-10 15:26:35  INFO      Saved figure -> C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\figures\fig03_gscore_violin_by_class.png
+2026-06-10 15:26:35  INFO      
+----------------------------------------------------------------------
+  FIGURE 4: G-SCORE STRIP PLOT BY CLASSIFICATION
+----------------------------------------------------------------------
+2026-06-10 15:26:35  INFO      Saved figure -> C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\figures\fig04_gscore_strip_by_class.png
+2026-06-10 15:26:35  INFO      
+----------------------------------------------------------------------
+  FIGURE 5: CORRELATION HEATMAP
+----------------------------------------------------------------------
+2026-06-10 15:26:36  INFO      Saved figure -> C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\figures\fig05_correlation_heatmap.png
+2026-06-10 15:26:36  INFO      
+----------------------------------------------------------------------
+  FIGURE 6: MISSING VALUE SUMMARY
+----------------------------------------------------------------------
+2026-06-10 15:26:36  INFO      Saved figure -> C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\figures\fig06_missing_values.png
+2026-06-10 15:26:36  INFO      
+----------------------------------------------------------------------
+  FIGURE 7: G-SCORE BOX PLOT BY CLASSIFICATION
+----------------------------------------------------------------------
+2026-06-10 15:26:36  INFO      Saved figure -> C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\figures\fig07_gscore_box_by_class.png
+2026-06-10 15:26:36  INFO      
+----------------------------------------------------------------------
+  GENERATING EDA_REPORT.MD
+----------------------------------------------------------------------
+2026-06-10 15:26:36  INFO      EDA Report written -> C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\EDA_Report.md
+2026-06-10 15:26:36  INFO      
+----------------------------------------------------------------------
+  EDA COMPLETE
+----------------------------------------------------------------------
+2026-06-10 15:26:36  INFO      Figures saved:  7  ->  C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\figures
+2026-06-10 15:26:36  INFO      EDA Report:     C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\EDA_Report.md
+2026-06-10 15:26:36  INFO      Run log:        C:\dev\PersonalPrediction\Greenness ML Models\Track 1\GSK_GScore_Prediction\logs\eda_run.log
+2026-06-10 15:26:36  INFO      Finished: 2026-06-10 15:26:36
+2026-06-10 15:26:36  INFO      ======================================================================
