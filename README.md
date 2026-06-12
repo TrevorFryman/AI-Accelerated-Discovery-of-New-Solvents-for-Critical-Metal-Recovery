@@ -13,3 +13,7 @@ ML Models —> Solvent Screening —> Experimental Validation
 * PersonalPrediction contains all my personal work done on this project.
 > * Simple ML Models
 > * Greenness ML Models
+
+**Other used Repositories:**
+* https://github.com/chemprop/chemprop
+* https://github.com/Critical-Materials-Institute/stabilityconstant-ml-models 
