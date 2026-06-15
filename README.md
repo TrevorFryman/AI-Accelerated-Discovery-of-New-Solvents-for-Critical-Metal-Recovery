@@ -13,7 +13,12 @@ ML Models —> Solvent Screening —> Experimental Validation
 * PersonalPrediction contains all my personal work done on this project.
 > * Simple ML Models
 > * Greenness ML Models
+> * Metal-Ligand ML Model
 
 **Other used Repositories:**
 * https://github.com/chemprop/chemprop
-* https://github.com/Critical-Materials-Institute/stabilityconstant-ml-models 
+> Open source software that is used in the stabilityconstant-ml-models repository.
+* https://github.com/Critical-Materials-Institute/stabilityconstant-ml-models
+> This project utilizes code and/or methodology derived from the stabilityconstant-ml-models repository:
+> 
+> Karunaratne, E., Zahariev, F., and Pérez García, M. *A Comprehensive Machine Learning Model for Metal–Ligand Binding Prediction: Applications in Chemistry and Biology.* Journal of Chemical Information and Modeling 65, no. 21 (2025): 11532–11542. https://doi.org/10.1021/acs.jcim.5c01546
