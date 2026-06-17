@@ -1,0 +1,2 @@
+total_loaded,n_rejected_validation,n_retained,n_DES_rule_violations,n_physically_unreasonable,n_RoomTemp_candidates,n_WarmTemp_candidates,n_high_uncertainty,n_feature_extrapolation,predicted_Tmelt_min_K,predicted_Tmelt_max_K,predicted_Tmelt_mean_K,predicted_Tmelt_median_K
+2006,0,2006,738,0,211,794,54,0,182.43736267089844,602.5789794921875,354.00909423828125,331.33837890625

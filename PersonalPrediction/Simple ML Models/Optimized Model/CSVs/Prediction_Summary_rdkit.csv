@@ -1,0 +1,2 @@
+total_evaluated,n_DES_rule_violations,n_RoomTemp,n_WarmTemp,n_high_uncertainty,n_feature_extrapolation,predicted_Tmelt_min_K,predicted_Tmelt_max_K,predicted_Tmelt_mean_K,predicted_Tmelt_median_K
+2006,743,212,788,24,5,183.08895874023438,602.3417358398438,354.00445556640625,331.5814208984375

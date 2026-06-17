@@ -1,0 +1,15 @@
+{
+  "total_loaded": 2006,
+  "n_rejected_validation": 0,
+  "n_retained": 2006,
+  "n_DES_rule_violations": 738,
+  "n_physically_unreasonable": 0,
+  "n_RoomTemp_candidates": 211,
+  "n_WarmTemp_candidates": 794,
+  "n_high_uncertainty": 54,
+  "n_feature_extrapolation": 0,
+  "predicted_Tmelt_min_K": 182.43736267089844,
+  "predicted_Tmelt_max_K": 602.5789794921875,
+  "predicted_Tmelt_mean_K": 354.00909423828125,
+  "predicted_Tmelt_median_K": 331.33837890625
+}

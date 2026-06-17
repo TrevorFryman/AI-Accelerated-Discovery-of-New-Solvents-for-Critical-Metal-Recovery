@@ -1,0 +1,12 @@
+{
+  "total_evaluated": 2006,
+  "n_DES_rule_violations": 743,
+  "n_RoomTemp": 212,
+  "n_WarmTemp": 788,
+  "n_high_uncertainty": 24,
+  "n_feature_extrapolation": 5,
+  "predicted_Tmelt_min_K": 183.08895874023438,
+  "predicted_Tmelt_max_K": 602.3417358398438,
+  "predicted_Tmelt_mean_K": 354.00445556640625,
+  "predicted_Tmelt_median_K": 331.5814208984375
+}

@@ -1,0 +1,49 @@
+{
+  "train": {
+    "RMSE": 1.2280298049456684,
+    "MAE": 0.8640082862454455,
+    "R2": 0.9997556339448392
+  },
+  "test": {
+    "RMSE": 13.196415638475738,
+    "MAE": 8.465936226399739,
+    "R2": 0.9722308088928685
+  },
+  "cv_5fold": {
+    "cv_rmse_mean": 15.55334721533536,
+    "cv_rmse_std": 1.5172362362055325,
+    "cv_mae_mean": 9.174017961092805,
+    "cv_r2_mean": 0.9600628114616352,
+    "cv_r2_std": 0.009091034861862739,
+    "train_rmse_mean": 1.1601128069791788,
+    "train_r2_mean": 0.9997820090888958
+  },
+  "hyperparameters": {
+    "subsample": 0.6,
+    "reg_lambda": 1,
+    "reg_alpha": 0.1,
+    "n_estimators": 800,
+    "min_child_weight": 5,
+    "max_depth": 10,
+    "learning_rate": 0.05,
+    "gamma": 0,
+    "colsample_bytree": 0.9
+  },
+  "n_features": 21,
+  "rdkit_descriptors_added": [
+    "C1_MolWt",
+    "C1_LogP",
+    "C1_TPSA",
+    "C1_HBD",
+    "C1_HBA",
+    "C1_RotBonds",
+    "C1_RingCount",
+    "C2_MolWt",
+    "C2_LogP",
+    "C2_TPSA",
+    "C2_HBD",
+    "C2_HBA",
+    "C2_RotBonds",
+    "C2_RingCount"
+  ]
+}

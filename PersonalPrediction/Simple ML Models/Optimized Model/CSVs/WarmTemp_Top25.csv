@@ -1,0 +1,26 @@
+Component#1,Component#2,X#1 (molar fraction),X#2 (molar fraction),"Tmelt, K",predicted_Tmelt_K,uncertainty_K,similarity_score,screening_status,passes_DES_rule,violation_T1,violation_T2,RoomTemp_flag,WarmTemp_flag,feature_extrapolation,high_uncertainty,physically_reasonable,ranking_score_room,ranking_score_warm
+hexadecan-1-ol,5-methyl-2-propan-2-ylphenol,0.897,0.103,320.8,320.82553,18.1,0.9599,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,98.109
+octadecan-1-ol,5-methyl-2-propan-2-ylphenol,0.6,0.4,321.8,320.5831,18.29,0.9487,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.875
+2-hydroxyethyl(trimethyl)azanium;chloride,hexadecan-1-ol,0.408,0.592,320.78,321.2809,18.07,0.9614,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.767
+2-hydroxyethyl(trimethyl)azanium;chloride,hexadecan-1-ol,0.396,0.604,320.95,321.42566,18.06,0.9622,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.671
+2-hydroxyethyl(trimethyl)azanium;chloride,N-(4-hydroxyphenyl)acetamide,0.504,0.496,321.18,320.2508,18.38,0.9436,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.524
+5-methyl-2-propan-2-ylphenol,tetradecanoic acid,0.3,0.7,319.51,319.6807,18.17,0.9555,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.497
+2-hydroxyethyl(trimethyl)azanium;chloride,1-ethyl-3-methylimidazol-3-ium;chloride,0.299,0.701,321.5,321.70923,18.08,0.9609,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.369
+hexadecanoic acid,tetradecanoic acid,0.3016,0.6984,320.42,320.39984,18.57,0.9326,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.216
+tetraethylazanium;chloride,hexadecanoic acid,0.406,0.594,319.93,320.8043,18.51,0.9361,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.176
+tetrapropylazanium;chloride,hexadecanoic acid,0.406,0.594,321.91,321.17014,18.39,0.9431,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.133
+tetrabutylazanium;chloride,octadecan-1-ol,0.595,0.405,321.7,320.8211,18.57,0.9329,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,97.033
+2-hydroxyethyl(trimethyl)azanium;chloride,hexadecan-1-ol,0.306,0.694,322.55,322.37827,18.01,0.9651,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.947
+hexadecanoic acid,tetradecanoic acid,0.3956,0.6044,321.18,320.94846,18.59,0.9315,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.864
+2-hydroxyethyl(trimethyl)azanium;chloride,1-ethyl-3-methylimidazol-3-ium;chloride,0.301,0.699,322.5,322.28864,18.08,0.961,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.862
+5-methyl-2-propan-2-ylphenol,hexadecanoic acid,0.6,0.4,320.48,320.99176,18.59,0.9319,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.842
+tetramethylazanium;chloride,tetradecanoic acid,0.205,0.795,318.4,319.507,18.44,0.9403,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.736
+tetramethylazanium;chloride,tetradecanoic acid,0.303,0.697,322.28,321.7618,18.34,0.9459,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.723
+hexadecan-1-ol,5-methyl-2-propan-2-ylphenol,0.1,0.9,318.2,318.43954,18.08,0.9611,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.626
+"1,3-dithiane","1,2,3,4-tetrafluoro-5,6-diiodobenzene",0.198,0.802,317.831,318.38846,18.08,0.9608,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.569
+2-hydroxyethyl(trimethyl)azanium;chloride,benzyl-(2-hydroxyethyl)-dimethylazanium;chloride,0.303,0.697,317.6,318.34473,18.11,0.9591,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.462
+tetraethylazanium;chloride,tetradecanoic acid,0.206,0.794,321.06,320.24365,18.89,0.9145,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.354
+"1,3-dithiane","1,2,3,4-tetrafluoro-5,6-diiodobenzene",0.898,0.102,323.256,322.94955,18.05,0.9627,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.347
+hexadecan-1-ol,5-methyl-2-propan-2-ylphenol,0.797,0.203,318.8,318.58115,18.28,0.9493,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.279
+2-hydroxyethyl(trimethyl)azanium;chloride,"2,3-dimethylphenol",0.332,0.668,323.6,322.2914,18.36,0.9448,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.211
+tetrabutylazanium;chloride,octadecan-1-ol,0.303,0.697,317.9,319.0937,18.56,0.9334,PASS_WARMTEMP,True,False,False,False,True,False,False,True,,96.095

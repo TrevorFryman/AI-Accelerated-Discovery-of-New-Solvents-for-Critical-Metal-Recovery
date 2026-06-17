@@ -1,0 +1,6 @@
+Component#1,Component#2,X#1 (molar fraction),X#2 (molar fraction),"Tmelt, K",predicted_Tmelt_K,uncertainty_K,similarity_score,screening_status,passes_DES_rule,violation_T1,violation_T2,RoomTemp_flag,WarmTemp_flag,feature_extrapolation,high_uncertainty,physically_reasonable,ranking_score_room,ranking_score_warm
+hydrogen sulfate;tetrabutylazanium,"2-hydroxy-2,2-diphenylacetic acid",0.5,0.5,254.09,254.12874,32.65,0.0,OUTSIDE_TARGET_RANGE,True,False,False,False,False,True,True,True,,
+1-(diaminomethylidene)-2-(2-phenylethyl)guanidine,"propane-1,2,3-triol",0.333333,0.666667,204.15,204.38802,31.68,0.0,OUTSIDE_TARGET_RANGE,True,False,False,False,False,True,True,True,,
+"(E)-1-N'-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-1-N-methyl-2-nitroethene-1,1-diamine",2-acetyloxybenzoic acid,0.67,0.33,236.15,236.17455,32.05,0.0,OUTSIDE_TARGET_RANGE,True,False,False,False,False,True,True,True,,
+"(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide","propane-1,2,3-triol",0.33,0.67,335.15,334.8712,48.34,0.0,REJECTED_DES_RULE,False,False,True,False,True,True,True,True,,17.32
+"4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide",urea,0.2,0.8,391.15,390.8104,32.05,0.0,OUTSIDE_TARGET_RANGE,True,False,False,False,False,True,True,True,,

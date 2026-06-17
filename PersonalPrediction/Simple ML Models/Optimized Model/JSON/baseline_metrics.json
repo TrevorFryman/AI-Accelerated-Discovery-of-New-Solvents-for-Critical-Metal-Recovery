@@ -1,0 +1,59 @@
+{
+  "model_type": "XGBRegressor",
+  "pipeline_steps": [
+    "preprocessor",
+    "regressor"
+  ],
+  "stored_hyperparameters": {
+    "n_estimators": 200,
+    "max_depth": 8,
+    "learning_rate": 0.1,
+    "subsample": null,
+    "colsample_bytree": null,
+    "min_child_weight": null,
+    "gamma": null,
+    "reg_alpha": null,
+    "reg_lambda": null
+  },
+  "features_used": {
+    "numeric": [
+      "Number of components",
+      "X#1 (molar fraction)",
+      "X#2 (molar fraction)",
+      "T#1",
+      "T#2"
+    ],
+    "categorical": [
+      "Type of DES",
+      "Phase diagram (Yes/No)"
+    ]
+  },
+  "dataset": {
+    "n_samples": 2006,
+    "n_features": 7
+  },
+  "split_metrics": {
+    "train": {
+      "RMSE": 3.140857965318513,
+      "MAE": 2.0527774702952093,
+      "R2": 0.9984014741721076
+    },
+    "test": {
+      "RMSE": 17.532888794193887,
+      "MAE": 11.22837101965757,
+      "R2": 0.950981703525182
+    }
+  },
+  "cv_5fold": {
+    "cv_rmse_mean": 18.64227596904474,
+    "cv_rmse_std": 1.35900163561672,
+    "cv_mae_mean": 11.537475482400382,
+    "cv_r2_mean": 0.9428451130771419,
+    "cv_r2_std": 0.01061850989880545,
+    "train_rmse_mean": 3.1075963035454124,
+    "train_r2_mean": 0.99843842758328
+  },
+  "overfitting_gap_r2": 0.047419770646925596,
+  "molecular_descriptors_used": false,
+  "rdkit_dataset_available": true
+}

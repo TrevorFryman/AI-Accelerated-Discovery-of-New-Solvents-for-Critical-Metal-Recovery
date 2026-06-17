@@ -1,0 +1,1 @@
+Component#1,Component#2,X#1 (molar fraction),X#2 (molar fraction),"Tmelt, K",predicted_Tmelt_K,uncertainty_K,similarity_score,screening_status,passes_DES_rule,violation_T1,violation_T2,RoomTemp_flag,WarmTemp_flag,feature_extrapolation,high_uncertainty,physically_reasonable,ranking_score_room,ranking_score_warm
