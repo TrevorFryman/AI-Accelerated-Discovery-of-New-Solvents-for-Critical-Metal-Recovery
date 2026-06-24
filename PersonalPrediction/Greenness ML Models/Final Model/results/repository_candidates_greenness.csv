@@ -1,0 +1,11 @@
+Greenness_Rank,Source_rank_in_Repository_Solvent_Selection,Component#1,Component#2,Smiles#1,Smiles#2,X#1 (molar fraction),X#2 (molar fraction),"Tmelt, K",Metal_score_log K1 sum,G-score_comp1,G-score_comp2,G-score_DES
+1,8,Lidocaine,Prilocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCCNC(C)C(=O)Nc1ccccc1C,0.5,0.5,290.22,5.583,6.9463,7.1288,7.0376
+2,4,Menthol,Salicylic acid,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,O=C(O)c1ccccc1O,0.85,0.15,297.97,8.041,6.9925,6.8284,6.9679
+3,6,Menthol,Phenyl salicylate,CC1CCC(C(C)C)C(O)C1,O=C(Oc1ccccc1)c1ccccc1O,0.5,0.5,296.17,6.305,6.9925,6.9215,6.957
+4,3,Lidocaine,Phenyl salicylate,CCN(CC)CC(=O)Nc1c(C)cccc1C,O=C(Oc1ccccc1)c1ccccc1O,0.43,0.57,291.74,9.21,6.9463,6.9215,6.9322
+5,5,Lidocaine,Tetracaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCCCNc1ccc(C(=O)OCCN(C)C)cc1,0.5,0.5,303.34,7.498,6.9463,6.9085,6.9274
+6,1,"1,10-Phenanthroline",Thymol,c1cnc2c(c1)ccc1cccnc12,Cc1ccc(C(C)C)c(O)c1,0.203,0.797,283.25,11.181,6.6889,6.9171,6.8708
+7,9,Thymol,Cyclohexanecarboxylic acid,Cc1ccc(C(C)C)c(O)c1,O=C(O)C1CCCCC1,0.29,0.71,276.72,5.491,6.9171,6.8033,6.8363
+8,7,Betaine,Malic acid,C[N+](C)(C)CC(=O)[O-],O=C(O)CC(O)C(=O)O,0.5,0.5,318.43,5.671,6.743,6.9249,6.8339
+9,10,Lidocaine,Camphor,CCN(CC)CC(=O)Nc1c(C)cccc1C,CC12CCC(CC1=O)C2(C)C,0.46,0.54,290.71,5.415,6.9463,6.658,6.7906
+10,2,"1,10-Phenanthroline",Chlorothymol,c1cnc2c(c1)ccc1cccnc12,Cc1cc(O)c(C(C)C)cc1Cl,0.502,0.498,297.23,10.786,6.6889,6.796,6.7422

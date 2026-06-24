@@ -1,0 +1,1642 @@
+{
+  "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol": {
+    "cid": 16666,
+    "smiles": "C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C",
+    "iupac_name": "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",
+    "common_name": "L-Menthol",
+    "molecular_formula": "C10H20O",
+    "molecular_weight": "156.26"
+  },
+  "(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol": {
+    "cid": 5780,
+    "smiles": "C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O",
+    "iupac_name": "(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",
+    "common_name": "D-Sorbitol",
+    "molecular_formula": "C6H14O6",
+    "molecular_weight": "182.17"
+  },
+  "(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol": {
+    "cid": 5988,
+    "smiles": "C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O",
+    "iupac_name": "(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol",
+    "common_name": "Sucrose",
+    "molecular_formula": "C12H22O11",
+    "molecular_weight": "342.30"
+  },
+  "(3R,4S,5S)-oxane-2,3,4,5-tetrol": {
+    "cid": 439195,
+    "smiles": "C1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O",
+    "iupac_name": "(3R,4S,5S)-oxane-2,3,4,5-tetrol",
+    "common_name": "L-Arabinose",
+    "molecular_formula": "C5H10O5",
+    "molecular_weight": "150.13"
+  },
+  "(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol": {
+    "cid": 5793,
+    "smiles": "C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O",
+    "iupac_name": "(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+    "common_name": "D-Glucose",
+    "molecular_formula": "C6H12O6",
+    "molecular_weight": "180.16"
+  },
+  "(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol": {
+    "cid": 2723872,
+    "smiles": "C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O",
+    "iupac_name": "(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+    "common_name": "D-Fructose",
+    "molecular_formula": "C6H12O6",
+    "molecular_weight": "180.16"
+  },
+  "2,3-dimethylphenol": {
+    "cid": 10687,
+    "smiles": "CC1=C(C(=CC=C1)O)C",
+    "iupac_name": "2,3-dimethylphenol",
+    "common_name": "2,3-Xylenol",
+    "molecular_formula": "C8H10O",
+    "molecular_weight": "122.16"
+  },
+  "2-(trimethylazaniumyl)acetate": {
+    "cid": 247,
+    "smiles": "C[N+](C)(C)CC(=O)[O-]",
+    "iupac_name": "2-(trimethylazaniumyl)acetate",
+    "common_name": "Betaine (Glycine betaine)",
+    "molecular_formula": "C5H11NO2",
+    "molecular_weight": "117.15"
+  },
+  "2-hydroxyacetic acid": {
+    "cid": 757,
+    "smiles": "C(C(=O)O)O",
+    "iupac_name": "2-hydroxyacetic acid",
+    "common_name": "Glycolic acid",
+    "molecular_formula": "C2H4O3",
+    "molecular_weight": "76.05"
+  },
+  "2-hydroxyethyl(trimethyl)azanium;chloride": {
+    "cid": 6209,
+    "smiles": "C[N+](C)(C)CCO.[Cl-]",
+    "iupac_name": "2-hydroxyethyl(trimethyl)azanium chloride",
+    "common_name": "Choline chloride",
+    "molecular_formula": "C5H14ClNO",
+    "molecular_weight": "139.62"
+  },
+  "2-hydroxypropanoic acid": {
+    "cid": 612,
+    "smiles": "CC(C(=O)O)O",
+    "iupac_name": "2-hydroxypropanoic acid",
+    "common_name": "Lactic acid",
+    "molecular_formula": "C3H6O3",
+    "molecular_weight": "90.08"
+  },
+  "2-methylphenol": {
+    "cid": 335,
+    "smiles": "CC1=CC=CC=C1O",
+    "iupac_name": "2-methylphenol",
+    "common_name": "o-Cresol",
+    "molecular_formula": "C7H8O",
+    "molecular_weight": "108.14"
+  },
+  "3-cyclohexylpropanoic acid": {
+    "cid": 69702,
+    "smiles": "C1CCC(CC1)CCC(=O)O",
+    "iupac_name": "3-cyclohexylpropanoic acid",
+    "common_name": "Cyclohexanepropionic acid",
+    "molecular_formula": "C9H16O2",
+    "molecular_weight": "156.22"
+  },
+  "3-phenylpropanoic acid": {
+    "cid": 107,
+    "smiles": "C1=CC=C(C=C1)CCC(=O)O",
+    "iupac_name": "3-phenylpropanoic acid",
+    "common_name": "Hydrocinnamic acid",
+    "molecular_formula": "C9H10O2",
+    "molecular_weight": "150.17"
+  },
+  "5-methyl-2-propan-2-ylphenol": {
+    "cid": 6989,
+    "smiles": "CC1=CC(=C(C=C1)C(C)C)O",
+    "iupac_name": "5-methyl-2-propan-2-ylphenol",
+    "common_name": "Thymol",
+    "molecular_formula": "C10H14O",
+    "molecular_weight": "150.22"
+  },
+  "Capric Acid": {
+    "cid": 2969,
+    "smiles": "CCCCCCCCCC(=O)O",
+    "iupac_name": "decanoic acid",
+    "common_name": "Capric acid",
+    "molecular_formula": "C10H20O2",
+    "molecular_weight": "172.26"
+  },
+  "Caprylic Acid": {
+    "cid": 379,
+    "smiles": "CCCCCCCC(=O)O",
+    "iupac_name": "octanoic acid",
+    "common_name": "Caprylic acid",
+    "molecular_formula": "C8H16O2",
+    "molecular_weight": "144.21"
+  },
+  "DL-camphor": {
+    "cid": 2537,
+    "smiles": "CC1(C2CCC1(C(=O)C2)C)C",
+    "iupac_name": "1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",
+    "common_name": "Camphor",
+    "molecular_formula": "C10H16O",
+    "molecular_weight": "152.23"
+  },
+  "Glutaric Acid": {
+    "cid": 743,
+    "smiles": "C(CC(=O)O)CC(=O)O",
+    "iupac_name": "pentanedioic acid",
+    "common_name": "Glutaric acid",
+    "molecular_formula": "C5H8O4",
+    "molecular_weight": "132.11"
+  },
+  "Lidocaine": {
+    "cid": 3676,
+    "smiles": "CCN(CC)CC(=O)NC1=C(C=CC=C1C)C",
+    "iupac_name": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+    "common_name": "Lidocaine",
+    "molecular_formula": "C14H22N2O",
+    "molecular_weight": "234.34"
+  },
+  "Pimelic Acid": {
+    "cid": 385,
+    "smiles": "C(CCC(=O)O)CCC(=O)O",
+    "iupac_name": "heptanedioic acid",
+    "common_name": "Pimelic acid",
+    "molecular_formula": "C7H12O4",
+    "molecular_weight": "160.17"
+  },
+  "[N2222]Br": {
+    "cid": 6285,
+    "smiles": "CC[N+](CC)(CC)CC.[Br-]",
+    "iupac_name": "tetraethylazanium bromide",
+    "common_name": "Tetraethylammonium bromide",
+    "molecular_formula": "C8H20BrN",
+    "molecular_weight": "210.16"
+  },
+  "[N3333]Br": {
+    "cid": 74745,
+    "smiles": "CCC[N+](CCC)(CCC)CCC.[Br-]",
+    "iupac_name": "tetrapropylazanium bromide",
+    "common_name": "Tetrapropylammonium bromide",
+    "molecular_formula": "C12H28BrN",
+    "molecular_weight": "266.26"
+  },
+  "decanoic acid": {
+    "cid": 2969,
+    "smiles": "CCCCCCCCCC(=O)O",
+    "iupac_name": "decanoic acid",
+    "common_name": "Capric acid",
+    "molecular_formula": "C10H20O2",
+    "molecular_weight": "172.26"
+  },
+  "dodecanoic acid": {
+    "cid": 3893,
+    "smiles": "CCCCCCCCCCCC(=O)O",
+    "iupac_name": "dodecanoic acid",
+    "common_name": "Lauric acid",
+    "molecular_formula": "C12H24O2",
+    "molecular_weight": "200.32"
+  },
+  "hexadecan-1-ol": {
+    "cid": 2682,
+    "smiles": "CCCCCCCCCCCCCCCCO",
+    "iupac_name": "hexadecan-1-ol",
+    "common_name": "Cetyl alcohol",
+    "molecular_formula": "C16H34O",
+    "molecular_weight": "242.44"
+  },
+  "hexadecanoic acid": {
+    "cid": 985,
+    "smiles": "CCCCCCCCCCCCCCCC(=O)O",
+    "iupac_name": "hexadecanoic acid",
+    "common_name": "Palmitic acid",
+    "molecular_formula": "C16H32O2",
+    "molecular_weight": "256.42"
+  },
+  "octanoic acid": {
+    "cid": 379,
+    "smiles": "CCCCCCCC(=O)O",
+    "iupac_name": "octanoic acid",
+    "common_name": "Caprylic acid",
+    "molecular_formula": "C8H16O2",
+    "molecular_weight": "144.21"
+  },
+  "pentanedioic acid": {
+    "cid": 743,
+    "smiles": "C(CC(=O)O)CC(=O)O",
+    "iupac_name": "pentanedioic acid",
+    "common_name": "Glutaric acid",
+    "molecular_formula": "C5H8O4",
+    "molecular_weight": "132.11"
+  },
+  "phenol": {
+    "cid": 996,
+    "smiles": "C1=CC=C(C=C1)O",
+    "iupac_name": "phenol",
+    "common_name": "Phenol",
+    "molecular_formula": "C6H6O",
+    "molecular_weight": "94.11"
+  },
+  "propanedioic acid": {
+    "cid": 867,
+    "smiles": "C(C(=O)O)C(=O)O",
+    "iupac_name": "propanedioic acid",
+    "common_name": "Malonic acid",
+    "molecular_formula": "C3H4O4",
+    "molecular_weight": "104.06"
+  },
+  "tetrabutylazanium;chloride": {
+    "cid": 70681,
+    "smiles": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]",
+    "iupac_name": "tetrabutylazanium chloride",
+    "common_name": "Tetrabutylammonium chloride (TBAC)",
+    "molecular_formula": "C16H36ClN",
+    "molecular_weight": "277.9"
+  },
+  "tetradecanoic acid": {
+    "cid": 11005,
+    "smiles": "CCCCCCCCCCCCCC(=O)O",
+    "iupac_name": "tetradecanoic acid",
+    "common_name": "Myristic acid",
+    "molecular_formula": "C14H28O2",
+    "molecular_weight": "228.37"
+  },
+  "tetraethylazanium;chloride": {
+    "cid": 5946,
+    "smiles": "CC[N+](CC)(CC)CC.[Cl-]",
+    "iupac_name": "tetraethylazanium chloride",
+    "common_name": "Tetraethylammonium chloride (TEAC)",
+    "molecular_formula": "C8H20ClN",
+    "molecular_weight": "165.70"
+  },
+  "tetramethylazanium;chloride": {
+    "cid": 3248084,
+    "smiles": "C[N+](C)(C)C.[Cl-]",
+    "iupac_name": "tetramethylazanium chloride",
+    "common_name": "Tetramethylammonium chloride",
+    "molecular_formula": "C4H12ClN",
+    "molecular_weight": "109.60"
+  },
+  "tetrapropylazanium;chloride": {
+    "cid": 79880,
+    "smiles": "CCC[N+](CCC)(CCC)CCC.[Cl-]",
+    "iupac_name": "tetrapropylazanium chloride",
+    "common_name": "Tetrapropylammonium chloride",
+    "molecular_formula": "C12H28ClN",
+    "molecular_weight": "221.81"
+  },
+  "undec-10-enoic acid": {
+    "cid": 5634,
+    "smiles": "C=CCCCCCCCCC(=O)O",
+    "iupac_name": "undec-10-enoic acid",
+    "common_name": "Undecylenic acid",
+    "molecular_formula": "C11H20O2",
+    "molecular_weight": "184.27"
+  },
+  "urea": {
+    "cid": 1176,
+    "smiles": "C(=O)(N)N",
+    "iupac_name": "urea",
+    "common_name": "Urea",
+    "molecular_formula": "CH4N2O",
+    "molecular_weight": "60.056"
+  },
+  "(Z)-octadec-9-enoic acid": {
+    "cid": 445639,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)O",
+    "iupac_name": "(Z)-octadec-9-enoic acid",
+    "common_name": "Oleic acid",
+    "molecular_formula": "C18H34O2",
+    "molecular_weight": "282.5"
+  },
+  "1,2,3,4-tetrafluoro-5,6-diiodobenzene": {
+    "cid": 75923,
+    "smiles": "C1(=C(C(=C(C(=C1F)I)I)F)F)F",
+    "iupac_name": "1,2,3,4-tetrafluoro-5,6-diiodobenzene",
+    "common_name": "1,2,3,4-Tetrafluoro-5,6-diiodobenzene",
+    "molecular_formula": "C6F4I2",
+    "molecular_weight": "401.87"
+  },
+  "1,3-dithiane": {
+    "cid": 10451,
+    "smiles": "C1CSCSC1",
+    "iupac_name": "1,3-dithiane",
+    "common_name": "1,3-Dithiane",
+    "molecular_formula": "C4H8S2",
+    "molecular_weight": "120.2"
+  },
+  "1-ethyl-3-methylimidazol-3-ium;chloride": {
+    "cid": 2734160,
+    "smiles": "CCN1C=C[N+](=C1)C.[Cl-]",
+    "iupac_name": "1-ethyl-3-methylimidazol-3-ium chloride",
+    "common_name": "1-Ethyl-3-methylimidazolium chloride ([EMIM]Cl)",
+    "molecular_formula": "C6H11ClN2",
+    "molecular_weight": "146.62"
+  },
+  "N-(4-hydroxyphenyl)acetamide": {
+    "cid": 1983,
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "iupac_name": "N-(4-hydroxyphenyl)acetamide",
+    "common_name": "Acetaminophen (Paracetamol)",
+    "molecular_formula": "C8H9NO2",
+    "molecular_weight": "151.16"
+  },
+  "benzyl-(2-hydroxyethyl)-dimethylazanium;chloride": {
+    "cid": 3014549,
+    "smiles": "C[N+](C)(CCO)CC1=CC=CC=C1.[Cl-]",
+    "iupac_name": "benzyl-(2-hydroxyethyl)-dimethylazanium chloride",
+    "common_name": "Benzyl(2-hydroxyethyl)dimethylammonium chloride",
+    "molecular_formula": "C11H18ClNO",
+    "molecular_weight": "215.72"
+  },
+  "cyclohexanecarboxylic acid": {
+    "cid": 7413,
+    "smiles": "C1CCC(CC1)C(=O)O",
+    "iupac_name": "cyclohexanecarboxylic acid",
+    "common_name": "Hexahydrobenzoic acid",
+    "molecular_formula": "C7H12O2",
+    "molecular_weight": "128.17"
+  },
+  "octadecan-1-ol": {
+    "cid": 8221,
+    "smiles": "CCCCCCCCCCCCCCCCCCO",
+    "iupac_name": "octadecan-1-ol",
+    "common_name": "Stearyl alcohol",
+    "molecular_formula": "C18H38O",
+    "molecular_weight": "270.5"
+  },
+  "tetradecan-1-ol": {
+    "cid": 8209,
+    "smiles": "CCCCCCCCCCCCCCO",
+    "iupac_name": "tetradecan-1-ol",
+    "common_name": "Myristyl alcohol",
+    "molecular_formula": "C14H30O",
+    "molecular_weight": "214.39"
+  },
+  "trioctylphosphine oxide": {
+    "cid": 65577,
+    "smiles": "CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC",
+    "iupac_name": "1-dioctylphosphoryloctane",
+    "common_name": "Trioctylphosphine oxide (TOPO)",
+    "molecular_formula": "C24H51OP",
+    "molecular_weight": "386.6"
+  },
+  "(1R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one": {
+    "cid": 159055,
+    "smiles": "C[C@@]12CC[C@@H](C1(C)C)CC2=O",
+    "iupac_name": "(1R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",
+    "common_name": "D-camphor",
+    "molecular_formula": "C10H16O",
+    "molecular_weight": "152.23"
+  },
+  "(1r,2s,5r)-5-methyl-2-propan-2-ylcyclohexan-1-ol": {
+    "cid": 16666,
+    "smiles": "C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C",
+    "iupac_name": "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",
+    "common_name": "l-Menthol",
+    "molecular_formula": "C10H20O",
+    "molecular_weight": "156.26"
+  },
+  "(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol": {
+    "cid": 6251,
+    "smiles": "C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O",
+    "iupac_name": "(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",
+    "common_name": "D-mannitol",
+    "molecular_formula": "C6H14O6",
+    "molecular_weight": "182.17"
+  },
+  "(2S)-2-amino-3-hydroxypropanoic acid": {
+    "cid": 5951,
+    "smiles": "C([C@@H](C(=O)O)N)O",
+    "iupac_name": "(2S)-2-amino-3-hydroxypropanoic acid",
+    "common_name": "L-serine",
+    "molecular_formula": "C3H7NO3",
+    "molecular_weight": "105.09"
+  },
+  "(2S)-2-amino-4-methylsulfanylbutanoic acid": {
+    "cid": 6137,
+    "smiles": "CSCC[C@@H](C(=O)O)N",
+    "iupac_name": "(2S)-2-amino-4-methylsulfanylbutanoic acid",
+    "common_name": "L-methionine",
+    "molecular_formula": "C5H11NO2S",
+    "molecular_weight": "149.21"
+  },
+  "(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid": {
+    "cid": 6322,
+    "smiles": "C(C[C@@H](C(=O)O)N)CN=C(N)N",
+    "iupac_name": "(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid",
+    "common_name": "L-arginine",
+    "molecular_formula": "C6H14N4O2",
+    "molecular_weight": "174.20"
+  },
+  "(2S)-2-aminobutanedioic acid": {
+    "cid": 5960,
+    "smiles": "C([C@@H](C(=O)O)N)C(=O)O",
+    "iupac_name": "(2S)-2-aminobutanedioic acid",
+    "common_name": "L-aspartic acid",
+    "molecular_formula": "C4H7NO4",
+    "molecular_weight": "133.10"
+  },
+  "(2S)-2-aminopentanedioic acid": {
+    "cid": 33032,
+    "smiles": "C(CC(=O)O)[C@@H](C(=O)O)N",
+    "iupac_name": "(2S)-2-aminopentanedioic acid",
+    "common_name": "L-glutamic acid",
+    "molecular_formula": "C5H9NO4",
+    "molecular_weight": "147.13"
+  },
+  "(2S,3R)-2-amino-3-hydroxybutanoic acid": {
+    "cid": 6288,
+    "smiles": "C[C@H]([C@@H](C(=O)O)N)O",
+    "iupac_name": "(2S,3R)-2-amino-3-hydroxybutanoic acid",
+    "common_name": "L-threonine",
+    "molecular_formula": "C4H9NO3",
+    "molecular_weight": "119.12"
+  },
+  "(2S,3R)-butane-1,2,3,4-tetrol": {
+    "cid": 222285,
+    "smiles": "C([C@H]([C@H](CO)O)O)O",
+    "iupac_name": "(2S,3R)-butane-1,2,3,4-tetrol",
+    "common_name": "Erythritol",
+    "molecular_formula": "C4H10O4",
+    "molecular_weight": "122.12"
+  },
+  "(2S,4R)-pentane-1,2,3,4,5-pentol": {
+    "cid": 6912,
+    "smiles": "C([C@H](C([C@H](CO)O)O)O)O",
+    "iupac_name": "(2R,4S)-pentane-1,2,3,4,5-pentol",
+    "common_name": "(2S,4R)-pentane-1,2,3,4,5-pentol",
+    "molecular_formula": "C5H12O5",
+    "molecular_weight": "152.15"
+  },
+  "(3R)-3-hydroxy-4-(trimethylazaniumyl)butanoate": {
+    "cid": 10917,
+    "smiles": "C[N+](C)(C)C[C@@H](CC(=O)[O-])O",
+    "iupac_name": "(3R)-3-hydroxy-4-(trimethylazaniumyl)butanoate",
+    "common_name": "L-carnitine",
+    "molecular_formula": "C7H15NO3",
+    "molecular_weight": "161.20"
+  },
+  "(3R,4S,5R)-oxane-2,3,4,5-tetrol": {
+    "cid": 135191,
+    "smiles": "C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O",
+    "iupac_name": "(3R,4S,5R)-oxane-2,3,4,5-tetrol",
+    "common_name": "D-xylopyranose",
+    "molecular_formula": "C5H10O5",
+    "molecular_weight": "150.13"
+  },
+  "(3S,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol": {
+    "cid": 18950,
+    "smiles": "C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O",
+    "iupac_name": "(3S,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+    "common_name": "D-Mannopyranose",
+    "molecular_formula": "C6H12O6",
+    "molecular_weight": "180.16"
+  },
+  "(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide": {
+    "cid": 54675776,
+    "smiles": "C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O",
+    "iupac_name": "(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",
+    "common_name": "tetracycline",
+    "molecular_formula": "C22H24N2O8",
+    "molecular_weight": "444.4"
+  },
+  "(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one": {
+    "cid": 6013,
+    "smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C",
+    "iupac_name": "(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",
+    "common_name": "testosterone",
+    "molecular_formula": "C19H28O2",
+    "molecular_weight": "288.4"
+  },
+  "(9Z,12Z)-octadeca-9,12-dienoic acid": {
+    "cid": 5280450,
+    "smiles": "CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O",
+    "iupac_name": "(9Z,12Z)-octadeca-9,12-dienoic acid",
+    "common_name": "linoleic acid",
+    "molecular_formula": "C18H32O2",
+    "molecular_weight": "280.4"
+  },
+  "(E)-1-N'-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-1-N-methyl-2-nitroethene-1,1-diamine": {
+    "cid": 3001055,
+    "smiles": "CN/C(=C\\[N+](=O)[O-])/NCCSCC1=CC=C(O1)CN(C)C",
+    "iupac_name": "(E)-1-N'-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-1-N-methyl-2-nitroethene-1,1-diamine",
+    "common_name": "ranitidine",
+    "molecular_formula": "C13H22N4O3S",
+    "molecular_weight": "314.41"
+  },
+  "(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid": {
+    "cid": 689043,
+    "smiles": "C1=CC(=C(C=C1/C=C/C(=O)O)O)O",
+    "iupac_name": "(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",
+    "common_name": "caffeic acid",
+    "molecular_formula": "C9H8O4",
+    "molecular_weight": "180.16"
+  },
+  "1,1,1,3,3,3-hexafluoropropan-2-ol": {
+    "cid": 13529,
+    "smiles": "C(C(F)(F)F)(C(F)(F)F)O",
+    "iupac_name": "1,1,1,3,3,3-hexafluoropropan-2-ol",
+    "common_name": "Hexafluoroisopropanol",
+    "molecular_formula": "C3H2F6O",
+    "molecular_weight": "168.04"
+  },
+  "1,1-dimethylurea": {
+    "cid": 11737,
+    "smiles": "CN(C)C(=O)N",
+    "iupac_name": "1,1-dimethylurea",
+    "common_name": "N,N-Dimethylurea",
+    "molecular_formula": "C3H8N2O",
+    "molecular_weight": "88.11"
+  },
+  "1,10-phenanthroline": {
+    "cid": 1318,
+    "smiles": "C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1",
+    "iupac_name": "1,10-phenanthroline",
+    "common_name": "o-phenanthroline",
+    "molecular_formula": "C12H8N2",
+    "molecular_weight": "180.20"
+  },
+  "1,2,3,5-tetrafluoro-4,6-diiodobenzene": {
+    "cid": 12543813,
+    "smiles": "C1(=C(C(=C(C(=C1F)I)F)I)F)F",
+    "iupac_name": "1,2,3,5-tetrafluoro-4,6-diiodobenzene",
+    "common_name": "Benzene, 1,2,3,5-tetrafluoro-4,6-diiodo-",
+    "molecular_formula": "C6F4I2",
+    "molecular_weight": "401.87"
+  },
+  "1,2,4,5-tetrafluoro-3,6-diiodobenzene": {
+    "cid": 67850,
+    "smiles": "C1(=C(C(=C(C(=C1I)F)F)I)F)F",
+    "iupac_name": "1,2,4,5-tetrafluoro-3,6-diiodobenzene",
+    "common_name": "Mfcd00001055",
+    "molecular_formula": "C6F4I2",
+    "molecular_weight": "401.87"
+  },
+  "1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane": {
+    "cid": 2758,
+    "smiles": "CC1(C2CCC(O1)(CC2)C)C",
+    "iupac_name": "1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",
+    "common_name": "Eucalyptol",
+    "molecular_formula": "C10H18O",
+    "molecular_weight": "154.25"
+  },
+  "1,3,5-trifluoro-2,4,6-triiodobenzene": {
+    "cid": 3852430,
+    "smiles": "C1(=C(C(=C(C(=C1I)F)I)F)I)F",
+    "iupac_name": "1,3,5-trifluoro-2,4,6-triiodobenzene",
+    "common_name": "Mfcd06248899",
+    "molecular_formula": "C6F3I3",
+    "molecular_weight": "509.77"
+  },
+  "1,3-Dimethylurea": {
+    "cid": 7293,
+    "smiles": "CNC(=O)NC",
+    "iupac_name": "1,3-dimethylurea",
+    "common_name": "N,N'-Dimethylurea",
+    "molecular_formula": "C3H8N2O",
+    "molecular_weight": "88.11"
+  },
+  "1,3-dimethylurea": {
+    "cid": 7293,
+    "smiles": "CNC(=O)NC",
+    "iupac_name": "1,3-dimethylurea",
+    "common_name": "N,N'-Dimethylurea",
+    "molecular_formula": "C3H8N2O",
+    "molecular_weight": "88.11"
+  },
+  "1,4-dithiane": {
+    "cid": 10452,
+    "smiles": "C1CSCCS1",
+    "iupac_name": "1,4-dithiane",
+    "common_name": "p-Dithiane",
+    "molecular_formula": "C4H8S2",
+    "molecular_weight": "120.2"
+  },
+  "1,7,7-trimethylbicyclo[2.2.1]heptan-2-one": {
+    "cid": 2537,
+    "smiles": "CC1(C2CCC1(C(=O)C2)C)C",
+    "iupac_name": "1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",
+    "common_name": "camphor",
+    "molecular_formula": "C10H16O",
+    "molecular_weight": "152.23"
+  },
+  "1-(diaminomethylidene)-2-(2-phenylethyl)guanidine": {
+    "cid": 8249,
+    "smiles": "C1=CC=C(C=C1)CCN=C(N)N=C(N)N",
+    "iupac_name": "1-(diaminomethylidene)-2-(2-phenylethyl)guanidine",
+    "common_name": "Phenformin",
+    "molecular_formula": "C10H15N5",
+    "molecular_weight": "205.26"
+  },
+  "1-butyl-1-methylpyrrolidin-1-ium;chloride": {
+    "cid": 11769095,
+    "smiles": "CCCC[N+]1(CCCC1)C.[Cl-]",
+    "iupac_name": "1-butyl-1-methylpyrrolidin-1-ium chloride",
+    "common_name": "Xhv1zjl59r",
+    "molecular_formula": "C9H20ClN",
+    "molecular_weight": "177.71"
+  },
+  "1-butylpyridin-1-ium;chloride": {
+    "cid": 2734171,
+    "smiles": "CCCC[N+]1=CC=CC=C1.[Cl-]",
+    "iupac_name": "1-butylpyridin-1-ium chloride",
+    "common_name": "n-Butylpyridinium chloride",
+    "molecular_formula": "C9H14ClN",
+    "molecular_weight": "171.67"
+  },
+  "1-methyl-4-prop-1-en-2-ylcyclohexene": {
+    "cid": 22311,
+    "smiles": "CC1=CCC(CC1)C(=C)C",
+    "iupac_name": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "common_name": "Limonene",
+    "molecular_formula": "C10H16",
+    "molecular_weight": "136.23"
+  },
+  "1-naphthalen-1-yloxy-3-(propan-2-ylamino)propan-2-ol": {
+    "cid": 4946,
+    "smiles": "CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O",
+    "iupac_name": "1-naphthalen-1-yloxy-3-(propan-2-ylamino)propan-2-ol",
+    "common_name": "propranolol",
+    "molecular_formula": "C16H21NO2",
+    "molecular_weight": "259.34"
+  },
+  "1H-Benzotriazolium, 3-butyl-1-ethyl-, hexafluorophosphate(1-) (1:1) (ACI)": {
+    "cid": null,
+    "smiles": "CCCC[n+]1nn(CC)c2ccccc12.F[P-](F)(F)(F)(F)F",
+    "iupac_name": "1H-Benzotriazolium, 3-butyl-1-ethyl-, hexafluorophosphate(1-) (1:1) (ACI)",
+    "common_name": "1H-Benzotriazolium, 3-butyl-1-ethyl-, hexafluorophosphate(1-) (1:1) (ACI)",
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "1H-Imidazolium, 3-[2-[(1R,5S)-6,6-dimethylbicyclo[3.1.1]hept-2-en-2-yl]ethyl]-1-methyl-, methanesulfonate (1:1) (ACI)": {
+    "cid": null,
+    "smiles": "Cn1cc[n+](CCC2=CCC3CC2C3(C)C)c1.CS(=O)(=O)[O-]",
+    "iupac_name": "1H-Imidazolium, 3-[2-[(1R,5S)-6,6-dimethylbicyclo[3.1.1]hept-2-en-2-yl]ethyl]-1-methyl-, methanesulfonate (1:1) (ACI)",
+    "common_name": "1H-Imidazolium, 3-[2-[(1R,5S)-6,6-dimethylbicyclo[3.1.1]hept-2-en-2-yl]ethyl]-1-methyl-, methanesulfonate (1:1) (ACI)",
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "1H-imidazole": {
+    "cid": 795,
+    "smiles": "C1=CN=CN1",
+    "iupac_name": "1H-imidazole",
+    "common_name": "imidazole",
+    "molecular_formula": "C3H4N2",
+    "molecular_weight": "68.08"
+  },
+  "2,2,2-trifluoroacetamide": {
+    "cid": 67717,
+    "smiles": "C(=O)(C(F)(F)F)N",
+    "iupac_name": "2,2,2-trifluoroacetamide",
+    "common_name": "Trifluoroacetamide",
+    "molecular_formula": "C2H2F3NO",
+    "molecular_weight": "113.04"
+  },
+  "2,3-dihydroxybutanedioic acid": {
+    "cid": 875,
+    "smiles": "C(C(C(=O)O)O)(C(=O)O)O",
+    "iupac_name": "2,3-dihydroxybutanedioic acid",
+    "common_name": "G35198mq",
+    "molecular_formula": "C4H6O6",
+    "molecular_weight": "150.09"
+  },
+  "2,4,6-trimethylphenol": {
+    "cid": 10698,
+    "smiles": "CC1=CC(=C(C(=C1)C)O)C",
+    "iupac_name": "2,4,6-trimethylphenol",
+    "common_name": "Mesitol",
+    "molecular_formula": "C9H12O",
+    "molecular_weight": "136.19"
+  },
+  "2-(2-hydroxyethylamino)ethanol": {
+    "cid": 8113,
+    "smiles": "C(CO)NCCO",
+    "iupac_name": "2-(2-hydroxyethylamino)ethanol",
+    "common_name": "Diethanolamine",
+    "molecular_formula": "C4H11NO2",
+    "molecular_weight": "105.14"
+  },
+  "2-(3-benzoylphenyl)propanoic acid": {
+    "cid": 3825,
+    "smiles": "CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O",
+    "iupac_name": "2-(3-benzoylphenyl)propanoic acid",
+    "common_name": "ketoprofen",
+    "molecular_formula": "C16H14O3",
+    "molecular_weight": "254.28"
+  },
+  "2-(3-methylimidazol-3-ium-1-yl)ethanol;chloride": {
+    "cid": 11499271,
+    "smiles": "C[N+]1=CN(C=C1)CCO.[Cl-]",
+    "iupac_name": "2-(3-methylimidazol-3-ium-1-yl)ethanol chloride",
+    "common_name": "Mfcd11865031",
+    "molecular_formula": "C6H11ClN2O",
+    "molecular_weight": "162.62"
+  },
+  "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide": {
+    "cid": 3676,
+    "smiles": "CCN(CC)CC(=O)NC1=C(C=CC=C1C)C",
+    "iupac_name": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+    "common_name": "lidocaine",
+    "molecular_formula": "C14H22N2O",
+    "molecular_weight": "234.34"
+  },
+  "2-(dimethylamino)ethyl 4-(butylamino)benzoate": {
+    "cid": 5411,
+    "smiles": "CCCCNC1=CC=C(C=C1)C(=O)OCCN(C)C",
+    "iupac_name": "2-(dimethylamino)ethyl 4-(butylamino)benzoate",
+    "common_name": "tetracaine",
+    "molecular_formula": "C15H24N2O2",
+    "molecular_weight": "264.36"
+  },
+  "2-(trimethylazaniumyl)acetate;hydrate": {
+    "cid": 24884197,
+    "smiles": "C[N+](C)(C)CC(=O)[O-].O",
+    "iupac_name": "2-(trimethylazaniumyl)acetate;hydrate",
+    "common_name": "Betaine monohydrate",
+    "molecular_formula": "C5H13NO3",
+    "molecular_weight": "135.16"
+  },
+  "2-Chloro-N,N,N-trimethylethanaminium chloride": {
+    "cid": 13836,
+    "smiles": "C[N+](C)(C)CCCl.[Cl-]",
+    "iupac_name": "2-chloroethyl(trimethyl)azanium chloride",
+    "common_name": "Chlormequat chloride",
+    "molecular_formula": "C5H13Cl2N",
+    "molecular_weight": "158.07"
+  },
+  "2-[2-(2-hydroxyethoxy)ethoxy]ethanol": {
+    "cid": 8172,
+    "smiles": "C(COCCOCCO)O",
+    "iupac_name": "2-[2-(2-hydroxyethoxy)ethoxy]ethanol",
+    "common_name": "Triethylene Glycol",
+    "molecular_formula": "C6H14O4",
+    "molecular_weight": "150.17"
+  },
+  "2-[4-(2-methylpropyl)phenyl]propanoic acid": {
+    "cid": 3672,
+    "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O",
+    "iupac_name": "2-[4-(2-methylpropyl)phenyl]propanoic acid",
+    "common_name": "Ibuprofen, (+-)-",
+    "molecular_formula": "C13H18O2",
+    "molecular_weight": "206.28"
+  },
+  "2-[bis(2-hydroxyethyl)amino]ethanol": {
+    "cid": 7618,
+    "smiles": "C(CO)N(CCO)CCO",
+    "iupac_name": "2-[bis(2-hydroxyethyl)amino]ethanol",
+    "common_name": "Triethanolamine",
+    "molecular_formula": "C6H15NO3",
+    "molecular_weight": "149.19"
+  },
+  "2-acetyloxybenzoic acid": {
+    "cid": 2244,
+    "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O",
+    "iupac_name": "2-acetyloxybenzoic acid",
+    "common_name": "aspirin",
+    "molecular_formula": "C9H8O4",
+    "molecular_weight": "180.16"
+  },
+  "2-acetyloxyethyl(trimethyl)azanium;chloride": {
+    "cid": 6060,
+    "smiles": "CC(=O)OCC[N+](C)(C)C.[Cl-]",
+    "iupac_name": "2-acetyloxyethyl(trimethyl)azanium chloride",
+    "common_name": "Acetylcholine Chloride",
+    "molecular_formula": "C7H16ClNO2",
+    "molecular_weight": "181.66"
+  },
+  "2-aminoethanol": {
+    "cid": 700,
+    "smiles": "C(CO)N",
+    "iupac_name": "2-aminoethanol",
+    "common_name": "Ethanolamine",
+    "molecular_formula": "C2H7NO",
+    "molecular_weight": "61.08"
+  },
+  "2-cyclohexylacetic acid": {
+    "cid": 21363,
+    "smiles": "C1CCC(CC1)CC(=O)O",
+    "iupac_name": "2-cyclohexylacetic acid",
+    "common_name": "Cyclohexylacetic Acid",
+    "molecular_formula": "C8H14O2",
+    "molecular_weight": "142.20"
+  },
+  "2-fluoroethyl(trimethyl)azanium;bromide": {
+    "cid": 9523,
+    "smiles": "C[N+](C)(C)CCF.[Br-]",
+    "iupac_name": "2-fluoroethyl(trimethyl)azanium bromide",
+    "common_name": "Ammonium, 2-fluoroethyltrimethyl-, Bromide",
+    "molecular_formula": "C5H13BrFN",
+    "molecular_weight": "186.07"
+  },
+  "2-hydroxy-2,2-diphenylacetic acid": {
+    "cid": 6463,
+    "smiles": "C1=CC=C(C=C1)C(C2=CC=CC=C2)(C(=O)O)O",
+    "iupac_name": "2-hydroxy-2,2-diphenylacetic acid",
+    "common_name": "Benzilic Acid",
+    "molecular_formula": "C14H12O3",
+    "molecular_weight": "228.24"
+  },
+  "2-hydroxybenzoic acid": {
+    "cid": 338,
+    "smiles": "C1=CC=C(C(=C1)C(=O)O)O",
+    "iupac_name": "2-hydroxybenzoic acid",
+    "common_name": "salicylic acid",
+    "molecular_formula": "C7H6O3",
+    "molecular_weight": "138.12"
+  },
+  "2-hydroxybutanedioic acid": {
+    "cid": 525,
+    "smiles": "C(C(C(=O)O)O)C(=O)O",
+    "iupac_name": "2-hydroxybutanedioic acid",
+    "common_name": "malic acid",
+    "molecular_formula": "C4H6O5",
+    "molecular_weight": "134.09"
+  },
+  "2-hydroxyethyl(trimethyl)azanium;acetate": {
+    "cid": 11643980,
+    "smiles": "CC(=O)[O-].C[N+](C)(C)CCO",
+    "iupac_name": "2-hydroxyethyl(trimethyl)azanium acetate",
+    "common_name": "Cholin acetate",
+    "molecular_formula": "C7H17NO3",
+    "molecular_weight": "163.21"
+  },
+  "2-hydroxypropane-1,2,3-tricarboxylic acid": {
+    "cid": 311,
+    "smiles": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "iupac_name": "2-hydroxypropane-1,2,3-tricarboxylic acid",
+    "common_name": "citric acid",
+    "molecular_formula": "C6H8O7",
+    "molecular_weight": "192.12"
+  },
+  "2-methoxyethyl(trimethyl)azanium;chloride": {
+    "cid": 23352174,
+    "smiles": "C[N+](C)(C)CCOC.[Cl-]",
+    "iupac_name": "2-methoxyethyl(trimethyl)azanium chloride",
+    "common_name": "methylcholine chloride",
+    "molecular_formula": "C6H16ClNO",
+    "molecular_weight": "153.65"
+  },
+  "2-methyl-5-propan-2-ylphenol": {
+    "cid": 10364,
+    "smiles": "CC1=C(C=C(C=C1)C(C)C)O",
+    "iupac_name": "2-methyl-5-propan-2-ylphenol",
+    "common_name": "Carvacrol",
+    "molecular_formula": "C10H14O",
+    "molecular_weight": "150.22"
+  },
+  "2-methylidenebutanedioic acid": {
+    "cid": 811,
+    "smiles": "C=C(CC(=O)O)C(=O)O",
+    "iupac_name": "2-methylidenebutanedioic acid",
+    "common_name": "Itaconic acid",
+    "molecular_formula": "C5H6O4",
+    "molecular_weight": "130.10"
+  },
+  "2-methylpentane-2,4-diol": {
+    "cid": 7870,
+    "smiles": "CC(CC(C)(C)O)O",
+    "iupac_name": "2-methylpentane-2,4-diol",
+    "common_name": "Hexylene glycol",
+    "molecular_formula": "C6H14O2",
+    "molecular_weight": "118.17"
+  },
+  "2-oxopropanoic acid": {
+    "cid": 1060,
+    "smiles": "CC(=O)C(=O)O",
+    "iupac_name": "2-oxopropanoic acid",
+    "common_name": "Pyruvic acid",
+    "molecular_formula": "C3H4O3",
+    "molecular_weight": "88.06"
+  },
+  "2-phenylacetic acid": {
+    "cid": 999,
+    "smiles": "C1=CC=C(C=C1)CC(=O)O",
+    "iupac_name": "2-phenylacetic acid",
+    "common_name": "Phenylacetic Acid",
+    "molecular_formula": "C8H8O2",
+    "molecular_weight": "136.15"
+  },
+  "3,4,5-trihydroxybenzoic acid": {
+    "cid": 370,
+    "smiles": "C1=C(C=C(C(=C1O)O)O)C(=O)O",
+    "iupac_name": "3,4,5-trihydroxybenzoic acid",
+    "common_name": "Gallic acid",
+    "molecular_formula": "C7H6O5",
+    "molecular_weight": "170.12"
+  },
+  "3,4-dimethylphenol": {
+    "cid": 7249,
+    "smiles": "CC1=C(C=C(C=C1)O)C",
+    "iupac_name": "3,4-dimethylphenol",
+    "common_name": "Phenol, 3,4-dimethyl-",
+    "molecular_formula": "C8H10O",
+    "molecular_weight": "122.16"
+  },
+  "4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide": {
+    "cid": 5340,
+    "smiles": "C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2",
+    "iupac_name": "4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide",
+    "common_name": "sulfathiazole",
+    "molecular_formula": "C9H9N3O2S2",
+    "molecular_weight": "255.3"
+  },
+  "4-chloro-5-methyl-2-propan-2-ylphenol": {
+    "cid": 6982,
+    "smiles": "CC1=CC(=C(C=C1Cl)C(C)C)O",
+    "iupac_name": "4-chloro-5-methyl-2-propan-2-ylphenol",
+    "common_name": "Chlorothymol",
+    "molecular_formula": "C10H13ClO",
+    "molecular_weight": "184.66"
+  },
+  "4-hydroxybenzoic acid": {
+    "cid": 135,
+    "smiles": "C1=CC(=CC=C1C(=O)O)O",
+    "iupac_name": "4-hydroxybenzoic acid",
+    "common_name": "p-Hydroxybenzoic acid",
+    "molecular_formula": "C7H6O3",
+    "molecular_weight": "138.12"
+  },
+  "4-hydroxybenzonitrile": {
+    "cid": 13019,
+    "smiles": "C1=CC(=CC=C1C#N)O",
+    "iupac_name": "4-hydroxybenzonitrile",
+    "common_name": "p-Hydroxybenzonitrile",
+    "molecular_formula": "C7H5NO",
+    "molecular_weight": "119.12"
+  },
+  "4-methylbenzenesulfonic acid": {
+    "cid": 6101,
+    "smiles": "CC1=CC=C(C=C1)S(=O)(=O)O",
+    "iupac_name": "4-methylbenzenesulfonic acid",
+    "common_name": "P-toluenesulfonic Acid",
+    "molecular_formula": "C7H8O3S",
+    "molecular_weight": "172.20"
+  },
+  "4-oxopentanoic acid": {
+    "cid": 11579,
+    "smiles": "CC(=O)CCC(=O)O",
+    "iupac_name": "4-oxopentanoic acid",
+    "common_name": "Levulinic Acid",
+    "molecular_formula": "C5H8O3",
+    "molecular_weight": "116.11"
+  },
+  "4-phenylbutanoic acid": {
+    "cid": 4775,
+    "smiles": "C1=CC=C(C=C1)CCCC(=O)O",
+    "iupac_name": "4-phenylbutanoic acid",
+    "common_name": "Benzenebutanoic acid",
+    "molecular_formula": "C10H12O2",
+    "molecular_weight": "164.20"
+  },
+  "4-phenylphenol": {
+    "cid": 7103,
+    "smiles": "C1=CC=C(C=C1)C2=CC=C(C=C2)O",
+    "iupac_name": "4-phenylphenol",
+    "common_name": "[1,1'-Biphenyl]-4-ol",
+    "molecular_formula": "C12H10O",
+    "molecular_weight": "170.21"
+  },
+  "5-[(2-chlorophenyl)methyl]-6,7-dihydro-4H-thieno[3,2-c]pyridine;hydrochloride": {
+    "cid": 65335,
+    "smiles": "C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl.Cl",
+    "iupac_name": "5-[(2-chlorophenyl)methyl]-6,7-dihydro-4H-thieno[3,2-c]pyridine;hydrochloride",
+    "common_name": "Ticlopidine Hydrochloride",
+    "molecular_formula": "C14H15Cl2NS",
+    "molecular_weight": "300.2"
+  },
+  "5-methyl-2-propan-2-ylcyclohexan-1-ol": {
+    "cid": 1254,
+    "smiles": "CC1CCC(C(C1)O)C(C)C",
+    "iupac_name": "5-methyl-2-propan-2-ylcyclohexan-1-ol",
+    "common_name": "Menthol",
+    "molecular_formula": "C10H20O",
+    "molecular_weight": "156.26"
+  },
+  "5-phenylpentanoic acid": {
+    "cid": 16757,
+    "smiles": "C1=CC=C(C=C1)CCCCC(=O)O",
+    "iupac_name": "5-phenylpentanoic acid",
+    "common_name": "Benzenepentanoic acid",
+    "molecular_formula": "C11H14O2",
+    "molecular_weight": "178.23"
+  },
+  "Acetylsalicylic Acid": {
+    "cid": 2244,
+    "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O",
+    "iupac_name": "2-acetyloxybenzoic acid",
+    "common_name": "aspirin",
+    "molecular_formula": "C9H8O4",
+    "molecular_weight": "180.16"
+  },
+  "Adiphenine": {
+    "cid": 2031,
+    "smiles": "CCN(CC)CCOC(=O)C(C1=CC=CC=C1)C2=CC=CC=C2",
+    "iupac_name": "2-(diethylamino)ethyl 2,2-diphenylacetate",
+    "common_name": "adiphenine",
+    "molecular_formula": "C20H25NO2",
+    "molecular_weight": "311.4"
+  },
+  "ChCl": {
+    "cid": 6209,
+    "smiles": "C[N+](C)(C)CCO.[Cl-]",
+    "iupac_name": "2-hydroxyethyl(trimethyl)azanium chloride",
+    "common_name": "Choline Chloride",
+    "molecular_formula": "C5H14ClNO",
+    "molecular_weight": "139.62"
+  },
+  "Choline chloride": {
+    "cid": 6209,
+    "smiles": "C[N+](C)(C)CCO.[Cl-]",
+    "iupac_name": "2-hydroxyethyl(trimethyl)azanium chloride",
+    "common_name": "Choline Chloride",
+    "molecular_formula": "C5H14ClNO",
+    "molecular_weight": "139.62"
+  },
+  "Erythritol": {
+    "cid": 222285,
+    "smiles": "C([C@H]([C@H](CO)O)O)O",
+    "iupac_name": "(2S,3R)-butane-1,2,3,4-tetrol",
+    "common_name": "Erythritol",
+    "molecular_formula": "C4H10O4",
+    "molecular_weight": "122.12"
+  },
+  "Ibuprofen": {
+    "cid": 3672,
+    "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O",
+    "iupac_name": "2-[4-(2-methylpropyl)phenyl]propanoic acid",
+    "common_name": "Ibuprofen, (+-)-",
+    "molecular_formula": "C13H18O2",
+    "molecular_weight": "206.28"
+  },
+  "Lauric Acid": {
+    "cid": 3893,
+    "smiles": "CCCCCCCCCCCC(=O)O",
+    "iupac_name": "dodecanoic acid",
+    "common_name": "lauric acid",
+    "molecular_formula": "C12H24O2",
+    "molecular_weight": "200.32"
+  },
+  "Menthol": {
+    "cid": 1254,
+    "smiles": "CC1CCC(C(C1)O)C(C)C",
+    "iupac_name": "5-methyl-2-propan-2-ylcyclohexan-1-ol",
+    "common_name": "Menthol",
+    "molecular_formula": "C10H20O",
+    "molecular_weight": "156.26"
+  },
+  "N-(2-methylphenyl)-2-(propylamino)propanamide": {
+    "cid": 4906,
+    "smiles": "CCCNC(C)C(=O)NC1=CC=CC=C1C",
+    "iupac_name": "N-(2-methylphenyl)-2-(propylamino)propanamide",
+    "common_name": "prilocaine",
+    "molecular_formula": "C13H20N2O",
+    "molecular_weight": "220.31"
+  },
+  "Sulfathiazole": {
+    "cid": 5340,
+    "smiles": "C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2",
+    "iupac_name": "4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide",
+    "common_name": "sulfathiazole",
+    "molecular_formula": "C9H9N3O2S2",
+    "molecular_weight": "255.3"
+  },
+  "Testosterone": {
+    "cid": 6013,
+    "smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C",
+    "iupac_name": "(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",
+    "common_name": "testosterone",
+    "molecular_formula": "C19H28O2",
+    "molecular_weight": "288.4"
+  },
+  "Urea": {
+    "cid": 1176,
+    "smiles": "C(=O)(N)N",
+    "iupac_name": "urea",
+    "common_name": "urea",
+    "molecular_formula": "CH4N2O",
+    "molecular_weight": "60.056"
+  },
+  "Xylitol": {
+    "cid": 6912,
+    "smiles": "C([C@H](C([C@H](CO)O)O)O)O",
+    "iupac_name": "(2R,4S)-pentane-1,2,3,4,5-pentol",
+    "common_name": "(2S,4R)-pentane-1,2,3,4,5-pentol",
+    "molecular_formula": "C5H12O5",
+    "molecular_weight": "152.15"
+  },
+  "[N1111]Cl": {
+    "cid": 3248084,
+    "smiles": "C[N+](C)(C)C.[Cl-]",
+    "iupac_name": "tetramethylazanium chloride",
+    "common_name": "tetramethylazanium;chloride",
+    "molecular_formula": "C4H12ClN",
+    "molecular_weight": "109.60"
+  },
+  "[N3333]Cl": {
+    "cid": 79880,
+    "smiles": "CCC[N+](CCC)(CCC)CCC.[Cl-]",
+    "iupac_name": "tetrapropylazanium chloride",
+    "common_name": "Tetrapropylammonium chloride",
+    "molecular_formula": "C12H28ClN",
+    "molecular_weight": "221.81"
+  },
+  "[N5555]Br": {
+    "cid": 70086,
+    "smiles": "CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-]",
+    "iupac_name": "tetrapentylazanium bromide",
+    "common_name": "Tetrapentylammonium bromide",
+    "molecular_formula": "C20H44BrN",
+    "molecular_weight": "378.5"
+  },
+  "[NH4]Cl": {
+    "cid": 25517,
+    "smiles": "[NH4+].[Cl-]",
+    "iupac_name": "azanium chloride",
+    "common_name": "Ammonium Chloride",
+    "molecular_formula": "ClH4N",
+    "molecular_weight": "53.49"
+  },
+  "acetamide": {
+    "cid": 178,
+    "smiles": "CC(=O)N",
+    "iupac_name": "acetamide",
+    "common_name": "acetamide",
+    "molecular_formula": "C2H5NO",
+    "molecular_weight": "59.07"
+  },
+  "acetic acid": {
+    "cid": 176,
+    "smiles": "CC(=O)O",
+    "iupac_name": "acetic acid",
+    "common_name": "acetic acid",
+    "molecular_formula": "C2H4O2",
+    "molecular_weight": "60.05"
+  },
+  "azanium;chloride": {
+    "cid": 11051564,
+    "smiles": "[15NH4+].[Cl-]",
+    "iupac_name": "azanium chloride",
+    "common_name": "Ammonium 15N chloride,",
+    "molecular_formula": "ClH4N",
+    "molecular_weight": "54.48"
+  },
+  "azanium;thiocyanate": {
+    "cid": 15666,
+    "smiles": "C(#N)[S-].[NH4+]",
+    "iupac_name": "azanium thiocyanate",
+    "common_name": "Ammonium Thiocyanate",
+    "molecular_formula": "CH4N2S",
+    "molecular_weight": "76.12"
+  },
+  "benzamide": {
+    "cid": 2331,
+    "smiles": "C1=CC=C(C=C1)C(=O)N",
+    "iupac_name": "benzamide",
+    "common_name": "Benzamide",
+    "molecular_formula": "C7H7NO",
+    "molecular_weight": "121.14"
+  },
+  "benzene-1,4-diol": {
+    "cid": 785,
+    "smiles": "C1=CC(=CC=C1O)O",
+    "iupac_name": "benzene-1,4-diol",
+    "common_name": "hydroquinone",
+    "molecular_formula": "C6H6O2",
+    "molecular_weight": "110.11"
+  },
+  "benzoic acid": {
+    "cid": 243,
+    "smiles": "C1=CC=C(C=C1)C(=O)O",
+    "iupac_name": "benzoic acid",
+    "common_name": "benzoic acid",
+    "molecular_formula": "C7H6O2",
+    "molecular_weight": "122.12"
+  },
+  "benzyl(triethyl)azanium;chloride": {
+    "cid": 66133,
+    "smiles": "CC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-]",
+    "iupac_name": "benzyl(triethyl)azanium chloride",
+    "common_name": "Benzyl triethylammonium chloride",
+    "molecular_formula": "C13H22ClN",
+    "molecular_weight": "227.77"
+  },
+  "benzyl(trimethyl)azanium;chloride": {
+    "cid": 5963,
+    "smiles": "C[N+](C)(C)CC1=CC=CC=C1.[Cl-]",
+    "iupac_name": "benzyl(trimethyl)azanium chloride",
+    "common_name": "Benzyltrimethylammonium chloride",
+    "molecular_formula": "C10H16ClN",
+    "molecular_weight": "185.69"
+  },
+  "benzyl(tripropyl)azanium;chloride": {
+    "cid": 6097067,
+    "smiles": "CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-]",
+    "iupac_name": "benzyl(tripropyl)azanium chloride",
+    "common_name": "Benzyltripropylammonium chloride",
+    "molecular_formula": "C16H28ClN",
+    "molecular_weight": "269.9"
+  },
+  "benzyl-bis(2-hydroxyethyl)-methylazanium;chloride": {
+    "cid": 14068065,
+    "smiles": "C[N+](CCO)(CCO)CC1=CC=CC=C1.[Cl-]",
+    "iupac_name": "benzyl-bis(2-hydroxyethyl)-methylazanium chloride",
+    "common_name": "N-Benzyl-2-hydroxy-N-(2-hydroxyethyl)-N-methylethan-1-aminium chloride",
+    "molecular_formula": "C12H20ClNO2",
+    "molecular_weight": "245.74"
+  },
+  "bis(trifluoromethylsulfonyl)azanide;trimethylsulfanium": {
+    "cid": 166593524,
+    "smiles": "C[S+](C)C.C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F",
+    "iupac_name": "bis(trifluoromethylsulfonyl)azanide;trimethylsulfanium",
+    "common_name": "Trimethylsulfonium bis(trifluoromethylsulfonyl)imid, >98%",
+    "molecular_formula": "C5H9F6NO4S3",
+    "molecular_weight": "357.3"
+  },
+  "boric acid": {
+    "cid": 7628,
+    "smiles": "B(O)(O)O",
+    "iupac_name": "boric acid",
+    "common_name": "Boric Acid",
+    "molecular_formula": "BH3O3",
+    "molecular_weight": "61.84"
+  },
+  "butane-1,4-diol": {
+    "cid": 8064,
+    "smiles": "C(CCO)CO",
+    "iupac_name": "butane-1,4-diol",
+    "common_name": "Butane-1,4-diol",
+    "molecular_formula": "C4H10O2",
+    "molecular_weight": "90.12"
+  },
+  "butanedioic acid": {
+    "cid": 1110,
+    "smiles": "C(CC(=O)O)C(=O)O",
+    "iupac_name": "butanedioic acid",
+    "common_name": "succinic acid",
+    "molecular_formula": "C4H6O4",
+    "molecular_weight": "118.09"
+  },
+  "butanoic acid": {
+    "cid": 264,
+    "smiles": "CCCC(=O)O",
+    "iupac_name": "butanoic acid",
+    "common_name": "butyric acid",
+    "molecular_formula": "C4H8O2",
+    "molecular_weight": "88.11"
+  },
+  "butyl(trimethyl)azanium;chloride": {
+    "cid": 84293,
+    "smiles": "CCCC[N+](C)(C)C.[Cl-]",
+    "iupac_name": "butyl(trimethyl)azanium chloride",
+    "common_name": "Butyltrimethylammonium chloride",
+    "molecular_formula": "C7H18ClN",
+    "molecular_weight": "151.68"
+  },
+  "butyl(triphenyl)phosphanium;bromide": {
+    "cid": 159628,
+    "smiles": "CCCC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-]",
+    "iupac_name": "butyl(triphenyl)phosphanium bromide",
+    "common_name": "Butyltriphenylphosphonium bromide",
+    "molecular_formula": "C22H24BrP",
+    "molecular_weight": "399.3"
+  },
+  "decan-1-ol": {
+    "cid": 8174,
+    "smiles": "CCCCCCCCCCO",
+    "iupac_name": "decan-1-ol",
+    "common_name": "Decyl alcohol",
+    "molecular_formula": "C10H22O",
+    "molecular_weight": "158.28"
+  },
+  "didodecyl(dimethyl)azanium;chloride": {
+    "cid": 18843,
+    "smiles": "CCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCC.[Cl-]",
+    "iupac_name": "didodecyl(dimethyl)azanium chloride",
+    "common_name": "Didodecyldimethylammonium chloride",
+    "molecular_formula": "C26H56ClN",
+    "molecular_weight": "418.2"
+  },
+  "diethyl(2-hydroxyethyl)azanium;chloride": {
+    "cid": 517011,
+    "smiles": "CC[NH+](CC)CCO.[Cl-]",
+    "iupac_name": "diethyl(2-hydroxyethyl)azanium chloride",
+    "common_name": "Diethylaminoethanol hydrochloride",
+    "molecular_formula": "C6H16ClNO",
+    "molecular_weight": "153.65"
+  },
+  "ethanamine;hydrochloride": {
+    "cid": 11198,
+    "smiles": "CCN.Cl",
+    "iupac_name": "ethanamine;hydrochloride",
+    "common_name": "Ethylamine hydrochloride",
+    "molecular_formula": "C2H8ClN",
+    "molecular_weight": "81.54"
+  },
+  "ethane-1,2-diol": {
+    "cid": 174,
+    "smiles": "C(CO)O",
+    "iupac_name": "ethane-1,2-diol",
+    "common_name": "Ethylene Glycol",
+    "molecular_formula": "C2H6O2",
+    "molecular_weight": "62.07"
+  },
+  "formamide": {
+    "cid": 713,
+    "smiles": "C(=O)N",
+    "iupac_name": "formamide",
+    "common_name": "formamide",
+    "molecular_formula": "CH3NO",
+    "molecular_weight": "45.041"
+  },
+  "furan-2-ylmethanol": {
+    "cid": 7361,
+    "smiles": "C1=COC(=C1)CO",
+    "iupac_name": "furan-2-ylmethanol",
+    "common_name": "Furfuryl Alcohol",
+    "molecular_formula": "C5H6O2",
+    "molecular_weight": "98.10"
+  },
+  "heptanedioic acid": {
+    "cid": 385,
+    "smiles": "C(CCC(=O)O)CCC(=O)O",
+    "iupac_name": "heptanedioic acid",
+    "common_name": "pimelic acid",
+    "molecular_formula": "C7H12O4",
+    "molecular_weight": "160.17"
+  },
+  "hexanedioic acid": {
+    "cid": 196,
+    "smiles": "C(CCC(=O)O)CC(=O)O",
+    "iupac_name": "hexanedioic acid",
+    "common_name": "adipic acid",
+    "molecular_formula": "C6H10O4",
+    "molecular_weight": "146.14"
+  },
+  "hexanoic acid": {
+    "cid": 8892,
+    "smiles": "CCCCCC(=O)O",
+    "iupac_name": "hexanoic acid",
+    "common_name": "Hexanoic Acid",
+    "molecular_formula": "C6H12O2",
+    "molecular_weight": "116.16"
+  },
+  "hydrogen sulfate;tetrabutylazanium": {
+    "cid": 94433,
+    "smiles": "CCCC[N+](CCCC)(CCCC)CCCC.OS(=O)(=O)[O-]",
+    "iupac_name": "hydrogen sulfate;tetrabutylazanium",
+    "common_name": "Tetrabutylammonium hydrogen sulfate",
+    "molecular_formula": "C16H37NO4S",
+    "molecular_weight": "339.5"
+  },
+  "imidazole": {
+    "cid": 795,
+    "smiles": "C1=CN=CN1",
+    "iupac_name": "1H-imidazole",
+    "common_name": "imidazole",
+    "molecular_formula": "C3H4N2",
+    "molecular_weight": "68.08"
+  },
+  "menthol": {
+    "cid": 1254,
+    "smiles": "CC1CCC(C(C1)O)C(C)C",
+    "iupac_name": "5-methyl-2-propan-2-ylcyclohexan-1-ol",
+    "common_name": "Menthol",
+    "molecular_formula": "C10H20O",
+    "molecular_weight": "156.26"
+  },
+  "methyl(trioctyl)azanium;bromide": {
+    "cid": 11503288,
+    "smiles": "CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Br-]",
+    "iupac_name": "methyl(trioctyl)azanium bromide",
+    "common_name": "Methyltrioctylammonium bromide",
+    "molecular_formula": "C25H54BrN",
+    "molecular_weight": "448.6"
+  },
+  "methyl(trioctyl)azanium;chloride": {
+    "cid": 19840045,
+    "smiles": "CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-]",
+    "iupac_name": "methyl(trioctyl)azanium chloride",
+    "common_name": "methyl(trioctyl)azanium;chloride",
+    "molecular_formula": "C25H54ClN",
+    "molecular_weight": "404.2"
+  },
+  "methyl(triphenyl)phosphanium;bromide": {
+    "cid": 74505,
+    "smiles": "C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-]",
+    "iupac_name": "methyl(triphenyl)phosphanium bromide",
+    "common_name": "Methyltriphenylphosphonium bromide",
+    "molecular_formula": "C19H18BrP",
+    "molecular_weight": "357.2"
+  },
+  "methylurea": {
+    "cid": 11719,
+    "smiles": "CNC(=O)N",
+    "iupac_name": "methylurea",
+    "common_name": "Methylurea",
+    "molecular_formula": "C2H6N2O",
+    "molecular_weight": "74.08"
+  },
+  "nonanoic acid": {
+    "cid": 8158,
+    "smiles": "CCCCCCCCC(=O)O",
+    "iupac_name": "nonanoic acid",
+    "common_name": "Nonanoic Acid",
+    "molecular_formula": "C9H18O2",
+    "molecular_weight": "158.24"
+  },
+  "octadecanoic acid": {
+    "cid": 5281,
+    "smiles": "CCCCCCCCCCCCCCCCCC(=O)O",
+    "iupac_name": "octadecanoic acid",
+    "common_name": "stearic acid",
+    "molecular_formula": "C18H36O2",
+    "molecular_weight": "284.5"
+  },
+  "octanedioic acid": {
+    "cid": 10457,
+    "smiles": "C(CCCC(=O)O)CCC(=O)O",
+    "iupac_name": "octanedioic acid",
+    "common_name": "Octanedioic acid",
+    "molecular_formula": "C8H14O4",
+    "molecular_weight": "174.19"
+  },
+  "oxalic acid": {
+    "cid": 971,
+    "smiles": "C(=O)(C(=O)O)O",
+    "iupac_name": "oxalic acid",
+    "common_name": "oxalic acid",
+    "molecular_formula": "C2H2O4",
+    "molecular_weight": "90.03"
+  },
+  "palmitic acid": {
+    "cid": 985,
+    "smiles": "CCCCCCCCCCCCCCCC(=O)O",
+    "iupac_name": "hexadecanoic acid",
+    "common_name": "palmitic acid",
+    "molecular_formula": "C16H32O2",
+    "molecular_weight": "256.42"
+  },
+  "pentanoic acid": {
+    "cid": 7991,
+    "smiles": "CCCCC(=O)O",
+    "iupac_name": "pentanoic acid",
+    "common_name": "Valeric acid",
+    "molecular_formula": "C5H10O2",
+    "molecular_weight": "102.13"
+  },
+  "phenyl 2-hydroxybenzoate": {
+    "cid": 8361,
+    "smiles": "C1=CC=C(C=C1)OC(=O)C2=CC=CC=C2O",
+    "iupac_name": "phenyl 2-hydroxybenzoate",
+    "common_name": "Phenyl salicylate",
+    "molecular_formula": "C13H10O3",
+    "molecular_weight": "214.22"
+  },
+  "phenylacetic acid": {
+    "cid": 999,
+    "smiles": "C1=CC=C(C=C1)CC(=O)O",
+    "iupac_name": "2-phenylacetic acid",
+    "common_name": "Phenylacetic Acid",
+    "molecular_formula": "C8H8O2",
+    "molecular_weight": "136.15"
+  },
+  "propane-1,2,3-tricarboxylic acid": {
+    "cid": 14925,
+    "smiles": "C(C(CC(=O)O)C(=O)O)C(=O)O",
+    "iupac_name": "propane-1,2,3-tricarboxylic acid",
+    "common_name": "Tricarballylic acid",
+    "molecular_formula": "C6H8O6",
+    "molecular_weight": "176.12"
+  },
+  "propane-1,2,3-triol": {
+    "cid": 753,
+    "smiles": "C(C(CO)O)O",
+    "iupac_name": "propane-1,2,3-triol",
+    "common_name": "glycerol",
+    "molecular_formula": "C3H8O3",
+    "molecular_weight": "92.09"
+  },
+  "propane-1,2-diol": {
+    "cid": 1030,
+    "smiles": "CC(CO)O",
+    "iupac_name": "propane-1,2-diol",
+    "common_name": "propylene glycol",
+    "molecular_formula": "C3H8O2",
+    "molecular_weight": "76.09"
+  },
+  "propanoic acid": {
+    "cid": 1032,
+    "smiles": "CCC(=O)O",
+    "iupac_name": "propanoic acid",
+    "common_name": "propionic acid",
+    "molecular_formula": "C3H6O2",
+    "molecular_weight": "74.08"
+  },
+  "pyridine-3-carboxamide": {
+    "cid": 936,
+    "smiles": "C1=CC(=CN=C1)C(=O)N",
+    "iupac_name": "pyridine-3-carboxamide",
+    "common_name": "nicotinamide",
+    "molecular_formula": "C6H6N2O",
+    "molecular_weight": "122.12"
+  },
+  "sorbitol": {
+    "cid": 5780,
+    "smiles": "C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O",
+    "iupac_name": "(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",
+    "common_name": "D-Sorbitol",
+    "molecular_formula": "C6H14O6",
+    "molecular_weight": "182.17"
+  },
+  "tetrabutylammonium bromide": {
+    "cid": 74236,
+    "smiles": "CCCC[N+](CCCC)(CCCC)CCCC.[Br-]",
+    "iupac_name": "tetrabutylazanium bromide",
+    "common_name": "Tetrabutylammonium bromide",
+    "molecular_formula": "C16H36BrN",
+    "molecular_weight": "322.37"
+  },
+  "tetrabutylazanium;bromide": {
+    "cid": 74236,
+    "smiles": "CCCC[N+](CCCC)(CCCC)CCCC.[Br-]",
+    "iupac_name": "tetrabutylazanium bromide",
+    "common_name": "Tetrabutylammonium bromide",
+    "molecular_formula": "C16H36BrN",
+    "molecular_weight": "322.37"
+  },
+  "tetraethylammonium chloride": {
+    "cid": 5946,
+    "smiles": "CC[N+](CC)(CC)CC.[Cl-]",
+    "iupac_name": "tetraethylazanium chloride",
+    "common_name": "Tetraethylammonium Chloride",
+    "molecular_formula": "C8H20ClN",
+    "molecular_weight": "165.70"
+  },
+  "tetraethylazanium;bromide": {
+    "cid": 6285,
+    "smiles": "CC[N+](CC)(CC)CC.[Br-]",
+    "iupac_name": "tetraethylazanium bromide",
+    "common_name": "Tetraethylammonium Bromide",
+    "molecular_formula": "C8H20BrN",
+    "molecular_weight": "210.16"
+  },
+  "tetraheptylazanium;chloride": {
+    "cid": 82489,
+    "smiles": "CCCCCCC[N+](CCCCCCC)(CCCCCCC)CCCCCCC.[Cl-]",
+    "iupac_name": "tetraheptylazanium chloride",
+    "common_name": "Tetraheptylammonium chloride",
+    "molecular_formula": "C28H60ClN",
+    "molecular_weight": "446.2"
+  },
+  "tetraoctylazanium;bromide": {
+    "cid": 2734117,
+    "smiles": "CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]",
+    "iupac_name": "tetraoctylazanium bromide",
+    "common_name": "Tetraoctylammonium bromide",
+    "molecular_formula": "C32H68BrN",
+    "molecular_weight": "546.8"
+  },
+  "tetraoctylazanium;chloride": {
+    "cid": 11996614,
+    "smiles": "CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Cl-]",
+    "iupac_name": "tetraoctylazanium chloride",
+    "common_name": "Tetraoctylammonium chloride",
+    "molecular_formula": "C32H68ClN",
+    "molecular_weight": "502.3"
+  },
+  "tetrapentylazanium;bromide": {
+    "cid": 70086,
+    "smiles": "CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-]",
+    "iupac_name": "tetrapentylazanium bromide",
+    "common_name": "Tetrapentylammonium bromide",
+    "molecular_formula": "C20H44BrN",
+    "molecular_weight": "378.5"
+  },
+  "tetrapropylazanium;bromide": {
+    "cid": 74745,
+    "smiles": "CCC[N+](CCC)(CCC)CCC.[Br-]",
+    "iupac_name": "tetrapropylazanium bromide",
+    "common_name": "Tetrapropylammonium bromide",
+    "molecular_formula": "C12H28BrN",
+    "molecular_weight": "266.26"
+  },
+  "thiourea": {
+    "cid": 2723790,
+    "smiles": "C(=S)(N)N",
+    "iupac_name": "thiourea",
+    "common_name": "Thiourea",
+    "molecular_formula": "CH4N2S",
+    "molecular_weight": "76.12"
+  },
+  "triphenyl(prop-2-enyl)phosphanium;bromide": {
+    "cid": 197740,
+    "smiles": "C=CC[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-]",
+    "iupac_name": "triphenyl(prop-2-enyl)phosphanium bromide",
+    "common_name": "Allyltriphenylphosphonium bromide",
+    "molecular_formula": "C21H20BrP",
+    "molecular_weight": "383.3"
+  }
+}

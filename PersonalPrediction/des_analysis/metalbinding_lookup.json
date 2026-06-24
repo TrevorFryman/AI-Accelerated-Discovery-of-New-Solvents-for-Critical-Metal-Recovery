@@ -1,0 +1,152 @@
+{
+  "1": {
+    "systematic_name": "(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",
+    "smiles": "CN(C)[C@@H]1C(=O)C(C(N)=O)=C(O)[C@@]2(O)C(=O)C3=C(O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12",
+    "cid": 54675776,
+    "common_name": "Tetracycline"
+  },
+  "2": {
+    "systematic_name": "(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",
+    "smiles": "O=C(O)/C=C/c1ccc(O)c(O)c1",
+    "cid": 689043,
+    "common_name": "Caffeic acid"
+  },
+  "3": {
+    "systematic_name": "1,10-phenanthroline",
+    "smiles": "c1cnc2c(c1)ccc1cccnc12",
+    "cid": 1318,
+    "common_name": "1,10-Phenanthroline"
+  },
+  "4": {
+    "systematic_name": "2-hydroxybenzoic acid",
+    "smiles": "O=C(O)c1ccccc1O",
+    "cid": 338,
+    "common_name": "Salicylic acid"
+  },
+  "5": {
+    "systematic_name": "(2S)-2-aminobutanedioic acid",
+    "smiles": "N[C@@H](CC(=O)O)C(=O)O",
+    "cid": 5960,
+    "common_name": "Aspartic acid"
+  },
+  "6": {
+    "systematic_name": "phenyl 2-hydroxybenzoate",
+    "smiles": "O=C(Oc1ccccc1)c1ccccc1O",
+    "cid": 8361,
+    "common_name": "Phenyl salicylate (Salol)"
+  },
+  "7": {
+    "systematic_name": "benzene-1,4-diol",
+    "smiles": "Oc1ccc(O)cc1",
+    "cid": 785,
+    "common_name": "Hydroquinone"
+  },
+  "8": {
+    "systematic_name": "3,4,5-trihydroxybenzoic acid",
+    "smiles": "O=C(O)c1cc(O)c(O)c(O)c1",
+    "cid": 370,
+    "common_name": "Gallic acid"
+  },
+  "9": {
+    "systematic_name": "2-hydroxypropane-1,2,3-tricarboxylic acid",
+    "smiles": "O=C(O)CC(O)(CC(=O)O)C(=O)O",
+    "cid": 311,
+    "common_name": "Citric acid"
+  },
+  "10": {
+    "systematic_name": "(2S,3R)-2-amino-3-hydroxybutanoic acid",
+    "smiles": "C[C@@H](O)[C@H](N)C(=O)O",
+    "cid": 6288,
+    "common_name": "Threonine"
+  },
+  "11": {
+    "systematic_name": "(2S)-2-aminopentanedioic acid",
+    "smiles": "N[C@@H](CCC(=O)O)C(=O)O",
+    "cid": 33032,
+    "common_name": "Glutamic acid"
+  },
+  "12": {
+    "systematic_name": "(2S)-2-amino-3-hydroxypropanoic acid",
+    "smiles": "N[C@@H](CO)C(=O)O",
+    "cid": 5951,
+    "common_name": "Serine"
+  },
+  "13": {
+    "systematic_name": "(2S)-2-amino-4-methylsulfanylbutanoic acid",
+    "smiles": "CSCC[C@H](N)C(=O)O",
+    "cid": 6137,
+    "common_name": "Methionine"
+  },
+  "14": {
+    "systematic_name": "2-acetyloxybenzoic acid",
+    "smiles": "CC(=O)Oc1ccccc1C(=O)O",
+    "cid": 2244,
+    "common_name": "Aspirin (Acetylsalicylic acid)"
+  },
+  "15": {
+    "systematic_name": "(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid",
+    "smiles": "NC(N)=NCCC[C@H](N)C(=O)O",
+    "cid": 6322,
+    "common_name": "Arginine"
+  },
+  "16": {
+    "systematic_name": "2-(dimethylamino)ethyl 4-(butylamino)benzoate",
+    "smiles": "CCCCNc1ccc(C(=O)OCCN(C)C)cc1",
+    "cid": 5411,
+    "common_name": "Tetracaine"
+  },
+  "17": {
+    "systematic_name": "2-hydroxybutanedioic acid",
+    "smiles": "O=C(O)CC(O)C(=O)O",
+    "cid": 525,
+    "common_name": "Malic acid"
+  },
+  "18": {
+    "systematic_name": "2,3-dihydroxybutanedioic acid",
+    "smiles": "O=C(O)C(O)C(O)C(=O)O",
+    "cid": 875,
+    "common_name": "Tartaric acid"
+  },
+  "19": {
+    "systematic_name": "oxalic acid",
+    "smiles": "O=C(O)C(=O)O",
+    "cid": 971,
+    "common_name": "Oxalic acid"
+  },
+  "20": {
+    "systematic_name": "Adiphenine",
+    "smiles": "CCN(CC)CCOC(=O)C(c1ccccc1)c1ccccc1",
+    "cid": 2031,
+    "common_name": "Adiphenine"
+  },
+  "21": {
+    "systematic_name": "5-methyl-2-propan-2-ylphenol",
+    "smiles": "Cc1ccc(C(C)C)c(O)c1",
+    "cid": 6989,
+    "common_name": "Thymol"
+  },
+  "22": {
+    "systematic_name": "4-amino-N-(1,3-thiazol-2-yl)benzenesulfonamide",
+    "smiles": "Nc1ccc(S(=O)(=O)Nc2nccs2)cc1",
+    "cid": 5340,
+    "common_name": "Sulfathiazole"
+  },
+  "23": {
+    "systematic_name": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+    "smiles": "CCN(CC)CC(=O)Nc1c(C)cccc1C",
+    "cid": 3676,
+    "common_name": "Lidocaine"
+  },
+  "24": {
+    "systematic_name": "4-chloro-5-methyl-2-propan-2-ylphenol",
+    "smiles": "Cc1cc(O)c(C(C)C)cc1Cl",
+    "cid": 6982,
+    "common_name": "Chlorothymol"
+  },
+  "25": {
+    "systematic_name": "N-(4-hydroxyphenyl)acetamide",
+    "smiles": "CC(=O)Nc1ccc(O)cc1",
+    "cid": 1983,
+    "common_name": "Acetaminophen (Paracetamol)"
+  }
+}

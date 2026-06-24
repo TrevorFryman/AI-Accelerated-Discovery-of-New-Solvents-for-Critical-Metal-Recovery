@@ -1,0 +1,573 @@
+[
+  {
+    "c1": "1,10-phenanthroline",
+    "c2": "5-methyl-2-propan-2-ylphenol",
+    "x1": "0.492",
+    "x2": "0.508",
+    "predicted_Tmelt_K": 317.5944,
+    "uncertainty_K": 18.17,
+    "similarity_score": 0.8318,
+    "RoomTemp_flag": false,
+    "WarmTemp_flag": true,
+    "ranking_score_room": null,
+    "ranking_score_warm": 90.708,
+    "metal_match_c1": {
+      "smiles": "c1cnc2c(c1)ccc1cccnc12",
+      "inchikey": "DGEZNRSVGBDHLK-UHFFFAOYSA-N",
+      "logK_mean_Co": 6.92712055463994,
+      "logK_std_Co": 0.23849876224889277,
+      "logK_mean_Ni": 8.18077908141856,
+      "logK_std_Ni": 0.30680265159145437,
+      "logK_mean_both": 7.55394981802925,
+      "delta_Ni_minus_Co": 1.2536585267786204,
+      "donor_atom_count": "2",
+      "low_confidence": false,
+      "systematic_name_if_top25": "1,10-phenanthroline",
+      "rank_in_full_pool": 3
+    },
+    "metal_match_c2": {
+      "smiles": "Cc1ccc(C(C)C)c(O)c1",
+      "inchikey": "MGSRCZKZVOBKFT-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.395754901385685,
+      "logK_std_Co": 0.7450763992123264,
+      "logK_mean_Ni": 3.8580697682973146,
+      "logK_std_Ni": 0.7595280098550953,
+      "logK_mean_both": 3.6269123348414998,
+      "delta_Ni_minus_Co": 0.4623148669116297,
+      "donor_atom_count": "1",
+      "low_confidence": false,
+      "systematic_name_if_top25": "5-methyl-2-propan-2-ylphenol",
+      "rank_in_full_pool": 21
+    },
+    "both_matched": true,
+    "metal_score": 11.18086215287075,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 4,
+    "all_Tmelt_K": [
+      283.25128,
+      300.4509,
+      317.5944,
+      321.3471
+    ],
+    "name_variants_c1": [
+      "1,10-phenanthroline"
+    ],
+    "name_variants_c2": [
+      "5-methyl-2-propan-2-ylphenol"
+    ]
+  },
+  {
+    "c1": "1,10-phenanthroline",
+    "c2": "4-chloro-5-methyl-2-propan-2-ylphenol",
+    "x1": "0.7042",
+    "x2": "0.2958",
+    "predicted_Tmelt_K": 308.11765,
+    "uncertainty_K": 17.9,
+    "similarity_score": 0.8493,
+    "RoomTemp_flag": false,
+    "WarmTemp_flag": true,
+    "ranking_score_room": null,
+    "ranking_score_warm": 83.046,
+    "metal_match_c1": {
+      "smiles": "c1cnc2c(c1)ccc1cccnc12",
+      "inchikey": "DGEZNRSVGBDHLK-UHFFFAOYSA-N",
+      "logK_mean_Co": 6.92712055463994,
+      "logK_std_Co": 0.23849876224889277,
+      "logK_mean_Ni": 8.18077908141856,
+      "logK_std_Ni": 0.30680265159145437,
+      "logK_mean_both": 7.55394981802925,
+      "delta_Ni_minus_Co": 1.2536585267786204,
+      "donor_atom_count": "2",
+      "low_confidence": false,
+      "systematic_name_if_top25": "1,10-phenanthroline",
+      "rank_in_full_pool": 3
+    },
+    "metal_match_c2": {
+      "smiles": "Cc1cc(O)c(C(C)C)cc1Cl",
+      "inchikey": "KFZXVMNBUMVKLN-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.0462813709476135,
+      "logK_std_Co": 0.5758430391671374,
+      "logK_mean_Ni": 3.417965468604433,
+      "logK_std_Ni": 0.6060403763924125,
+      "logK_mean_both": 3.2321234197760234,
+      "delta_Ni_minus_Co": 0.37168409765681965,
+      "donor_atom_count": "2",
+      "low_confidence": false,
+      "systematic_name_if_top25": "4-chloro-5-methyl-2-propan-2-ylphenol",
+      "rank_in_full_pool": 24
+    },
+    "both_matched": true,
+    "metal_score": 10.786073237805272,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 5,
+    "all_Tmelt_K": [
+      297.234,
+      302.15378,
+      308.11765,
+      320.8128,
+      328.61533
+    ],
+    "name_variants_c1": [
+      "1,10-phenanthroline"
+    ],
+    "name_variants_c2": [
+      "4-chloro-5-methyl-2-propan-2-ylphenol"
+    ]
+  },
+  {
+    "c1": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+    "c2": "phenyl 2-hydroxybenzoate",
+    "x1": "0.43",
+    "x2": "0.57",
+    "predicted_Tmelt_K": 291.73877,
+    "uncertainty_K": 24.6,
+    "similarity_score": 0.4183,
+    "RoomTemp_flag": true,
+    "WarmTemp_flag": false,
+    "ranking_score_room": 72.11,
+    "ranking_score_warm": null,
+    "metal_match_c1": {
+      "smiles": "CCN(CC)CC(=O)Nc1c(C)cccc1C",
+      "inchikey": "NNJVILVZKWQKPM-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.262244000956285,
+      "logK_std_Co": 0.9860047115805125,
+      "logK_mean_Ni": 3.4074212370656207,
+      "logK_std_Ni": 0.9015908042285227,
+      "logK_mean_both": 3.334832619010953,
+      "delta_Ni_minus_Co": 0.14517723610933553,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+      "rank_in_full_pool": 23
+    },
+    "metal_match_c2": {
+      "smiles": "O=C(Oc1ccccc1)c1ccccc1O",
+      "inchikey": "ZQBAKBUEJOMQEX-UHFFFAOYSA-N",
+      "logK_mean_Co": 5.662166873496883,
+      "logK_std_Co": 0.5434691512504713,
+      "logK_mean_Ni": 6.088348536511937,
+      "logK_std_Ni": 0.5362930030577626,
+      "logK_mean_both": 5.87525770500441,
+      "delta_Ni_minus_Co": 0.4261816630150541,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": "phenyl 2-hydroxybenzoate",
+      "rank_in_full_pool": 6
+    },
+    "both_matched": true,
+    "metal_score": 9.210090324015363,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 1,
+    "all_Tmelt_K": [
+      291.73877
+    ],
+    "name_variants_c1": [
+      "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide"
+    ],
+    "name_variants_c2": [
+      "phenyl 2-hydroxybenzoate"
+    ]
+  },
+  {
+    "c1": "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",
+    "c2": "2-hydroxybenzoic acid",
+    "x1": "0.85",
+    "x2": "0.15",
+    "predicted_Tmelt_K": 297.9677,
+    "uncertainty_K": 23.56,
+    "similarity_score": 0.4855,
+    "RoomTemp_flag": true,
+    "WarmTemp_flag": false,
+    "ranking_score_room": 69.301,
+    "ranking_score_warm": null,
+    "metal_match_c1": {
+      "smiles": "CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O",
+      "inchikey": "NOOLISFMXDJSKH-KXUCPTDWSA-N",
+      "logK_mean_Co": 0.714085302195152,
+      "logK_std_Co": 0.2567605387019561,
+      "logK_mean_Ni": 0.8002648782548626,
+      "logK_std_Ni": 0.29090743337930647,
+      "logK_mean_both": 0.7571750902250073,
+      "delta_Ni_minus_Co": 0.0861795760597106,
+      "donor_atom_count": "1",
+      "low_confidence": false,
+      "systematic_name_if_top25": null,
+      "rank_in_full_pool": 118
+    },
+    "metal_match_c2": {
+      "smiles": "O=C(O)c1ccccc1O",
+      "inchikey": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+      "logK_mean_Co": 7.071454794877819,
+      "logK_std_Co": 0.22857267065339384,
+      "logK_mean_Ni": 7.495607312992989,
+      "logK_std_Ni": 0.20906914251455133,
+      "logK_mean_both": 7.283531053935404,
+      "delta_Ni_minus_Co": 0.42415251811517063,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": "2-hydroxybenzoic acid",
+      "rank_in_full_pool": 4
+    },
+    "both_matched": true,
+    "metal_score": 8.040706144160412,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 1,
+    "all_Tmelt_K": [
+      297.9677
+    ],
+    "name_variants_c1": [
+      "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol"
+    ],
+    "name_variants_c2": [
+      "2-hydroxybenzoic acid"
+    ]
+  },
+  {
+    "c1": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+    "c2": "2-(dimethylamino)ethyl 4-(butylamino)benzoate",
+    "x1": "0.5",
+    "x2": "0.5",
+    "predicted_Tmelt_K": 303.33936,
+    "uncertainty_K": 25.42,
+    "similarity_score": 0.3659,
+    "RoomTemp_flag": false,
+    "WarmTemp_flag": true,
+    "ranking_score_room": null,
+    "ranking_score_warm": 59.494,
+    "metal_match_c1": {
+      "smiles": "CCN(CC)CC(=O)Nc1c(C)cccc1C",
+      "inchikey": "NNJVILVZKWQKPM-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.262244000956285,
+      "logK_std_Co": 0.9860047115805125,
+      "logK_mean_Ni": 3.4074212370656207,
+      "logK_std_Ni": 0.9015908042285227,
+      "logK_mean_both": 3.334832619010953,
+      "delta_Ni_minus_Co": 0.14517723610933553,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+      "rank_in_full_pool": 23
+    },
+    "metal_match_c2": {
+      "smiles": "CCCCNc1ccc(C(=O)OCCN(C)C)cc1",
+      "inchikey": "GKCBAIGFKIBETG-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.903557043909055,
+      "logK_std_Co": 0.5612365440638312,
+      "logK_mean_Ni": 4.422423024686981,
+      "logK_std_Ni": 0.6594526571504017,
+      "logK_mean_both": 4.1629900342980175,
+      "delta_Ni_minus_Co": 0.5188659807779259,
+      "donor_atom_count": "4",
+      "low_confidence": false,
+      "systematic_name_if_top25": "2-(dimethylamino)ethyl 4-(butylamino)benzoate",
+      "rank_in_full_pool": 16
+    },
+    "both_matched": true,
+    "metal_score": 7.497822653308971,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 1,
+    "all_Tmelt_K": [
+      303.33936
+    ],
+    "name_variants_c1": [
+      "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide"
+    ],
+    "name_variants_c2": [
+      "2-(dimethylamino)ethyl 4-(butylamino)benzoate"
+    ]
+  },
+  {
+    "c1": "5-methyl-2-propan-2-ylcyclohexan-1-ol",
+    "c2": "phenyl 2-hydroxybenzoate",
+    "x1": "0.5",
+    "x2": "0.5",
+    "predicted_Tmelt_K": 296.1716,
+    "uncertainty_K": 24.36,
+    "similarity_score": 0.4341,
+    "RoomTemp_flag": true,
+    "WarmTemp_flag": false,
+    "ranking_score_room": 68.83,
+    "ranking_score_warm": null,
+    "metal_match_c1": {
+      "smiles": "CC1CCC(C(C)C)C(O)C1",
+      "inchikey": "NOOLISFMXDJSKH-UHFFFAOYSA-N",
+      "logK_mean_Co": 0.41228818254358846,
+      "logK_std_Co": 0.4343703696085511,
+      "logK_mean_Ni": 0.4476273234820926,
+      "logK_std_Ni": 0.3829574830242161,
+      "logK_mean_both": 0.42995775301284056,
+      "delta_Ni_minus_Co": 0.035339140938504154,
+      "donor_atom_count": "1",
+      "low_confidence": false,
+      "systematic_name_if_top25": null,
+      "rank_in_full_pool": 132
+    },
+    "metal_match_c2": {
+      "smiles": "O=C(Oc1ccccc1)c1ccccc1O",
+      "inchikey": "ZQBAKBUEJOMQEX-UHFFFAOYSA-N",
+      "logK_mean_Co": 5.662166873496883,
+      "logK_std_Co": 0.5434691512504713,
+      "logK_mean_Ni": 6.088348536511937,
+      "logK_std_Ni": 0.5362930030577626,
+      "logK_mean_both": 5.87525770500441,
+      "delta_Ni_minus_Co": 0.4261816630150541,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": "phenyl 2-hydroxybenzoate",
+      "rank_in_full_pool": 6
+    },
+    "both_matched": true,
+    "metal_score": 6.30521545801725,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 1,
+    "all_Tmelt_K": [
+      296.1716
+    ],
+    "name_variants_c1": [
+      "5-methyl-2-propan-2-ylcyclohexan-1-ol"
+    ],
+    "name_variants_c2": [
+      "phenyl 2-hydroxybenzoate"
+    ]
+  },
+  {
+    "c1": "2-(trimethylazaniumyl)acetate",
+    "c2": "2-hydroxybutanedioic acid",
+    "x1": "0.5",
+    "x2": "0.5",
+    "predicted_Tmelt_K": 318.43155,
+    "uncertainty_K": 23.98,
+    "similarity_score": 0.4585,
+    "RoomTemp_flag": false,
+    "WarmTemp_flag": true,
+    "ranking_score_room": null,
+    "ranking_score_warm": 76.515,
+    "metal_match_c1": {
+      "smiles": "C[N+](C)(C)CC(=O)[O-]",
+      "inchikey": "KWIUHFFTVRNATP-UHFFFAOYSA-N",
+      "logK_mean_Co": 1.530950349678128,
+      "logK_std_Co": 0.5920359781021902,
+      "logK_mean_Ni": 1.779387263082836,
+      "logK_std_Ni": 0.6391119371638677,
+      "logK_mean_both": 1.6551688063804821,
+      "delta_Ni_minus_Co": 0.24843691340470797,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": null,
+      "rank_in_full_pool": 69
+    },
+    "metal_match_c2": {
+      "smiles": "O=C(O)CC(O)C(=O)O",
+      "inchikey": "BJEPYKJPYRNKOW-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.7769870958540133,
+      "logK_std_Co": 0.16599260996910525,
+      "logK_mean_Ni": 4.255014662482283,
+      "logK_std_Ni": 0.25398609275315936,
+      "logK_mean_both": 4.016000879168148,
+      "delta_Ni_minus_Co": 0.47802756662827006,
+      "donor_atom_count": "5",
+      "low_confidence": false,
+      "systematic_name_if_top25": "2-hydroxybutanedioic acid",
+      "rank_in_full_pool": 17
+    },
+    "both_matched": true,
+    "metal_score": 5.67116968554863,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 1,
+    "all_Tmelt_K": [
+      318.43155
+    ],
+    "name_variants_c1": [
+      "2-(trimethylazaniumyl)acetate"
+    ],
+    "name_variants_c2": [
+      "2-hydroxybutanedioic acid"
+    ]
+  },
+  {
+    "c1": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+    "c2": "N-(2-methylphenyl)-2-(propylamino)propanamide",
+    "x1": "0.5",
+    "x2": "0.5",
+    "predicted_Tmelt_K": 290.21628,
+    "uncertainty_K": 22.97,
+    "similarity_score": 0.5232,
+    "RoomTemp_flag": true,
+    "WarmTemp_flag": false,
+    "ranking_score_room": 77.649,
+    "ranking_score_warm": null,
+    "metal_match_c1": {
+      "smiles": "CCN(CC)CC(=O)Nc1c(C)cccc1C",
+      "inchikey": "NNJVILVZKWQKPM-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.262244000956285,
+      "logK_std_Co": 0.9860047115805125,
+      "logK_mean_Ni": 3.4074212370656207,
+      "logK_std_Ni": 0.9015908042285227,
+      "logK_mean_both": 3.334832619010953,
+      "delta_Ni_minus_Co": 0.14517723610933553,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+      "rank_in_full_pool": 23
+    },
+    "metal_match_c2": {
+      "smiles": "CCCNC(C)C(=O)Nc1ccccc1C",
+      "inchikey": "MVFGUOIZUNYYSO-UHFFFAOYSA-N",
+      "logK_mean_Co": 2.148028120519103,
+      "logK_std_Co": 0.26231873531608224,
+      "logK_mean_Ni": 2.3474379377809944,
+      "logK_std_Ni": 0.12837002709988957,
+      "logK_mean_both": 2.247733029150049,
+      "delta_Ni_minus_Co": 0.19940981726189122,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": null,
+      "rank_in_full_pool": 49
+    },
+    "both_matched": true,
+    "metal_score": 5.582565648161002,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 1,
+    "all_Tmelt_K": [
+      290.21628
+    ],
+    "name_variants_c1": [
+      "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide"
+    ],
+    "name_variants_c2": [
+      "N-(2-methylphenyl)-2-(propylamino)propanamide"
+    ]
+  },
+  {
+    "c1": "5-methyl-2-propan-2-ylphenol",
+    "c2": "cyclohexanecarboxylic acid",
+    "x1": "0.29",
+    "x2": "0.71",
+    "predicted_Tmelt_K": 276.71942,
+    "uncertainty_K": 19.62,
+    "similarity_score": 0.7386,
+    "RoomTemp_flag": true,
+    "WarmTemp_flag": false,
+    "ranking_score_room": 80.914,
+    "ranking_score_warm": null,
+    "metal_match_c1": {
+      "smiles": "Cc1ccc(C(C)C)c(O)c1",
+      "inchikey": "MGSRCZKZVOBKFT-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.395754901385685,
+      "logK_std_Co": 0.7450763992123264,
+      "logK_mean_Ni": 3.8580697682973146,
+      "logK_std_Ni": 0.7595280098550953,
+      "logK_mean_both": 3.6269123348414998,
+      "delta_Ni_minus_Co": 0.4623148669116297,
+      "donor_atom_count": "1",
+      "low_confidence": false,
+      "systematic_name_if_top25": "5-methyl-2-propan-2-ylphenol",
+      "rank_in_full_pool": 21
+    },
+    "metal_match_c2": {
+      "smiles": "O=C(O)C1CCCCC1",
+      "inchikey": "NZNMSOFKMUBTKW-UHFFFAOYSA-N",
+      "logK_mean_Co": 1.82615988222854,
+      "logK_std_Co": 0.10908283681444103,
+      "logK_mean_Ni": 1.9017110291415384,
+      "logK_std_Ni": 0.18644823715728231,
+      "logK_mean_both": 1.8639354556850392,
+      "delta_Ni_minus_Co": 0.07555114691299836,
+      "donor_atom_count": "2",
+      "low_confidence": false,
+      "systematic_name_if_top25": null,
+      "rank_in_full_pool": 60
+    },
+    "both_matched": true,
+    "metal_score": 5.490847790526539,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 1,
+    "all_Tmelt_K": [
+      276.71942
+    ],
+    "name_variants_c1": [
+      "5-methyl-2-propan-2-ylphenol"
+    ],
+    "name_variants_c2": [
+      "cyclohexanecarboxylic acid"
+    ]
+  },
+  {
+    "c1": "Lidocaine",
+    "c2": "DL-camphor",
+    "x1": "0.438",
+    "x2": "0.562",
+    "predicted_Tmelt_K": 292.86667,
+    "uncertainty_K": 16.7,
+    "similarity_score": 0.9261,
+    "RoomTemp_flag": true,
+    "WarmTemp_flag": false,
+    "ranking_score_room": 91.426,
+    "ranking_score_warm": null,
+    "metal_match_c1": {
+      "smiles": "CCN(CC)CC(=O)Nc1c(C)cccc1C",
+      "inchikey": "NNJVILVZKWQKPM-UHFFFAOYSA-N",
+      "logK_mean_Co": 3.262244000956285,
+      "logK_std_Co": 0.9860047115805125,
+      "logK_mean_Ni": 3.4074212370656207,
+      "logK_std_Ni": 0.9015908042285227,
+      "logK_mean_both": 3.334832619010953,
+      "delta_Ni_minus_Co": 0.14517723610933553,
+      "donor_atom_count": "3",
+      "low_confidence": false,
+      "systematic_name_if_top25": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+      "rank_in_full_pool": 23
+    },
+    "metal_match_c2": {
+      "smiles": "CC12CCC(CC1=O)C2(C)C",
+      "inchikey": "DSSYKIVIOFKYAU-UHFFFAOYSA-N",
+      "logK_mean_Co": 1.8990246504127295,
+      "logK_std_Co": 0.26934969135933867,
+      "logK_mean_Ni": 2.262025174567109,
+      "logK_std_Ni": 0.35366797720951104,
+      "logK_mean_both": 2.080524912489919,
+      "delta_Ni_minus_Co": 0.36300052415437967,
+      "donor_atom_count": "1",
+      "low_confidence": false,
+      "systematic_name_if_top25": null,
+      "rank_in_full_pool": 51
+    },
+    "both_matched": true,
+    "metal_score": 5.415357531500872,
+    "low_confidence_any": false,
+    "greenness_DES_score": null,
+    "n_molar_ratios_in_pool": 13,
+    "all_Tmelt_K": [
+      290.71033,
+      292.86667,
+      302.9719,
+      306.0399,
+      306.6531,
+      308.08047,
+      316.2426,
+      319.66953,
+      325.73083,
+      329.16534,
+      329.99774,
+      337.5144,
+      341.01575
+    ],
+    "name_variants_c1": [
+      "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+      "Lidocaine"
+    ],
+    "name_variants_c2": [
+      "1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",
+      "DL-camphor"
+    ]
+  }
+]

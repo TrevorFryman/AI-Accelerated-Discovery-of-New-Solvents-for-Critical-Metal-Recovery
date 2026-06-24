@@ -1,0 +1,749 @@
+[
+  {
+    "cids": [
+      2723872,
+      5793
+    ],
+    "names": [
+      "(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+      "(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+    ],
+    "score": 9,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 0,
+      "Greenness": 9,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 9
+  },
+  {
+    "cids": [
+      2969,
+      16666
+    ],
+    "names": [
+      "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",
+      "decanoic acid"
+    ],
+    "score": 8,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 4,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 4
+  },
+  {
+    "cids": [
+      2969,
+      6989
+    ],
+    "names": [
+      "5-methyl-2-propan-2-ylphenol",
+      "decanoic acid"
+    ],
+    "score": 7,
+    "breadth": 2,
+    "detail": {
+      "MP_RDK_RT": 3,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": [
+        [
+          6989,
+          21
+        ]
+      ]
+    },
+    "total_raw_occurrences": 3
+  },
+  {
+    "cids": [
+      5793,
+      5988
+    ],
+    "names": [
+      "(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+      "(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol"
+    ],
+    "score": 7,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 0,
+      "Greenness": 7,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 7
+  },
+  {
+    "cids": [
+      5634,
+      6989
+    ],
+    "names": [
+      "5-methyl-2-propan-2-ylphenol",
+      "undec-10-enoic acid"
+    ],
+    "score": 5,
+    "breadth": 2,
+    "detail": {
+      "MP_RDK_RT": 2,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": [
+        [
+          6989,
+          21
+        ]
+      ]
+    },
+    "total_raw_occurrences": 2
+  },
+  {
+    "cids": [
+      985,
+      11005
+    ],
+    "names": [
+      "hexadecanoic acid",
+      "tetradecanoic acid"
+    ],
+    "score": 5,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 5,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 5
+  },
+  {
+    "cids": [
+      2723872,
+      5988
+    ],
+    "names": [
+      "(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+      "(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol"
+    ],
+    "score": 5,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 0,
+      "Greenness": 5,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 5
+  },
+  {
+    "cids": [
+      16666,
+      379
+    ],
+    "names": [
+      "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",
+      "octanoic acid"
+    ],
+    "score": 4,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 2,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 2
+  },
+  {
+    "cids": [
+      6209,
+      5780
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol"
+    ],
+    "score": 3,
+    "breadth": 2,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 2,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 3
+  },
+  {
+    "cids": [
+      379,
+      6989
+    ],
+    "names": [
+      "5-methyl-2-propan-2-ylphenol",
+      "octanoic acid"
+    ],
+    "score": 3,
+    "breadth": 2,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": [
+        [
+          6989,
+          21
+        ]
+      ]
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      2537,
+      3676
+    ],
+    "names": [
+      "Lidocaine",
+      "DL-camphor"
+    ],
+    "score": 3,
+    "breadth": 2,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": [
+        [
+          3676,
+          23
+        ]
+      ]
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      11005
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "tetradecanoic acid"
+    ],
+    "score": 3,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 3,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 3
+  },
+  {
+    "cids": [
+      2682,
+      6989
+    ],
+    "names": [
+      "hexadecan-1-ol",
+      "5-methyl-2-propan-2-ylphenol"
+    ],
+    "score": 2,
+    "breadth": 2,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": [
+        [
+          6989,
+          21
+        ]
+      ]
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      3248084,
+      11005
+    ],
+    "names": [
+      "tetramethylazanium;chloride",
+      "tetradecanoic acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 2,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 2
+  },
+  {
+    "cids": [
+      6209,
+      2682
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "hexadecan-1-ol"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 2,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 2
+  },
+  {
+    "cids": [
+      5946,
+      11005
+    ],
+    "names": [
+      "tetraethylazanium;chloride",
+      "tetradecanoic acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 2,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 2
+  },
+  {
+    "cids": [
+      5780,
+      247
+    ],
+    "names": [
+      "2-(trimethylazaniumyl)acetate",
+      "(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 0,
+      "Greenness": 2,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 2
+  },
+  {
+    "cids": [
+      6209,
+      335
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "2-methylphenol"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      16666,
+      107
+    ],
+    "names": [
+      "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",
+      "3-phenylpropanoic acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      1176,
+      6209
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "urea"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      70681,
+      11005
+    ],
+    "names": [
+      "tetrabutylazanium;chloride",
+      "tetradecanoic acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      996
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "phenol"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      2723872,
+      6209
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      5793
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      612
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "2-hydroxypropanoic acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      16666,
+      69702
+    ],
+    "names": [
+      "(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",
+      "3-cyclohexylpropanoic acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      379,
+      3893
+    ],
+    "names": [
+      "octanoic acid",
+      "dodecanoic acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      867
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "propanedioic acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      2969,
+      379
+    ],
+    "names": [
+      "Caprylic Acid",
+      "Capric Acid"
+    ],
+    "score": 2,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 1,
+      "MP_RDK_WT": 0,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6285,
+      743
+    ],
+    "names": [
+      "Glutaric Acid",
+      "[N2222]Br"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      10687
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "2,3-dimethylphenol"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      5946,
+      3893
+    ],
+    "names": [
+      "tetraethylazanium;chloride",
+      "dodecanoic acid"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      757
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "2-hydroxyacetic acid"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      985,
+      5946
+    ],
+    "names": [
+      "tetraethylazanium;chloride",
+      "hexadecanoic acid"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      743
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "pentanedioic acid"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      6209,
+      439195
+    ],
+    "names": [
+      "2-hydroxyethyl(trimethyl)azanium;chloride",
+      "(3R,4S,5S)-oxane-2,3,4,5-tetrol"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      385,
+      74745
+    ],
+    "names": [
+      "Pimelic Acid",
+      "[N3333]Br"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  },
+  {
+    "cids": [
+      79880,
+      985
+    ],
+    "names": [
+      "tetrapropylazanium;chloride",
+      "hexadecanoic acid"
+    ],
+    "score": 1,
+    "breadth": 1,
+    "detail": {
+      "MP_RDK_RT": 0,
+      "MP_RDK_WT": 1,
+      "Greenness": 0,
+      "MetalBinding_component_hits": []
+    },
+    "total_raw_occurrences": 1
+  }
+]
