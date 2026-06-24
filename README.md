@@ -16,6 +16,7 @@ ML Models —> Solvent Screening —> Experimental Validation
 > * Simple ML Models
 > * Greenness ML Models
 > * Metal-Ligand ML Model
+> * des_analysis 
 
 **Other used Repositories:**
 * https://github.com/chemprop/chemprop
